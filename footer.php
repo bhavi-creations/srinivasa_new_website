@@ -14,7 +14,7 @@
       </div>
 
       <div class="col-lg-2">
-        <h5>QUICK LINKS</h5>
+        <h5> LINKS</h5>
         <a href="#">Home</a>
         <a href="#">About Us</a>
         <a href="#">Services</a>
@@ -24,7 +24,7 @@
         <a href="#">Contact Us</a>
       </div>
 
-      <div class="col-lg-2">
+      <!-- <div class="col-lg-2">
         <h5>OUR SERVICES</h5>
         <a href="#">General Dentistry</a>
         <a href="#">Dental Implants</a>
@@ -32,14 +32,15 @@
         <a href="#">Orthodontics</a>
         <a href="#">Pediatric Dentistry</a>
         <a href="#">Root Canal Treatment</a>
-      </div>
+      </div> -->
 
-      <div class="col-lg-2">
+      <div class="col-lg-3">
         <h5>CONTACT US</h5>
-        <p><i class="bi bi-geo-alt me-2"></i> Plot No. 45, Main Road, Vizag</p>
-        <p><i class="bi bi-telephone me-2"></i> +91 98765 43210</p>
-        <p><i class="bi bi-envelope me-2"></i> info@srinivasadental.com</p>
-        <p><i class="bi bi-clock me-2"></i> Mon - Sat: 9AM - 8PM</p>
+        <p><i class="bi bi-geo-alt me-2"></i> 
+Rama Rao Peta, Kakinada, Andhra Pradesh 533001</p>
+        <p><i class="bi bi-telephone me-2"></i> +919290019948</p>
+        <p><i class="bi bi-envelope me-2"></i> srinivasadentalkakinada@gmail.com</p>
+        <p><i class="bi bi-clock me-2"></i> Mon - Sat: 9:00 AM - 8:30 PM  <br> &nbsp;  &nbsp;  &nbsp;  Sunday: 9:00 AM - 1:00 PM    </p>
       </div>
 
       <div class="col-lg-3">

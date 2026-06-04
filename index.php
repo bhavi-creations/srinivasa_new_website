@@ -12,8 +12,8 @@
       </p>
 
       <div class="d-flex gap-3 flex-wrap">
-        <button class="home_section_btn_blue">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
-        <button class="home_section_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
+        <a href="appointment_srinivasa_dental_hospital.php"><button class="home_section_btn_blue">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
+        <a href="contact_srinivasa_multispeciality_dental_hospital.php"><button class="home_section_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
       </div>
 
       <div class="home_section_features">
@@ -34,10 +34,19 @@
   </div>
 
   <div class="home_section_floating_contact">
-    <div class="home_section_float_item"><i class="bi bi-telephone-fill"></i>Call Us</div>
-    <div class="home_section_float_item whatsapp"><i class="bi bi-whatsapp"></i>WhatsApp</div>
-    <div class="home_section_float_item"><i class="bi bi-geo-alt-fill"></i>Location</div>
-  </div>
+    <!-- Call Link -->
+<a href="tel:+919290019948" class="home_section_float_item text-decoration-none text-reset">
+    <i class="bi bi-telephone-fill"></i>Call Us
+</a>
+
+<!-- WhatsApp Link -->
+<a href="https://wa.me/919290019948?text=Hi!%20I%20am%20interested%20in%20your%20services." target="_blank" class="home_section_float_item whatsapp text-decoration-none text-reset">
+    <i class="bi bi-whatsapp"></i>WhatsApp
+</a>
+    <!-- <div class="home_section_float_item"><i class="bi bi-telephone-fill"></i>Call Us</div>
+    <div class="home_section_float_item whatsapp"><i class="bi bi-whatsapp"></i>WhatsApp</div> -->
+   <a href="https://share.google/UqH0YaDpLaXSGi8qX" target="_blank"> <div class="home_section_float_item"><i class="bi bi-geo-alt-fill"></i>Location</div>
+  </div></a>
 </section>
 
 <div class="container">
@@ -132,15 +141,15 @@
       <div class="row g-4">
         <div class="col-lg-3 col-md-6 home_section_stat_item">
           <i class="bi bi-crown"></i>
-          <div><div class="home_section_stat_number">15+</div><small>Years of Excellence</small></div>
+          <div><div class="home_section_stat_number">11+</div><small>Years of Excellence</small></div>
         </div>
         <div class="col-lg-3 col-md-6 home_section_stat_item">
           <i class="bi bi-people"></i>
-          <div><div class="home_section_stat_number">5000+</div><small>Happy Patients</small></div>
+          <div><div class="home_section_stat_number">8126+</div><small>Happy Patients</small></div>
         </div>
         <div class="col-lg-3 col-md-6 home_section_stat_item">
           <i class="bi bi-person-badge"></i>
-          <div><div class="home_section_stat_number">25+</div><small>Expert Doctors</small></div>
+          <div><div class="home_section_stat_number">10+</div><small>Expert Doctors</small></div>
         </div>
         <div class="col-lg-3 col-md-6 home_section_stat_item">
           <i class="bi bi-shield-check"></i>
@@ -167,7 +176,7 @@
           <li><i class="bi bi-check-circle-fill"></i> Personalized care for every patient</li>
         </ul>
 
-        <button class="home_section_btn_blue">ABOUT US <i class="bi bi-arrow-right ms-2"></i></button>
+       <a href="about_srinivasa_multispeciality_dental_hospital.php"> <button class="home_section_btn_blue">ABOUT US <i class="bi bi-arrow-right ms-2"></i></button></a>
       </div>
 
       <div class="col-lg-5">

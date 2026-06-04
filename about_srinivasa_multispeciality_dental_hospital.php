@@ -11,9 +11,9 @@
                 <p class="about_section_hero_text">
                     At Srinivasa Dental, we are committed to providing world-class dental care with compassion, innovation, and excellence. Your smile is our passion.
                 </p>
-                <button class="about_section_btn_blue">
+              <a href="appointment_srinivasa_multispeciality_dental_hospital.php">  <button class="about_section_btn_blue">
                     BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i>
-                </button>
+                </button></a>
             </div>
         </div>
 
@@ -26,21 +26,21 @@
                 <div class="col-lg col-md-4 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-emoji-smile"></i></div>
                     <div>
-                        <div class="about_section_stat_number">15+</div><small>Years of Excellence</small>
+                        <div class="about_section_stat_number">11+</div><small>Years of Excellence</small>
                     </div>
                 </div>
 
                 <div class="col-lg col-md-4 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-people"></i></div>
                     <div>
-                        <div class="about_section_stat_number">5000+</div><small>Happy Patients</small>
+                        <div class="about_section_stat_number">8126+</div><small>Happy Patients</small>
                     </div>
                 </div>
 
                 <div class="col-lg col-md-4 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-person-badge"></i></div>
                     <div>
-                        <div class="about_section_stat_number">25+</div><small>Expert Doctors</small>
+                        <div class="about_section_stat_number">10+</div><small>Expert Doctors</small>
                     </div>
                 </div>
 
@@ -54,7 +54,7 @@
                 <div class="col-lg col-md-4 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-award"></i></div>
                     <div>
-                        <div class="about_section_stat_number">50+</div><small>Advanced Treatments</small>
+                        <div class="about_section_stat_number">500+</div><small> Implants  </small>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                             <div class="about_section_mission_icon"><i class="bi bi-bullseye"></i></div>
                             <div>
                                 <h5>Our Mission</h5>
-                                <p>To deliver exceptional dental care with honesty, compassion, and the latest technology, ensuring healthy smiles for a lifetime.</p>
+                                <p>To set a new standard in dental care by combining heartfelt hospitality, technology & trust.</p>
                             </div>
                         </div>
 
@@ -98,7 +98,7 @@
                             <div class="about_section_mission_icon"><i class="bi bi-eye"></i></div>
                             <div>
                                 <h5>Our Vision</h5>
-                                <p>To be the most trusted dental care provider, recognized for excellence, innovation, and patient satisfaction.</p>
+                                <p>To be the most reliable & innovative dental care provider in kakinada & to deliver 1 lakh+ happy smiles through trust,painless dental treatments in the next coming 5 years</p>
                             </div>
                         </div>
 
@@ -168,12 +168,43 @@
                     <div class="col-lg-4">
                         <div class="about_section_founder_content">
                             <div class="about_section_small_title">MEET OUR FOUNDER</div>
-                            <h2 class="about_section_founder_name">Dr. Srinivasa Rao</h2>
-                            <h6 style="color:#d9a441;">BDS, MDS (Oral & Maxillofacial Surgeon)</h6>
+                            <h2 class="about_section_founder_name">DR. KIRAN RAJU</h2>
+                            <h6 style="color:#d9a441;">MDS - Orthodontist and Invisalign Gold</h6>
                             <p class="mt-4">
-                                With over 15+ years of experience in dentistry, Dr. Srinivasa Rao leads our team with a vision to provide ethical, advanced, and patient-centric dental care.
+                               MDS - Orthodontist and Invisalign Gold provider brought global advancements like Invisalign & iTero to Kakinada, guided by the belief: "Our people deserve the world's best too."
                             </p>
-                            <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4>
+                            <!-- <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4> -->
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <img class="about_section_founder_img" src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=800&q=80" alt="">
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="about_section_founder_list">
+                            <p><i class="bi bi-check-circle"></i> Expert in Advanced Dental Implants</p>
+                            <p><i class="bi bi-check-circle"></i> Specialist in Facial & Smile Makeovers</p>
+                            <p><i class="bi bi-check-circle"></i> Member of Indian Dental Association</p>
+                            <p><i class="bi bi-check-circle"></i> Certified in Advanced Implantology</p>
+                            <p><i class="bi bi-check-circle"></i> Passionate about Patient Care</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="about_section_founder">
+                <div class="row g-0 align-items-center">
+                    <div class="col-lg-4">
+                        <div class="about_section_founder_content">
+                            <!-- <div class="about_section_small_title">MEET OUR FOUNDER</div> -->
+                            <h2 class="about_section_founder_name">DR. LAKSHMI DEEPIKA</h2>
+                            <h6 style="color:#d9a441;">MDS - Implantologist & Periodontist</h6>
+                            <p class="mt-4">
+                           Recognized for her precision in implants, gum treatments, and full-mouth rehabilitation. Her work has restored not just teeth, but the dignity of countless patients.
+                            </p>
+                            <!-- <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4> -->
                         </div>
                     </div>
 

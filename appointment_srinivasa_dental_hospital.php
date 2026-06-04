@@ -143,14 +143,14 @@
                         <p>Our friendly team is here to assist you.</p>
 
                         <div class="apointment_section_contact_item">
-                            <i class="bi bi-telephone"></i> +91 98765 43210
+                            <i class="bi bi-telephone"></i> +919290019948
                         </div>
                         <div class="apointment_section_contact_item">
-                            <i class="bi bi-envelope"></i> info@srinivasadental.com
+                            <i class="bi bi-envelope"></i>  srinivasadentalkakinada@gmail.com
                         </div>
                         <div class="apointment_section_contact_item">
                             <i class="bi bi-clock"></i>
-                            <span>Mon - Sat: 9:00 AM - 8:00 PM<br>Sunday: 10:00 AM - 4:00 PM</span>
+                            <span> Mon - Sat: 9:00 AM - 8:30 PM  <br>   Sunday: 9:00 AM - 1:00 PM  </span>
                         </div>
                     </div>
 

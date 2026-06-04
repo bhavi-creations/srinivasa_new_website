@@ -20,9 +20,10 @@
 
 <nav class="navbar navbar-expand-lg home_section_navbar">
     <div class="container">
-        <a class="navbar-brand home_section_logo" href="#">
+        <!-- <a class="navbar-brand home_section_logo" href="#">
             🦷 SRINIVASA <span>DENTAL</span>
-        </a>
+        </a> -->
+        <img src="./assets/img/srinivasa.png" alt=" logo" class="img-fluid" style="max-width: 250px;">
 
         <button class="navbar-toggler bg-light" data-bs-toggle="collapse" data-bs-target="#home_section_menu">
             <span class="navbar-toggler-icon"></span>
@@ -31,14 +32,14 @@
         <div class="collapse navbar-collapse" id="home_section_menu">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item"><a class="nav-link" href="index.php">HOME</a></li>
-                <li class="nav-item"><a class="nav-link" href="about.php">ABOUT US</a></li>
-                <li class="nav-item"><a class="nav-link" href="services.php">SERVICES</a></li>
+                <li class="nav-item"><a class="nav-link" href="about_srinivasa_multispeciality_dental_hospital.php">ABOUT US</a></li>
+                <li class="nav-item"><a class="nav-link" href="services_srinivasa_multispeciality_dental_hospital.php">SERVICES</a></li>
                 <!-- <li class="nav-item"><a class="nav-link" href="doctors.php">DOCTORS</a></li> -->
-                <li class="nav-item"><a class="nav-link" href="gallery.php">GALLERY</a></li>
-                <li class="nav-item"><a class="nav-link" href="blog.php">BLOG</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">CONTACT</a></li>
+                <!-- <li class="nav-item"><a class="nav-link" href="gallery.php">GALLERY</a></li> -->
+                <li class="nav-item"><a class="nav-link" href="blogs_srinivasa_multispeciality_dental_hospital.php">BLOG</a></li>
+                <li class="nav-item"><a class="nav-link" href="contact_srinivasa_multispeciality_dental_hospital.php">CONTACT</a></li>
             </ul>
-            <a href="appointment.php">
+            <a href="appointment_srinivasa_dental_hospital.php">
             <button class="home_section_btn_gold">
                 <i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT
             </button></a>

@@ -109,7 +109,7 @@
                                 placeholder="Enter your email address">
                         </div>
 
-                        <div class="row">
+                        <!-- <div class="row">
 
                             <div class="col-md-6 mb-3">
                                 <label>Subject *</label>
@@ -133,7 +133,7 @@
                                 </select>
                             </div>
 
-                        </div>
+                        </div> -->
 
                         <div class="mb-3">
                             <label>Message *</label>

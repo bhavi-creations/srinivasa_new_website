@@ -76,66 +76,136 @@
   </div>
 </div>
 
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+
 <section class="home_section_common_padding">
   <div class="container">
     <div class="home_section_heading_small">— OUR SERVICES —</div>
     <h2 class="home_section_heading">Complete Dental Care for <span>You & Your Family</span></h2>
 
-    <div class="row g-4">
-      <div class="col-lg-2 col-md-4 col-sm-6">
-        <div class="home_section_service_card">
-          <div class="home_section_service_icon"><i class="bi bi-heart-pulse"></i></div>
-          <h5>General Dentistry</h5>
-          <p>Complete care for healthy teeth & gums</p>
-          <a class="home_section_service_link" href="#">LEARN MORE →</a>
-        </div>
-      </div>
+    <div class="swiper home_services_swiper">
+      <div class="swiper-wrapper">
 
-      <div class="col-lg-2 col-md-4 col-sm-6">
-        <div class="home_section_service_card">
-          <div class="home_section_service_icon"><i class="bi bi-award"></i></div>
-          <h5>Dental Implants</h5>
-          <p>Permanent solutions for missing teeth</p>
-          <a class="home_section_service_link" href="#">LEARN MORE →</a>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-heart-pulse"></i></div>
+            <h5>Root Canal</h5>
+            <p>A root canal is a dental procedure that removes infected tissue from inside a tooth to relieve pain and save the tooth</p>
+            <a class="home_section_service_link" href="root_canal_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
         </div>
-      </div>
 
-      <div class="col-lg-2 col-md-4 col-sm-6">
-        <div class="home_section_service_card">
-          <div class="home_section_service_icon"><i class="bi bi-stars"></i></div>
-          <h5>Cosmetic Dentistry</h5>
-          <p>Enhance your smile with confidence</p>
-          <a class="home_section_service_link" href="#">LEARN MORE →</a>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-award"></i></div>
+            <h5>Dental braces</h5>
+            <p>Dental braces are orthodontic devices used to align and straighten teeth, improving dental health and appearance.</p>
+            <a class="home_section_service_link" href="dental_braces_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
         </div>
-      </div>
 
-      <div class="col-lg-2 col-md-4 col-sm-6">
-        <div class="home_section_service_card">
-          <div class="home_section_service_icon"><i class="bi bi-braces"></i></div>
-          <h5>Orthodontics</h5>
-          <p>Straighten your teeth beautifully</p>
-          <a class="home_section_service_link" href="#">LEARN MORE →</a>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-stars"></i></div>
+            <h5>Dental implants</h5>
+            <p>Dental implants are artificial tooth roots placed in the jawbone to support and anchor replacement teeth or bridges.</p>
+            <a class="home_section_service_link" href="dental_implants_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
         </div>
-      </div>
 
-      <div class="col-lg-2 col-md-4 col-sm-6">
-        <div class="home_section_service_card">
-          <div class="home_section_service_icon"><i class="bi bi-balloon-heart"></i></div>
-          <h5>Pediatric Dentistry</h5>
-          <p>Gentle care for your little ones</p>
-          <a class="home_section_service_link" href="#">LEARN MORE →</a>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-braces"></i></div>
+            <h5>Tooth Crowns & Bridges</h5>
+            <p>Tooth crowns and bridges are restorative dental solutions used to restore damaged teeth and replace missing ones, improving both function and appearance.</p>
+            <a class="home_section_service_link" href="dentalcrown_bridge_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
         </div>
-      </div>
 
-      <div class="col-lg-2 col-md-4 col-sm-6">
-        <div class="home_section_service_card">
-          <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
-          <h5>Teeth Whitening</h5>
-          <p>Brighter smile, instant confidence</p>
-          <a class="home_section_service_link" href="#">LEARN MORE →</a>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-balloon-heart"></i></div>
+            <h5>Teeth Filling</h5>
+            <p>A teeth filling is a dental procedure to restore the function and integrity of a damaged tooth by filling cavities with materials like composite resin or amalgam.</p>
+            <a class="home_section_service_link" href="#">LEARN MORE →</a>
+          </div>
         </div>
+
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <h5>Dentures</h5>
+            <p>Dentures are removable prosthetic devices designed to replace missing teeth and restore function and appearance to the mouth.</p>
+            <a class="home_section_service_link" href="#">LEARN MORE →</a>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+        <!-- new new  -->
+         <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <h5>Teeth Scaling</h5>
+            <p>Teeth scaling is a dental procedure that removes plaque and tartar buildup from the tooth surfaces and below the gum line to maintain oral health.</p>
+            <a class="home_section_service_link" href="teeth_scaling_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <h5>Tooth Extraction</h5>
+            <p>Tooth extraction is the removal of a tooth from its socket in the jawbone, often due to decay, damage, or crowding.</p>
+            <a class="home_section_service_link" href="tooth_extraction_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <h5>Clear Aligners</h5>
+            <p>Clear aligners are transparent, custom trays that straighten teeth by gradually shifting them into proper alignment</p>
+            <a class="home_section_service_link" href="invisalignaligners_clearaligners_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <h5>Teeth Whitening</h5>
+            <p>Teeth whitening is a cosmetic procedure that lightens the color of teeth to enhance their brightness and improve your smile's appearance.</p>
+            <a class="home_section_service_link" href="teeth_whitning_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <h5>Smile Makeover</h5>
+            <p>A smile makeover is a comprehensive cosmetic dental treatment designed to enhance the overall appearance of your smile through a combination of procedures.</p>
+            <a class="home_section_service_link" href="smile_makeover_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="home_section_service_card">
+            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <h5>Full Mouth Restoration</h5>
+            <p>Full mouth restoration is a comprehensive dental treatment that repairs and rebuilds the entire mouth to restore function, health, and aesthetics.</p>
+            <a class="home_section_service_link" href="fullmouthrestrotion_treatment_in_kakinada.php">LEARN MORE →</a>
+          </div>
+        </div>
+
       </div>
+<div class="d-flex justify-content-center mt-4">
+        <a href="services_srinivasa_multispeciality_dental_hospital.php"><button class="home_section_btn_outline">Know More</button></a>
+</div>
+      <!-- <div class="swiper-pagination mt-4"></div> -->
     </div>
+
+    
 
     <div class="home_section_stats">
       <div class="row g-4">
@@ -160,6 +230,11 @@
   </div>
 </section>
 
+
+
+
+
+
 <section class="home_section_about">
   <div class="container">
     <div class="row align-items-center g-5">
@@ -180,7 +255,7 @@
       </div>
 
       <div class="col-lg-5">
-        <img class="home_section_about_img" src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=900&q=80">
+        <img class="home_section_about_img" src="./assets/img/srinivasa dental.webp" alt="srinivasa-dental">
       </div>
 
       <div class="col-lg-3">
@@ -247,5 +322,39 @@
     </div>
   </div>
 </section>
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+new Swiper(".home_services_swiper", {
+  slidesPerView: 3,
+  slidesPerGroup: 1,
+  spaceBetween: 24,
+  loop: true,
+
+  autoplay: {
+    delay: 3000,
+    disableOnInteraction: false
+  },
+
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true
+  },
+
+  breakpoints: {
+    0: {
+      slidesPerView: 1
+    },
+    576: {
+      slidesPerView: 2
+    },
+    992: {
+      slidesPerView: 3
+    }
+  }
+});
+</script>
 
 <?php include 'footer.php'; ?>

@@ -41,7 +41,7 @@
                             </div>
                         </div>
 
-                        <form>
+                        <!-- <form>
                             <label class="apointment_section_label">Full Name <span>*</span></label>
                             <div class="apointment_section_input_group">
                                 <i class="bi bi-person"></i>
@@ -78,7 +78,7 @@
                                 </div>
                             </div>
 
-                            <label class="apointment_section_label">Select Service <span>*</span></label>
+                             <label class="apointment_section_label">Select Service <span>*</span></label>
                             <div class="apointment_section_input_group">
                                 <i class="bi bi-heart-pulse"></i>
                                 <select class="apointment_section_select" required>
@@ -98,7 +98,7 @@
                                     <option>Dr. Srinivasa Rao</option>
                                     <option>Dr. Srikanth R.</option>
                                 </select>
-                            </div>
+                            </div> 
 
                             <label class="apointment_section_label">Message (Optional)</label>
                             <div class="apointment_section_input_group">
@@ -113,7 +113,59 @@
                             <div class="apointment_section_secure">
                                 <i class="bi bi-lock"></i> Your information is secure and confidential.
                             </div>
-                        </form>
+                        </form> -->
+                    
+                    <form action="appointment_mail.php" method="POST">
+
+    <label class="apointment_section_label">Full Name <span>*</span></label>
+    <div class="apointment_section_input_group">
+        <i class="bi bi-person"></i>
+        <input type="text" name="full_name" class="apointment_section_input" placeholder="Enter your full name" required>
+    </div>
+
+    <label class="apointment_section_label">Phone Number <span>*</span></label>
+    <div class="apointment_section_input_group">
+        <i class="bi bi-telephone"></i>
+        <input type="text" name="phone" class="apointment_section_input" placeholder="Enter your phone number" required>
+    </div>
+
+    <label class="apointment_section_label">Email Address</label>
+    <div class="apointment_section_input_group">
+        <i class="bi bi-envelope"></i>
+        <input type="email" name="email" class="apointment_section_input" placeholder="Enter your email address">
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <label class="apointment_section_label">Select Date <span>*</span></label>
+            <div class="apointment_section_input_group">
+                <i class="bi bi-calendar-event"></i>
+                <input type="date" name="appointment_date" class="apointment_section_input" required>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <label class="apointment_section_label">Select Time <span>*</span></label>
+            <div class="apointment_section_input_group">
+                <i class="bi bi-clock"></i>
+                <input type="time" name="appointment_time" class="apointment_section_input" required>
+            </div>
+        </div>
+    </div>
+
+    <label class="apointment_section_label">Message (Optional)</label>
+    <div class="apointment_section_input_group">
+        <i class="bi bi-pencil"></i>
+        <textarea name="message" class="apointment_section_textarea" placeholder="Tell us about your concern"></textarea>
+    </div>
+
+    <button type="submit" class="apointment_section_submit">
+        <i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT
+    </button>
+
+</form>
+                    
+                    
                     </div>
                 </div>
 

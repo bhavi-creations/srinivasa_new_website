@@ -2796,7 +2796,8 @@
       position:relative;
       background:
         linear-gradient(90deg,#fff 0%,#fff 41%,rgba(255,255,255,.08) 100%),
-        url("https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1500&q=80");
+        url("./assets/img/rootcanal.png");
+        /* url("https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1500&q=80"); */
       background-size:cover;
       background-position:center right;
       padding:28px 0 60px;

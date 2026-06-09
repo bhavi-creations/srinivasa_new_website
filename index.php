@@ -287,11 +287,12 @@
       <div class="col-lg-4">
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
-          <p>The best dental experience I've ever had! The team is so professional and caring.</p>
+          <p>I’m so glad that I chose this dental clinic. This clinic is so clean and also, the dentists and the staff are very friendly and well spoken. They are so considerate while doing the procedure too!</p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
             <img src="https://randomuser.me/api/portraits/women/44.jpg">
-            <div><b>Anitha R.</b><br><small>Patient</small></div>
+            <div><b>Marina Masa</b><br></div>
+            <!-- <div><b>Marina Masa</b><br><small>Patient</small></div> -->
           </div>
         </div>
       </div>
@@ -299,11 +300,11 @@
       <div class="col-lg-4">
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
-          <p>Advanced technology and painless treatment. Highly recommend Srinivasa Dental.</p>
+          <p>First of all I have to thank to Dr.Kiran Raju sir the way he was treat me very nice and he was give the excellent treatment for my problem also the staff members are all very respectfull to the patients and thank you 🙏 for the wonder-full experience’s in Srinivasa Multispeciality Dental Hospital…</p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
             <img src="https://randomuser.me/api/portraits/men/32.jpg">
-            <div><b>Rakesh M.</b><br><small>Patient</small></div>
+            <div><b>mohid sheik</b><br></div>
           </div>
         </div>
       </div>
@@ -311,11 +312,16 @@
       <div class="col-lg-4">
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
-          <p>My smile makeover was amazing! Thank you for the wonderful care.</p>
+          <p>
+          Im happy with the service, have taken tooth filling treatment which went well <br> without pain. Well equipmented.<br>
+Good Hospitality from doctors and staff.<br>
+Much appreciated 👏  
+
+          </p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
             <img src="https://randomuser.me/api/portraits/women/68.jpg">
-            <div><b>Priya S.</b><br><small>Patient</small></div>
+            <div><b>Satya Pittala</b><br></div>
           </div>
         </div>
       </div>

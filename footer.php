@@ -6,22 +6,24 @@
         <div class="home_section_logo mb-3">🦷 SRINIVASA <span>DENTAL</span></div>
         <p>At Srinivasa Dental, we are dedicated to providing world-class dental care with compassion and excellence.</p>
         <div class="home_section_social">
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-youtube"></i></a>
-          <a href="#"><i class="bi bi-whatsapp"></i></a>
+          <a href="https://www.facebook.com/srinivasadentalkakinada/" target="_blank"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.instagram.com/srinivasadentalkakinada/" target="_blank"><i class="bi bi-instagram"></i></a>
+          <a href="https://www.youtube.com/@srinivasadentalkakinada" target="_blank"><i class="bi bi-youtube"></i></a>
+          <a href="https://www.linkedin.com/login/?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2F99449038%2Fadmin%2Fdashboard%2F" target="_blank"><i class="bi bi-whatsapp"></i></a>
         </div>
       </div>
 
       <div class="col-lg-2">
         <h5> LINKS</h5>
-        <a href="#">Home</a>
-        <a href="#">About Us</a>
-        <a href="#">Services</a>
-        <a href="#">Doctors</a>
-        <a href="#">Gallery</a>
-        <a href="#">Blog</a>
-        <a href="#">Contact Us</a>
+        <a href="index.php">Home</a>
+        <a href="about_srinivasa_multispeciality_dental_hospital.php">About Us</a>
+        <a href="services_srinivasa_multispeciality_dental_hospital.php">Services</a>
+       
+        
+        <a href="blogs_srinivasa_multispeciality_dental_hospital.php">Blog</a>
+        <a href="news_letter1.php"> News Letter</a>
+        <a href="contact_srinivasa_multispeciality_dental_hospital.php">Contact Us</a>
+        <a href="appointment_srinivasa_dental_hospital.php">Apointment</a>
       </div>
 
       <!-- <div class="col-lg-2">

@@ -118,8 +118,8 @@
         <div class="col-lg-1"><div class="tooth_extraction_cta_icon"><i class="bi bi-calendar-event"></i></div></div>
         <div class="col-lg-5"><h3>Relieve Pain & Save Your Smile</h3><p class="mb-0">Book your appointment today and let our experts take care of your dental health.</p></div>
         <div class="col-lg-6 text-lg-end">
-          <button class="tooth_extraction_btn_gold"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button>
-          <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-whatsapp me-2"></i> WHATSAPP US</button>
+       <a href="appointment_srinivasa_dental_hospital.php">   <button class="tooth_extraction_btn_gold"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button></a>
+        <a href="https://wa.me/919290019948?text=Hi!%20I%20am%20interested%20in%20your%20services." target="_blank">  <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-whatsapp me-2"></i> WHATSAPP US</button></a>
         </div>
       </div>
     </div>

@@ -214,8 +214,8 @@
           <p class="mb-0">Book your consultation today and take the first step towards a confident, beautiful smile.</p>
         </div>
         <div class="col-lg-6 text-lg-end">
-          <button class="tooth_extraction_btn_gold"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button>
-          <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
+        <a href="appointment_srinivasa_dental_hospital.php"></a>  <button class="tooth_extraction_btn_gold"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button>
+        <a href="contact_srinivasa_multispeciality_dental_hospital.php"></a>  <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
         </div>
       </div>
     </div>

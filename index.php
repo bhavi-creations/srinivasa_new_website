@@ -290,7 +290,7 @@
           <p>I’m so glad that I chose this dental clinic. This clinic is so clean and also, the dentists and the staff are very friendly and well spoken. They are so considerate while doing the procedure too!</p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <img src="https://randomuser.me/api/portraits/women/44.jpg">
+            <!-- <img src="https://randomuser.me/api/portraits/women/44.jpg"> -->
             <div><b>Marina Masa</b><br></div>
             <!-- <div><b>Marina Masa</b><br><small>Patient</small></div> -->
           </div>
@@ -303,7 +303,7 @@
           <p>First of all I have to thank to Dr.Kiran Raju sir the way he was treat me very nice and he was give the excellent treatment for my problem also the staff members are all very respectfull to the patients and thank you 🙏 for the wonder-full experience’s in Srinivasa Multispeciality Dental Hospital…</p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <img src="https://randomuser.me/api/portraits/men/32.jpg">
+            <!-- <img src="https://randomuser.me/api/portraits/men/32.jpg"> -->
             <div><b>mohid sheik</b><br></div>
           </div>
         </div>
@@ -320,7 +320,7 @@ Much appreciated 👏
           </p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <img src="https://randomuser.me/api/portraits/women/68.jpg">
+            <!-- <img src="https://randomuser.me/api/portraits/women/68.jpg"> -->
             <div><b>Satya Pittala</b><br></div>
           </div>
         </div>

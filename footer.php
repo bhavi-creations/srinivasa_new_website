@@ -3,7 +3,12 @@
   <div class="container">
     <div class="row g-4">
       <div class="col-lg-3">
-        <div class="home_section_logo mb-3">🦷 SRINIVASA <span>DENTAL</span></div>
+        <div class="home_section_logo mb-3">
+          <!-- 🦷 SRINIVASA <span>DENTAL</span> -->
+                   <img src="./assets/img/srinivasa.png" alt=" logo" class="img-fluid" style="max-width: 250px;">
+
+        
+        </div>
         <p>At Srinivasa Dental, we are dedicated to providing world-class dental care with compassion and excellence.</p>
         <div class="home_section_social">
           <a href="https://www.facebook.com/srinivasadentalkakinada/" target="_blank"><i class="bi bi-facebook"></i></a>
@@ -48,17 +53,17 @@ Rama Rao Peta, Kakinada, Andhra Pradesh 533001</p>
       <div class="col-lg-3">
         <h5>GALLERY</h5>
         <div class="home_section_gallery">
-          <img src="https://images.unsplash.com/photo-1629909615184-74f495363b67?auto=format&fit=crop&w=300&q=80">
-          <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=300&q=80">
-          <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=300&q=80">
-          <img src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=300&q=80">
-          <img src="https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=300&q=80">
-          <img src="https://images.unsplash.com/photo-1593022356769-11f762e25ed9?auto=format&fit=crop&w=300&q=80">
+          <img src="assets\img\Rootcanal_treatment.jpg" class="img-fluid">
+          <img src="assets\img\Dental braces treatment .jpg" class="img-fluid">
+          <img src="assets\img\Teeth_whitning_1.jpg" class="img-fluid">
+          <img src="assets\img\Dental_implants121.jpeg" class="img-fluid">
+          <img src="assets\img\Veneers121.jpeg" class="img-fluid">
+          <img src="assets\img\tooth filling.jpeg" class="img-fluid">
         </div>
       </div>
     </div>
 
-    <div class="home_section_newsletter">
+    <!-- <div class="home_section_newsletter">
       <div class="row align-items-center">
         <div class="col-lg-6">
           <h5><i class="bi bi-envelope me-2"></i> Subscribe to our Newsletter</h5>
@@ -71,10 +76,10 @@ Rama Rao Peta, Kakinada, Andhra Pradesh 533001</p>
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="home_section_copyright d-flex justify-content-between flex-wrap">
-      <div>© 2024 Srinivasa Dental. All Rights Reserved.</div>
+      <div>© 2026 Srinivasa Dental. All Rights Reserved.</div>
       <div>Privacy Policy &nbsp; | &nbsp; Terms & Conditions</div>
     </div>
   </div>

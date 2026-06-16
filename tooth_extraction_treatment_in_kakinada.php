@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 
-<section class="tooth_extraction_hero">
+<section class="tooth_extraction_hero tooth_extraction_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
       <i class="bi bi-house-door"></i> Home <i class="bi bi-chevron-right mx-2"></i> Services <i class="bi bi-chevron-right mx-2"></i> <b>Tooth Extraction</b>
@@ -25,13 +25,13 @@
     <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
     <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
 
-    <div class="tooth_extraction_video_box">
+    <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
       <div>
         <h5>HOW IT WORKS</h5>
         <p class="mb-0">Watch our video to see how tooth extraction is done safely and comfortably.</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
 
@@ -67,7 +67,7 @@
               <li><i class="bi bi-check-circle-fill"></i> Non-restorable fractured teeth</li>
             </ul>
           </div>
-          <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=500&q=80">
+          <img src="assets\img\Teeth_ectraction.jpg">
         </div>
       </div>
 
@@ -115,8 +115,8 @@
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
-            <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=500&q=80">
-            <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=500&q=80">
+            <img src="assets\img\Before_extraction.jpg">
+            <img src="assets\img\After_extraction.jpg">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
         </div>

@@ -2,7 +2,7 @@
 
  
 
-    <section class="clear_aligners_hero">
+    <section class="clear_aligners_hero ">
         <div class="container">
             <div class="clear_aligners_breadcrumb">
                 <i class="bi bi-house-door me-2"></i> Home <i class="bi bi-chevron-right mx-2"></i> Services <i class="bi bi-chevron-right mx-2"></i> <b>Clear Aligners</b>
@@ -28,11 +28,11 @@
                 <i class="bi bi-telephone me-2"></i> CALL US NOW
             </button>
 
-            <div class="clear_aligners_video_box">
+            <!-- <div class="clear_aligners_video_box">
                 <div class="clear_aligners_play"><i class="bi bi-play-fill"></i></div>
                 <h5>HOW IT WORKS</h5>
                 <p class="mb-0">Watch our video to see how clear aligners work and transform your smile.</p>
-            </div>
+            </div> -->
         </div>
     </section>
 
@@ -148,8 +148,8 @@
                     <div class="clear_aligners_info_card">
                         <h3>Before & After</h3>
                         <div class="clear_aligners_before_after">
-                            <img src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=500&q=80">
-                            <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+                            <img src="assets\img\Before_clearalligners1.jpg">
+                            <img src="assets\img\After_clearalligners1.jpg">
                         </div>
                         <div class="clear_aligners_ba_label">
                             <span>BEFORE</span>

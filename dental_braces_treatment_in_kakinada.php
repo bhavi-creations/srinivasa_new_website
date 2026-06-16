@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<section class="tooth_extraction_hero">
+<section class="tooth_extraction_hero Dental_braces_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
       <i class="bi bi-house-door"></i> Home 
@@ -11,12 +11,12 @@
 
     <h1 class="tooth_extraction_title">DENTAL BRACES</h1>
     <h2 class="tooth_extraction_subtitle">
-      Straighten Your Smile.<br>
-      Boost Your Confidence.
+      Align Your Teeth.<br>
+      Transform Your Appearance.
     </h2>
 
     <p class="tooth_extraction_text">
-      Dental braces help correct misaligned teeth and jaws, improving your smile, bite function, and overall oral health.
+      Dental braces gradually align your teeth, improving both function and appearance for a healthier, more confident smile.
     </p>
 
     <div class="tooth_extraction_features">
@@ -29,14 +29,14 @@
     <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
     <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
 
-    <div class="tooth_extraction_video_box">
+    <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
       <div>
         <h5>HOW IT WORKS</h5>
         <p class="mb-0">Watch our video to see how braces can transform your smile.</p>
       </div>
     </div>
-  </div>
+  </div> -->
 </section>
 
 <section class="tooth_extraction_icon_strip">
@@ -61,33 +61,33 @@
     <div class="row g-4">
       <div class="col-lg-3 col-md-6">
         <div class="tooth_extraction_card">
-          <img class="w-100 rounded mb-3" src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+          <img class="w-100 rounded mb-3" src=".\assets\img\metal_braces.jpg">
           <h3>Metal Braces</h3>
-          <p>Traditional and most effective. Highly durable and ideal for all types of corrections.</p>
+          <p>Strong and effective braces that correct crowded, crooked, and misaligned teeth with precision.</p>
         </div>
       </div>
 
       <div class="col-lg-3 col-md-6">
         <div class="tooth_extraction_card">
-          <img class="w-100 rounded mb-3" src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=500&q=80">
+          <img class="w-100 rounded mb-3" src=".\assets\img\ceramic_braces.jpg">
           <h3>Ceramic Braces</h3>
-          <p>Tooth-colored braces that blend with your natural teeth for a more aesthetic look.</p>
+          <p>Tooth-colored braces that straighten teeth effectively while blending naturally with your smile.</p>
         </div>
       </div>
 
       <div class="col-lg-3 col-md-6">
         <div class="tooth_extraction_card">
-          <img class="w-100 rounded mb-3" src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=500&q=80">
+          <img class="w-100 rounded mb-3" src=".\assets\img\Clear_aligners.jpg">
           <h3>Clear Aligners</h3>
-          <p>Removable, transparent aligners that are virtually invisible and comfortable.</p>
+          <p>Virtually invisible aligners that comfortably straighten teeth without brackets or wires.</p>
         </div>
       </div>
 
       <div class="col-lg-3 col-md-6">
         <div class="tooth_extraction_card">
-          <img class="w-100 rounded mb-3" src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=500&q=80">
+          <img class="w-100 rounded mb-3" src=".\assets\img\Lingual_braces.jpg">
           <h3>Lingual Braces</h3>
-          <p>Braces placed behind the teeth so they are hidden from view for a discreet smile.</p>
+          <p>Hidden braces placed behind the teeth for a discreet and aesthetically pleasing treatment option.</p>
         </div>
       </div>
     </div>
@@ -99,48 +99,48 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>01</span><i class="bi bi-search-heart"></i>
-          <h5>Consultation</h5>
-          <p>We assess your teeth and bite and discuss your smile goals.</p>
+          <h5>Initial Consultation</h5>
+          <p>We examine your teeth alignment and discuss your treatment goals.</p>
         </div>
       </div>
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>02</span><i class="bi bi-pc-display"></i>
-          <h5>Digital Scan & Treatment Plan</h5>
-          <p>Advanced scans and X-rays help us create a personalized plan.</p>
+          <h5>Digital Test</h5>
+          <p>Digital scans and X-rays are taken to plan your orthodontic treatment.</p>
         </div>
       </div>
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>03</span><i class="bi bi-braces"></i>
-          <h5>Braces / Aligners Placement</h5>
-          <p>Braces are placed or aligners are provided with proper instructions.</p>
+          <h5>Braces Placement</h5>
+          <p>Braces are fitted carefully to begin the teeth straightening process.</p>
         </div>
       </div>
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>04</span><i class="bi bi-calendar-check"></i>
-          <h5>Regular Adjustments</h5>
-          <p>Routine check-ups adjust braces or monitor aligner progress.</p>
+          <h5>Periodic Adjustments</h5>
+          <p>Regular visits help adjust the braces and ensure proper tooth movement.</p>
         </div>
       </div>
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>05</span><i class="bi bi-stars"></i>
-          <h5>Progress Tracking</h5>
-          <p>We track your progress and make necessary adjustments for best results.</p>
+          <h5>Progress Monitoring</h5>
+          <p>Your treatment progress is monitored and adjustments are made as needed.</p>
         </div>
       </div>
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>06</span><i class="bi bi-lips"></i>
-          <h5>Beautiful Results</h5>
-          <p>Enjoy a straighter, healthier and more confident smile!</p>
+          <h5>Smile Transformation</h5>
+          <p>Enjoy a straighter, healthier, and more confident smile with lasting results.</p>
         </div>
       </div>
     </div>
@@ -150,8 +150,8 @@
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
-            <img src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=500&q=80">
-            <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+            <img src="assets\img\Before_dental_braces.jpg" class="img-fluid">
+            <img src="assets\img\After_dental_braces.jpg" class="img-fluid">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
           <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
@@ -169,14 +169,14 @@
 
       <div class="col-lg-4">
         <div class="tooth_extraction_card">
-          <h3>PERFECT FOR</h3>
-          <ul>
-            <li><i class="bi bi-check-circle-fill"></i> Crowded or crooked teeth</li>
-            <li><i class="bi bi-check-circle-fill"></i> Gaps between teeth</li>
-            <li><i class="bi bi-check-circle-fill"></i> Overbite, underbite & crossbite</li>
-            <li><i class="bi bi-check-circle-fill"></i> Jaw alignment issues</li>
-            <li><i class="bi bi-check-circle-fill"></i> Boosting smile confidence</li>
-          </ul>
+          <h3>HELPS CORRECT</h3>
+<ul>
+  <li><i class="bi bi-check-circle-fill"></i> Crooked and overlapping teeth</li>
+  <li><i class="bi bi-check-circle-fill"></i> Gaps between teeth</li>
+  <li><i class="bi bi-check-circle-fill"></i> Overbite, underbite, and crossbite</li>
+  <li><i class="bi bi-check-circle-fill"></i> Teeth and jaw alignment issues</li>
+  <li><i class="bi bi-check-circle-fill"></i> Creating a straighter smile</li>
+</ul>
         </div>
       </div>
     </div>

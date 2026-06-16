@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<section class="tooth_extraction_hero">
+<section class="tooth_extraction_hero teeth_scaling_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
       <i class="bi bi-house-door"></i> Home 
@@ -29,13 +29,13 @@
     <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
     <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
 
-    <div class="tooth_extraction_video_box">
+    <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
       <div>
         <h5>HOW IT WORKS</h5>
         <p class="mb-0">Watch our video to see how teeth scaling helps keep your smile healthy and bright.</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
 
@@ -69,7 +69,7 @@
               <li><i class="bi bi-check-circle-fill"></i> Supports overall health</li>
             </ul>
           </div>
-          <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+          <img src="assets\img\Scaling_treatment111.jpg">
         </div>
       </div>
 
@@ -114,16 +114,28 @@
       </div>
 
       <div class="col-lg-4">
-        <div class="tooth_extraction_card">
-          <h3>BEFORE & AFTER SCALING</h3>
-          <div class="tooth_extraction_before_after">
-            <img src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=500&q=80">
-            <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
-          </div>
-          <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
-          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
+    <div class="tooth_extraction_card">
+
+        <h3>BEFORE & AFTER SCALING</h3>
+
+        <div class="tooth_extraction_before_after">
+            <img src="assets\img\Before_scaling.jpg" class="img-fluid">
+            <img src="assets\img\After_scaling.jpg" class="img-fluid">
         </div>
-      </div>
+
+        <div class="tooth_extraction_ba_labels">
+            <span>BEFORE</span>
+            <span>AFTER</span>
+        </div>
+
+        <p class="text-center mt-2 mb-0">
+            <small>
+                Professional scaling helps remove plaque, tartar, and stains for cleaner teeth and healthier gums.
+            </small>
+        </p>
+
+    </div>
+</div>
 
       <div class="col-lg-4">
         <div class="tooth_extraction_card">

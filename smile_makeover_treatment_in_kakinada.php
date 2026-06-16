@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<section class="tooth_extraction_hero">
+<section class="tooth_extraction_hero smile_makeover_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
       <i class="bi bi-house-door"></i> Home 
@@ -31,13 +31,13 @@
     <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
     <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
 
-    <div class="tooth_extraction_video_box">
+    <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
       <div>
         <h5>TRANSFORM YOUR SMILE</h5>
         <p class="mb-0">Watch our video to see how a smile makeover can transform your life.</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
 
@@ -72,7 +72,7 @@
               <li><i class="bi bi-check-circle-fill"></i> Unhappy with your smile</li>
             </ul>
           </div>
-          <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+          <img src="assets\img\Smile_makeover.jpg">
         </div>
       </div>
 
@@ -82,27 +82,27 @@
 
           <div class="row g-3">
             <div class="col">
-              <img class="w-100 rounded mb-2" src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=300&q=80">
+              <img class="w-100 rounded mb-2" src="assets\img\teeth_whitening_treatment1.jpg">
               <h6><b>Teeth Whitening</b></h6>
               <p>Brighten and remove stains for a radiant smile.</p>
             </div>
             <div class="col">
-              <img class="w-100 rounded mb-2" src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=300&q=80">
+              <img class="w-100 rounded mb-2" src="assets\img\Veneers121.jpeg">
               <h6><b>Veneers</b></h6>
               <p>Perfect shape, color and symmetry.</p>
             </div>
             <div class="col">
-              <img class="w-100 rounded mb-2" src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=300&q=80">
+              <img class="w-100 rounded mb-2" src="assets\img\Dental_implants121.jpeg">
               <h6><b>Dental Implants</b></h6>
               <p>Replace missing teeth for a complete smile.</p>
             </div>
             <div class="col">
-              <img class="w-100 rounded mb-2" src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=300&q=80">
+              <img class="w-100 rounded mb-2" src="assets\img\Clear_alligners1121.jpg">
               <h6><b>Invisalign Aligners</b></h6>
               <p>Straighten teeth discreetly.</p>
             </div>
             <div class="col">
-              <img class="w-100 rounded mb-2" src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=300&q=80">
+              <img class="w-100 rounded mb-2" src="assets\img\Crown_bridge121.jpeg">
               <h6><b>Crowns & Bridges</b></h6>
               <p>Restore damaged teeth.</p>
             </div>
@@ -141,8 +141,8 @@
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
-            <img src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=500&q=80">
-            <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+            <img src="assets\img\Before_smile_makeover.jpg">
+            <img src="assets\img\After_smile_makeover.jpg">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
           <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>

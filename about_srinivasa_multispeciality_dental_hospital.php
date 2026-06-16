@@ -17,7 +17,7 @@
             </div>
         </div>
 
-        <img class="about_section_hero_img" src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=80" alt="">
+        <img class="about_section_hero_img" src="./assets/img/About_us_img10.png" alt="about img" class="d-none d-md-block">
     </section>
 
     <div class="container about_section_stats_wrap">
@@ -79,7 +79,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <img class="about_section_story_img" src="https://images.unsplash.com/photo-1629909615184-74f495363b67?auto=format&fit=crop&w=800&q=80" alt="">
+                    <img class="about_section_story_img" src="assets\img\about_middle_img.png" alt="About us">
                 </div>
 
                 <div class="col-lg-5">
@@ -178,7 +178,7 @@
                     </div>
 
                     <div class="col-lg-4">
-                        <img class="about_section_founder_img" src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=800&q=80" alt="">
+                        <img class="about_section_founder_img" src="./assets/img/1.png" alt="Dr. Srinivasa">
                     </div>
 
                     <div class="col-lg-4">
@@ -209,16 +209,16 @@
                     </div>
 
                     <div class="col-lg-4">
-                        <img class="about_section_founder_img" src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=800&q=80" alt="">
+                        <img class="about_section_founder_img" src="./assets/img/deepika.png" alt="Dr. Lakshmi Deepika">
                     </div>
 
                     <div class="col-lg-4">
                         <div class="about_section_founder_list">
-                            <p><i class="bi bi-check-circle"></i> Expert in Advanced Dental Implants</p>
-                            <p><i class="bi bi-check-circle"></i> Specialist in Facial & Smile Makeovers</p>
-                            <p><i class="bi bi-check-circle"></i> Member of Indian Dental Association</p>
-                            <p><i class="bi bi-check-circle"></i> Certified in Advanced Implantology</p>
-                            <p><i class="bi bi-check-circle"></i> Passionate about Patient Care</p>
+                            <p><i class="bi bi-check-circle"></i> Expert in Advanced Dental Implant Solutions</p>
+                            <p><i class="bi bi-check-circle"></i> Specialist in Gum Disease & Periodontal Care</p>
+                            <p><i class="bi bi-check-circle"></i> Excellence in Full-Mouth Smile Rehabilitation</p>
+                            <p><i class="bi bi-check-circle"></i> Trusted for Precision-Driven Dental Treatments</p>
+                            <p><i class="bi bi-check-circle"></i> Building Confident Smiles</p>
                         </div>
                     </div>
                 </div>

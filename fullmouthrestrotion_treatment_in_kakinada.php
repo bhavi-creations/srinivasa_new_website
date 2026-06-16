@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<section class="tooth_extraction_hero">
+<section class="tooth_extraction_hero fullmouthrestrotion_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
       <i class="bi bi-house-door"></i> Home 
@@ -30,13 +30,13 @@
     <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
     <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
 
-    <div class="tooth_extraction_video_box">
+    <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
       <div>
         <h5>CHANGE YOUR LIFE WITH A NEW SMILE</h5>
         <p class="mb-0">Watch our video to see how full mouth restoration can transform your life and confidence.</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
 
@@ -72,7 +72,7 @@
               <li><i class="bi bi-check-circle-fill"></i> Want to improve function and appearance</li>
             </ul>
           </div>
-          <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=500&q=80">
+          <img src="assets\img\Fullmouth_restoration_1212.jpeg">
         </div>
       </div>
 
@@ -89,7 +89,7 @@
               <li><i class="bi bi-check-circle-fill"></i> Boosts confidence and quality of life</li>
             </ul>
           </div>
-          <img src="https://randomuser.me/api/portraits/men/32.jpg">
+          <img src="assets\img\fullmouth123.jpg">
         </div>
       </div>
     </div>
@@ -124,8 +124,8 @@
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
-            <img src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=500&q=80">
-            <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+            <img src="assets\img\Before_full_mouth_restoration11.jpeg">
+            <img src="assets\img\After_full_mouth_restoration11.jpeg">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
           <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>

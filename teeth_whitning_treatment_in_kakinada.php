@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<section class="tooth_extraction_hero">
+<section class="tooth_extraction_hero teeth_whitning_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
       <i class="bi bi-house-door"></i> Home 
@@ -31,13 +31,13 @@
     <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
     <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
 
-    <div class="tooth_extraction_video_box">
+    <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
       <div>
         <h5>HOW IT WORKS</h5>
         <p class="mb-0">Watch our video to see how teeth whitening can transform your smile.</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
 
@@ -72,7 +72,7 @@
               <li><i class="bi bi-check-circle-fill"></i> Dull & discolored teeth</li>
             </ul>
           </div>
-          <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+          <img src="assets\img\Teeth_whitning_1.jpg">
         </div>
       </div>
 
@@ -135,8 +135,8 @@
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
-            <img src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=500&q=80">
-            <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+            <img src="assets\img\Before_teeth_whitning1.jpg">
+            <img src="assets\img\After_teeth_whitning1.jpg">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
           <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>

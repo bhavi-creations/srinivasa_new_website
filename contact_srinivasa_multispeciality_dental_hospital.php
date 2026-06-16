@@ -16,7 +16,7 @@
                     </div>
 
                     <h1 class="contact_us_title">
-                        CONTACT <br>
+                        CONTACT 
                         <span>US</span>
                     </h1>
 
@@ -55,13 +55,13 @@
                 <div class="contact_us_hero_image">
                     <img src="./assets/img/equi.png" class="img-fluid w-100">
 
-                    <div class="contact_us_quote_box">
+                    <!-- <div class="contact_us_quote_box">
                         <h5>WE'D LOVE TO HEAR FROM YOU</h5>
                         <p>
                             Get in touch with our team and let us help
                             you smile with confidence.
                         </p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 

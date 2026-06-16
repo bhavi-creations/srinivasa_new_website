@@ -120,7 +120,7 @@
        min-height: 720px;
        background:
            linear-gradient(90deg, rgba(255, 255, 255, .96) 0%, rgba(255, 255, 255, .86) 42%, rgba(255, 255, 255, .1) 100%),
-           url("https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1600&q=80");
+           url("../assets/img/Home_page.png");
        background-size: cover;
        background-position: center right;
        padding: 90px 0 120px;
@@ -1533,8 +1533,8 @@
    .service_section_hero {
        min-height: 420px;
        background:
-           linear-gradient(90deg, #f7fbff 0%, #f7fbff 43%, rgba(255, 255, 255, .1) 100%),
-           url("https://images.unsplash.com/photo-1629909615184-74f495363b67?auto=format&fit=crop&w=1400&q=80");
+           linear-gradient(90deg, #f7fbff 0%, #ffffff7a 41%, rgba(255, 255, 255, .1) 100%),
+           url("../assets/img/Service_page.jpg");
        background-size: cover;
        background-position: center right;
        padding: 70px 0;
@@ -2461,7 +2461,7 @@
         .clear_aligners_hero {
             background:
                 linear-gradient(90deg, #fff 0%, #fff 42%, rgba(255, 255, 255, .05) 100%),
-                url("https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1500&q=80");
+                url("../assets/img/ClearAllingers11.jpg");
             background-size: cover;
             background-position: center right;
             padding: 35px 0 60px;
@@ -2792,11 +2792,86 @@
     .tooth_extraction_btn_blue{background:linear-gradient(90deg,#001634,#00295f);color:#fff;border:0;padding:13px 25px;border-radius:6px;font-weight:800}
     .tooth_extraction_btn_outline{background:#fff;color:#071d3a;border:1px solid #d99a32;padding:13px 25px;border-radius:6px;font-weight:800}
 
+
+.root_canal_treatment_hero{
+  background:
+        linear-gradient(90deg,#fff 0%,#fff 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Rootcanal_treatment1.jpeg");
+}
+
+.Dental_braces_treatment_hero{
+     background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Dental_braces_treatment.jpg");
+}
+
+.Dental_implants_treatment_hero{
+     background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Dental_implants_treatment1.jpg");
+}
+
+.dental_crown_bridge_hero {
+     background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Dental-crown_bridge1.jpg");
+}
+.Tooth_filling_hero 
+{    background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/tooth_filling.jpg"); 
+
+}
+
+.dentures_treatment_hero {
+    background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Full_denture.jpg");
+
+}
+
+.teeth_scaling_treatment_hero {
+    background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Teeth_Scaling11.jpg");
+
+}
+.tooth_extraction_treatment_hero {
+    background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Tooth_extraction11.jpg");
+
+}
+
+
+.clear_alligners_treatment_hero {
+    background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/ClearAllingers11.jpg");
+
+
+}
+
+.teeth_whitning_treatment_hero {
+    background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Dental_Teeth_whitening.jpg");
+}
+
+.smile_makeover_treatment_hero {
+    background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Smilemakeover11.jpg");
+}
+
+.fullmouthrestrotion_treatment_hero {
+    background:
+        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        url("./img/Full_mouth_restoration101.jpg");
+}
     .tooth_extraction_hero{
       position:relative;
-      background:
-        linear-gradient(90deg,#fff 0%,#fff 41%,rgba(255,255,255,.08) 100%),
-        url("./assets/img/rootcanal.png");
+    
         /* url("https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1500&q=80"); */
       background-size:cover;
       background-position:center right;

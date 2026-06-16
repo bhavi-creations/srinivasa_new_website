@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<section class="tooth_extraction_hero">
+<section class="tooth_extraction_hero root_canal_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
       <i class="bi bi-house-door"></i> Home 
@@ -10,31 +10,29 @@
     </div>
 
     <h1 class="tooth_extraction_title">ROOT CANAL<br>TREATMENT</h1>
-    <h2 class="tooth_extraction_subtitle">Save Your Natural Tooth. Relieve Pain. Restore Smile.</h2>
+    <h2 class="tooth_extraction_subtitle">Protect Your Tooth, Eliminate the Pain</h2>
 
     <p class="tooth_extraction_text">
-      Root canal treatment helps to remove infected or damaged pulp, relieves pain, and saves your natural tooth from extraction.
-      Our advanced technology ensures a comfortable, precise, and pain-free experience.
-    </p>
+     Root canal treatment removes infection, relieves pain, and helps save your natural tooth.</p>
 
     <div class="tooth_extraction_features">
-      <div><i class="bi bi-heart-pulse"></i>Relieves<br>Severe Pain</div>
-      <div><i class="bi bi-shield-check"></i>Saves Natural<br>Tooth</div>
-      <div><i class="bi bi-heart"></i>Prevents Further<br>Infection</div>
-      <div><i class="bi bi-emoji-smile"></i>Restores Function<br>& Smile</div>
-    </div>
+  <div><i class="bi bi-heart-pulse"></i>Relieves<br>Tooth Pain</div>
+  <div><i class="bi bi-shield-check"></i>Saves Natural<br>Tooth</div>
+  <div><i class="bi bi-activity"></i>Removes<br>Infection</div>
+  <div><i class="bi bi-stars"></i>Restores Healthy<br>Smile</div>
+</div>
 
-    <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
+      <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
     <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
 
-    <div class="tooth_extraction_video_box">
+    <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
       <div>
         <h5>HOW IT WORKS</h5>
         <p class="mb-0">Watch our short video to understand the root canal procedure.</p>
       </div>
     </div>
-  </div>
+  </div> -->
 </section>
 
 <section class="tooth_extraction_icon_strip">
@@ -57,11 +55,11 @@
     <h2 class="tooth_extraction_heading">Step-by-Step Treatment Process</h2>
 
     <div class="row g-3">
-      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-search-heart"></i><h5>Examination & Diagnosis</h5><p>We examine the tooth and take X-rays to assess infection.</p></div></div>
-      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i><h5>Removal of Infected Pulp</h5><p>The infected pulp is carefully removed and the inside is cleaned.</p></div></div>
-      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-tools"></i><h5>Cleaning & Shaping</h5><p>The root canals are cleaned, shaped and disinfected thoroughly.</p></div></div>
-      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-heart"></i><h5>Filling & Sealing</h5><p>The cleaned canals are filled with a biocompatible material and sealed.</p></div></div>
-      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-shield-check"></i><h5>Restoration</h5><p>A crown or filling is placed to restore strength and function.</p></div></div>
+      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-search-heart"></i><h5>Consultation & Examination</h5><p>The tooth is examined and X-rays are taken to assess the infection.</p></div></div>
+      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i><h5>Local Anesthesia</h5><p>The area is numbed to ensure a comfortable treatment experience.</p></div></div>
+      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-tools"></i><h5>Removal of Infection</h5><p>The infected pulp is removed and the canals are cleaned.</p></div></div>
+      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-heart"></i><h5>Canal Filling & Sealing</h5><p>The root canals are filled and sealed to prevent reinfection.</p></div></div>
+      <div class="col-lg col-md-4"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-shield-check"></i><h5>Tooth Restoration</h5><p>A crown or filling is placed to restore the tooth's function and strength.</p></div></div>
     </div>
 
     <div class="row g-4 mt-3">
@@ -69,13 +67,13 @@
         <div class="tooth_extraction_card">
           <h3>SIGNS YOU MAY NEED ROOT CANAL TREATMENT</h3>
           <ul>
-            <li><i class="bi bi-check-circle-fill"></i> Persistent toothache</li>
-            <li><i class="bi bi-check-circle-fill"></i> Sensitivity to hot or cold</li>
-            <li><i class="bi bi-check-circle-fill"></i> Swollen or tender gums</li>
-            <li><i class="bi bi-check-circle-fill"></i> Darkening of the tooth</li>
-            <li><i class="bi bi-check-circle-fill"></i> Pimple on the gums</li>
+            <li><i class="bi bi-check-circle-fill"></i> Severe Tooth Pain</li>
+            <li><i class="bi bi-check-circle-fill"></i> Lingering Sensitivity</li>
+            <li><i class="bi bi-check-circle-fill"></i> Swollen or Inflamed Gums</li>
+            <li><i class="bi bi-check-circle-fill"></i> Tooth Discoloration</li>
+            <li><i class="bi bi-check-circle-fill"></i> Dental Abscess</li>
           </ul>
-          <button class="tooth_extraction_btn_blue w-100 mt-3">CONSULT OUR SPECIALIST</button>
+          <!-- <button class="tooth_extraction_btn_blue w-100 mt-3">CONSULT OUR SPECIALIST</button> -->
         </div>
       </div>
 
@@ -83,11 +81,11 @@
         <div class="tooth_extraction_dark_card">
           <h3>Benefits of Root Canal Treatment</h3>
           <ul>
-            <li><i class="bi bi-check-circle-fill"></i> Eliminates infection & pain</li>
-            <li><i class="bi bi-check-circle-fill"></i> Saves your natural tooth</li>
-            <li><i class="bi bi-check-circle-fill"></i> Prevents tooth extraction</li>
-            <li><i class="bi bi-check-circle-fill"></i> Restores chewing function</li>
-            <li><i class="bi bi-check-circle-fill"></i> Long-lasting results</li>
+            <li><i class="bi bi-check-circle-fill"></i> Relieves Tooth Pain & Discomfort</li>
+            <li><i class="bi bi-check-circle-fill"></i> Preserves Your Natural Tooth</li>
+            <li><i class="bi bi-check-circle-fill"></i> Prevents Further Infection</li>
+            <li><i class="bi bi-check-circle-fill"></i> Restores Normal Bite Function</li>
+            <li><i class="bi bi-check-circle-fill"></i> Promotes Long-Term Oral Health</li>
           </ul>
         </div>
       </div>
@@ -96,8 +94,8 @@
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
-            <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=500&q=80">
-            <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=500&q=80">
+            <img src="assets\img\Before_rootcanal.jpg" class="img-fluid">
+            <img src=".\assets\img\After_rootcanal.jpg" class="img-fluid">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
           <p class="text-center mt-2 mb-0"><small>Treatment results may vary for individual cases.</small></p>
@@ -119,7 +117,7 @@
         <div class="col-lg-5"><h3>Relieve Pain & Save Your Smile</h3><p class="mb-0">Book your appointment today and let our experts take care of your dental health.</p></div>
         <div class="col-lg-6 text-lg-end">
        <a href="appointment_srinivasa_dental_hospital.php">   <button class="tooth_extraction_btn_gold"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button></a>
-        <a href="https://wa.me/919290019948?text=Hi!%20I%20am%20interested%20in%20your%20services." target="_blank">  <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-whatsapp me-2"></i> WHATSAPP US</button></a>
+        <a href="contact_srinivasa_multispeciality_dental_hospital.php">  <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-whatsapp me-2"></i> WHATSAPP US</button></a>
         </div>
       </div>
     </div>

@@ -1,55 +1,120 @@
 <?php include 'header.php'; ?>
 
-<section class="tooth_extraction_hero">
+<section class="tooth_extraction_hero Dental_implants_treatment_hero">
   <div class="container">
+
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home 
-      <i class="bi bi-chevron-right mx-2"></i> Services 
-      <i class="bi bi-chevron-right mx-2"></i> 
+      <i class="bi bi-house-door"></i> Home
+      <i class="bi bi-chevron-right mx-2"></i> Services
+      <i class="bi bi-chevron-right mx-2"></i>
       <b>Dental Implants</b>
     </div>
 
     <h1 class="tooth_extraction_title">DENTAL IMPLANTS</h1>
+
     <h2 class="tooth_extraction_subtitle">
-      A Permanent Solution<br>
-      for Missing Teeth
+      Restore Missing Teeth.<br>
+      Rebuild Your Smile.
     </h2>
 
     <p class="tooth_extraction_text">
-      Dental implants look, feel and function like natural teeth. They are a long-lasting solution to restore your smile, confidence and quality of life.
+      Dental implants are a permanent and natural-looking solution for missing teeth. They restore your smile, improve chewing ability, and help maintain long-term oral health.
     </p>
 
     <div class="tooth_extraction_features">
-      <div><i class="bi bi-heart-pulse"></i>Natural Look<br>& Feel</div>
-      <div><i class="bi bi-shield-check"></i>Strong &<br>Durable</div>
-      <div><i class="bi bi-calendar-check"></i>Long Lasting<br>Solution</div>
-      <div><i class="bi bi-emoji-smile"></i>Boosts Confidence<br>& Comfort</div>
-    </div>
-
-    <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
-    <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
-
-    <div class="tooth_extraction_video_box">
-      <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
       <div>
-        <h5>HOW IT WORKS</h5>
-        <p class="mb-0">Watch our video to see how dental implants work.</p>
+        <i class="bi bi-tooth"></i>
+        Natural Look<br>& Feel
+      </div>
+
+      <div>
+        <i class="bi bi-shield-check"></i>
+        Secure &<br>Stable Fit
+      </div>
+
+      <div>
+        <i class="bi bi-award"></i>
+        Long-Term<br>Solution
+      </div>
+
+      <div>
+        <i class="bi bi-emoji-smile"></i>
+        Restores Smile<br>& Confidence
       </div>
     </div>
+
+    <button class="tooth_extraction_btn_blue me-3">
+      BOOK APPOINTMENT
+      <i class="bi bi-calendar-event ms-2"></i>
+    </button>
+
+    <button class="tooth_extraction_btn_outline">
+      <i class="bi bi-telephone me-2"></i>
+      CALL US NOW
+    </button>
+
+    <!-- <div class="tooth_extraction_video_box">
+      <div class="tooth_extraction_play">
+        <i class="bi bi-play-fill"></i>
+      </div>
+
+      <div>
+        <h5>HOW DENTAL IMPLANTS WORK</h5>
+        <p class="mb-0">
+          Watch our video to learn how dental implants replace missing teeth and restore your smile.
+        </p>
+      </div>
+    </div> -->
+
   </div>
 </section>
 
+<!-- ICON STRIP -->
+
 <section class="tooth_extraction_icon_strip">
   <div class="container">
+
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-heart-pulse"></i>Look & feel<br>like natural teeth</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-shield-check"></i>Preserves jawbone<br>health</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-person-check"></i>Eat your favorite<br>foods comfortably</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-heart"></i>Long-term<br>durability</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-emoji-smile"></i>Improves speech<br>& confidence</div></div>
+
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item">
+            <i class="bi bi-tooth"></i>
+            Looks & Feels<br>Like Natural Teeth
+          </div>
+        </div>
+
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item">
+            <i class="bi bi-shield-check"></i>
+            Supports Jawbone<br>Health
+          </div>
+        </div>
+
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item">
+            <i class="bi bi-cup-hot"></i>
+            Eat & Chew<br>Comfortably
+          </div>
+        </div>
+
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item">
+            <i class="bi bi-award"></i>
+            Strong & Durable<br>Results
+          </div>
+        </div>
+
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item">
+            <i class="bi bi-emoji-smile"></i>
+            Improves Smile<br>Confidence
+          </div>
+        </div>
+
       </div>
     </div>
+
   </div>
 </section>
 
@@ -57,117 +122,319 @@
   <div class="container">
 
     <div class="row g-4 align-items-center">
+
       <div class="col-lg-4">
-        <img class="w-100 rounded" src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=600&q=80">
+        <img class="w-100 rounded"
+             src="assets\img\Dental_implant1.jpg">
       </div>
+
+      <!-- WHO CAN GET DENTAL IMPLANTS -->
 
       <div class="col-lg-4">
         <div class="tooth_extraction_card">
-          <div class="tooth_extraction_heading_small text-start">WHO CAN GET DENTAL IMPLANTS?</div>
+
+          <div class="tooth_extraction_heading_small text-start">
+            WHO CAN GET DENTAL IMPLANTS?
+          </div>
+
           <h3>Dental implants are ideal for patients who:</h3>
+
           <ul>
-            <li><i class="bi bi-check-circle-fill"></i> Have one or more missing teeth</li>
-            <li><i class="bi bi-check-circle-fill"></i> Want a permanent and natural-looking solution</li>
-            <li><i class="bi bi-check-circle-fill"></i> Have healthy gums and sufficient jawbone</li>
-            <li><i class="bi bi-check-circle-fill"></i> Want to improve their smile and confidence</li>
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Have one or more missing teeth
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Want a fixed replacement option
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Have healthy gums and adequate jawbone support
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Wish to improve smile appearance and function
+            </li>
           </ul>
+
         </div>
       </div>
 
+      <!-- IMPLANT STRUCTURE -->
+
       <div class="col-lg-4">
         <div class="tooth_extraction_card">
+
           <h3>IMPLANT STRUCTURE</h3>
+
           <ul>
-            <li><i class="bi bi-check-circle-fill"></i> <b>Crown</b> - Custom-made for natural look</li>
-            <li><i class="bi bi-check-circle-fill"></i> <b>Abutment</b> - Connects crown to implant</li>
-            <li><i class="bi bi-check-circle-fill"></i> <b>Implant</b> - Titanium post that fuses with jawbone</li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              <b>Crown</b> - Natural-looking replacement tooth
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              <b>Abutment</b> - Connector between implant and crown
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              <b>Implant Post</b> - Titanium root placed in the jawbone
+            </li>
+
           </ul>
+
         </div>
       </div>
+
+    </div>
+        <!-- PROCESS SECTION -->
+
+    <div class="tooth_extraction_heading_small">
+      — THE DENTAL IMPLANT PROCESS —
     </div>
 
-    <div class="tooth_extraction_heading_small">— THE DENTAL IMPLANT PROCESS —</div>
-    <h2 class="tooth_extraction_heading">Step-by-Step to Your Perfect Smile</h2>
+    <h2 class="tooth_extraction_heading">
+      Step-by-Step to a Complete Smile
+    </h2>
 
     <div class="row g-3">
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-search-heart"></i><h5>Consultation</h5><p>We examine your oral health and discuss your needs.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i><h5>Treatment Planning</h5><p>Advanced scans and X-rays create your custom plan.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-tools"></i><h5>Implant Placement</h5><p>Titanium implant is placed into the jawbone.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-hourglass-split"></i><h5>Healing & Osseointegration</h5><p>The implant fuses with the jawbone over a few months.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-award"></i><h5>Abutment Placement</h5><p>An abutment is attached to the implant.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-heart"></i><h5>Crown Placement</h5><p>Custom crown is placed, completing your new smile.</p></div></div>
+
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card">
+          <span>01</span>
+          <i class="bi bi-search"></i>
+          <h5>Consultation</h5>
+          <p>Comprehensive examination and digital imaging.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card">
+          <span>02</span>
+          <i class="bi bi-clipboard2-pulse"></i>
+          <h5>Treatment Plan</h5>
+          <p>Personalized implant treatment plan is created.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card">
+          <span>03</span>
+          <i class="bi bi-tools"></i>
+          <h5>Implant Placement</h5>
+          <p>Titanium implant is placed into the jawbone.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card">
+          <span>04</span>
+          <i class="bi bi-hourglass-split"></i>
+          <h5>Healing Phase</h5>
+          <p>The implant naturally bonds with the bone.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card">
+          <span>05</span>
+          <i class="bi bi-link-45deg"></i>
+          <h5>Abutment Placement</h5>
+          <p>Connector is attached to support the crown.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card">
+          <span>06</span>
+          <i class="bi bi-gem"></i>
+          <h5>Crown Placement</h5>
+          <p>Custom crown completes your new smile.</p>
+        </div>
+      </div>
+
     </div>
+
+    <!-- BENEFITS + SUCCESS RATE + BEFORE AFTER -->
 
     <div class="row g-4 mt-3">
+
+      <!-- BENEFITS -->
+
       <div class="col-lg-4">
         <div class="tooth_extraction_card">
+
           <h3>BENEFITS OF DENTAL IMPLANTS</h3>
+
           <ul>
-            <li><i class="bi bi-check-circle-fill"></i> Natural look and feel</li>
-            <li><i class="bi bi-check-circle-fill"></i> Strong and long-lasting</li>
-            <li><i class="bi bi-check-circle-fill"></i> Preserves jawbone and facial structure</li>
-            <li><i class="bi bi-check-circle-fill"></i> No impact on adjacent teeth</li>
-            <li><i class="bi bi-check-circle-fill"></i> Eat, speak and smile with confidence</li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Restores natural appearance
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Improves chewing function
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Preserves jawbone structure
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Prevents nearby teeth from shifting
+            </li>
+
+            <li>
+              <i class="bi bi-check-circle-fill"></i>
+              Provides long-lasting results
+            </li>
+
           </ul>
+
         </div>
       </div>
 
+      <!-- SUCCESS RATE -->
+
       <div class="col-lg-4">
         <div class="tooth_extraction_card">
+
           <h3>IMPLANT SUCCESS RATE</h3>
-          <h2 style="font-size:58px;color:#c98b2c;font-family:Georgia,serif;font-weight:900;">98%</h2>
-          <h4>Patient Satisfaction</h4>
-          <p>Our advanced technology and expert care ensure the best results.</p>
+
+          <h2 style="font-size:58px;color:#c98b2c;font-family:Georgia,serif;font-weight:900;">
+            98%
+          </h2>
+
+          <h4>Successful Outcomes</h4>
+
+          <p>
+            Advanced technology and expert care help deliver predictable and reliable implant results.
+          </p>
+
         </div>
       </div>
+
+      <!-- BEFORE AFTER -->
 
       <div class="col-lg-4">
         <div class="tooth_extraction_card">
+
           <h3>BEFORE & AFTER</h3>
+
           <div class="tooth_extraction_before_after">
-            <img src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=500&q=80">
-            <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
+
+            <img src="assets\img\Before_implant.jpg" class="img-fluid">
+
+            <img src="assets\img\After_implant.jpg" class="img-fluid">
+
           </div>
-          <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
-          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
+
+          <div class="tooth_extraction_ba_labels">
+            <span>BEFORE</span>
+            <span>AFTER</span>
+          </div>
+
+          <p class="text-center mt-2 mb-0">
+            <small>*Results may vary from person to person.</small>
+          </p>
+
         </div>
       </div>
+
     </div>
 
-    <h2 class="tooth_extraction_heading mt-4">Frequently Asked Questions</h2>
+    <!-- FAQ HEADING -->
 
-    <div class="row g-3">
+    <h2 class="tooth_extraction_heading mt-4">
+      Frequently Asked Questions
+    </h2>
+        <div class="row g-3">
+
       <div class="col-lg-4">
         <div class="tooth_extraction_faq_card">
-          <h5>Is dental implant treatment painful? <i class="bi bi-chevron-down"></i></h5>
-          <p>No. The procedure is done under anesthesia, so you won't feel pain.</p>
+          <h5>
+            Is implant placement painful?
+            <i class="bi bi-chevron-down"></i>
+          </h5>
+          <p>
+            No. Local anesthesia ensures a comfortable and virtually pain-free procedure.
+          </p>
         </div>
       </div>
 
       <div class="col-lg-4">
         <div class="tooth_extraction_faq_card">
-          <h5>How long does the treatment take? <i class="bi bi-chevron-down"></i></h5>
-          <p>The complete process can take 3 to 6 months, depending on individual healing.</p>
+          <h5>
+            How long does implant treatment take?
+            <i class="bi bi-chevron-down"></i>
+          </h5>
+          <p>
+            Treatment usually takes a few months depending on healing and bone integration.
+          </p>
         </div>
       </div>
 
       <div class="col-lg-4">
         <div class="tooth_extraction_faq_card">
-          <h5>How long do dental implants last? <i class="bi bi-chevron-down"></i></h5>
-          <p>With proper care, dental implants can last a lifetime.</p>
+          <h5>
+            Are implants better than dentures?
+            <i class="bi bi-chevron-down"></i>
+          </h5>
+          <p>
+            Implants are fixed, stable, and function more like natural teeth than removable dentures.
+          </p>
         </div>
       </div>
+
     </div>
+
+    <!-- CTA SECTION -->
 
     <div class="tooth_extraction_cta">
+
       <div class="row align-items-center g-3">
-        <div class="col-lg-1"><div class="tooth_extraction_cta_icon"><i class="bi bi-calendar-event"></i></div></div>
-        <div class="col-lg-5"><h3>Ready to Restore Your Smile?</h3><p class="mb-0">Book your consultation today and take the first step towards a confident, healthy smile.</p></div>
-        <div class="col-lg-6 text-lg-end">
-          <button class="tooth_extraction_btn_gold"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button>
-          <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
+
+        <div class="col-lg-1">
+          <div class="tooth_extraction_cta_icon">
+            <i class="bi bi-calendar-event"></i>
+          </div>
         </div>
+
+        <div class="col-lg-5">
+          <h3>Ready to Replace Missing Teeth?</h3>
+
+          <p class="mb-0">
+            Schedule your consultation today and discover how dental implants can restore your smile, comfort, and confidence.
+          </p>
+        </div>
+
+        <div class="col-lg-6 text-lg-end">
+
+          <button class="tooth_extraction_btn_gold">
+            <i class="bi bi-calendar-event me-2"></i>
+            BOOK APPOINTMENT
+          </button>
+
+          <button class="tooth_extraction_btn_outline ms-2">
+            <i class="bi bi-telephone me-2"></i>
+            CALL US NOW
+          </button>
+
+        </div>
+
       </div>
+
     </div>
 
   </div>

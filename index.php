@@ -237,7 +237,7 @@
 
 <section class="home_section_about">
   <div class="container">
-    <div class="row align-items-center g-5">
+    <div class="row align-items-center g-5 " style="margin: 0px -12px 0px;">
       <div class="col-lg-4">
         <div class="home_section_subtitle">WHY CHOOSE US —</div>
         <h2>Experience the Best in <span>Dental Care</span></h2>

@@ -6,10 +6,12 @@ if ($_SERVER['SERVER_NAME'] == 'localhost') {
     $pass = "";
     $db = "srinivasa";
 } else {
-    $user = "";
-    $pass = "";
-    $db = "";
+    $user = "bhavicreations";
+    $pass = "d8Az75YlgmyBnVM";
+    $db = "srinivasanew";
 }
+
+
 
 
 

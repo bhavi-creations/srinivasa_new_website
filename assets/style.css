@@ -1533,7 +1533,7 @@
    .service_section_hero {
        min-height: 420px;
        background:
-           linear-gradient(90deg, #f7fbff 0%, #ffffff7a 41%, rgba(255, 255, 255, .1) 100%),
+           linear-gradient(90deg, #f7fbff 0%, #ffffff 41%, rgba(255, 255, 255, .1) 100%),
            url("../assets/img/Service_page.jpg");
        background-size: cover;
        background-position: center right;
@@ -2801,44 +2801,44 @@
 
 .Dental_braces_treatment_hero{
      background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Dental_braces_treatment.jpg");
 }
 
 .Dental_implants_treatment_hero{
      background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Dental_implants_treatment1.jpg");
 }
 
 .dental_crown_bridge_hero {
      background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Dental-crown_bridge1.jpg");
 }
 .Tooth_filling_hero 
 {    background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/tooth_filling.jpg"); 
 
 }
 
 .dentures_treatment_hero {
     background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Full_denture.jpg");
 
 }
 
 .teeth_scaling_treatment_hero {
     background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Teeth_Scaling11.jpg");
 
 }
 .tooth_extraction_treatment_hero {
     background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Tooth_extraction11.jpg");
 
 }
@@ -2846,7 +2846,7 @@
 
 .clear_alligners_treatment_hero {
     background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/ClearAllingers11.jpg");
 
 
@@ -2854,19 +2854,19 @@
 
 .teeth_whitning_treatment_hero {
     background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Dental_Teeth_whitening.jpg");
 }
 
 .smile_makeover_treatment_hero {
     background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Smilemakeover11.jpg");
 }
 
 .fullmouthrestrotion_treatment_hero {
     background:
-        linear-gradient(90deg,#fff 0%,#ffffff7a 41%,rgba(255,255,255,.08) 100%),
+        linear-gradient(90deg,#fff 0%,#ffffff 41%,rgba(255,255,255,.08) 100%),
         url("./img/Full_mouth_restoration101.jpg");
 }
     .tooth_extraction_hero{

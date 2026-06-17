@@ -23,7 +23,7 @@
         <!-- <a class="navbar-brand home_section_logo" href="#">
             🦷 SRINIVASA <span>DENTAL</span>
         </a> -->
-        <img src="./assets/img/srinivasa.png" alt=" logo" class="img-fluid" style="max-width: 250px;">
+        <img src="./assets/img/Srinivasa_new.png" alt=" logo" class="img-fluid" style="max-width: 250px;">
 
         <button class="navbar-toggler bg-light" data-bs-toggle="collapse" data-bs-target="#home_section_menu">
             <span class="navbar-toggler-icon"></span>

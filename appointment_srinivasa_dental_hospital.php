@@ -216,7 +216,7 @@
                 </div>
             </div>
 
-            <div class="apointment_section_locations">
+            <!-- <div class="apointment_section_locations">
                 <div class="row g-3">
                     <div class="col-lg-3">
                         <div class="apointment_section_location_item">
@@ -258,7 +258,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
     </section>

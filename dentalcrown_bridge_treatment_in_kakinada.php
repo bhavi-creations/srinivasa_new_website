@@ -1,4 +1,3 @@
-
 <?php include 'header.php'; ?>
 
 <section class="tooth_extraction_hero dental_crown_bridge_hero">
@@ -47,29 +46,29 @@
       </div>
 
     </div>
-
-    <button class="tooth_extraction_btn_blue me-3">
-      BOOK APPOINTMENT
-      <i class="bi bi-calendar-event ms-2"></i>
-    </button>
-
-    <button class="tooth_extraction_btn_outline">
-      <i class="bi bi-telephone me-2"></i>
-      CALL US NOW
-    </button>
+    <a href="appointment_srinivasa_dental_hospital.php">
+      <button class="tooth_extraction_btn_blue me-3 mb-3">
+        BOOK APPOINTMENT
+        <i class="bi bi-calendar-event ms-2"></i>
+      </button></a>
+    <a href="contact_srinivasa_multispeciality_dental_hospital.php">
+      <button class="tooth_extraction_btn_outline">
+        <i class="bi bi-telephone me-2"></i>
+        CALL US NOW
+      </button></a>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play">
         <i class="bi bi-play-fill"></i>
       </div> -->
 
-      <!-- <div>
+    <!-- <div>
         <h5>HOW IT WORKS</h5>
         <p class="mb-0">
           Watch our video to understand the complete Crown & Bridge treatment process.
         </p>
       </div> -->
-    </div>
+  </div>
 
   </div>
 </section>
@@ -367,26 +366,23 @@
 
             <li>
               <i class="bi bi-check2-circle"></i>
-              <b>Porcelain Crown</b><br>
-              <small>Natural-looking, highly aesthetic solution for front teeth.</small>
+              <b>Porcelain Crown Natural-looking, highly aesthetic solution for front teeth.</b>
             </li>
 
             <li>
               <i class="bi bi-check2-circle"></i>
-              <b>Zirconia Crown</b><br>
-              <small>Exceptional strength with metal-free biocompatibility.</small>
+              <b>Zirconia Crown Exceptional strength with metal-free biocompatibility.</b>
             </li>
 
             <li>
               <i class="bi bi-check2-circle"></i>
-              <b>Porcelain Fused To Metal</b><br>
-              <small>Combines durability with a natural tooth appearance.</small>
+              <b>Porcelain Fused To Metal Combines durability with a natural tooth appearance.</b>
             </li>
 
             <li>
               <i class="bi bi-check2-circle"></i>
-              <b>All-Metal Crown</b><br>
-              <small>Highly durable restoration ideal for posterior teeth.</small>
+              <b>All-Metal Crown Highly durable restoration ideal for posterior teeth.</b>
+
             </li>
 
           </ul>
@@ -481,17 +477,19 @@
         </div>
 
         <div class="col-lg-6 text-lg-end">
+          <a href="appointment_srinivasa_dental_hospital.php">
+            <button class="tooth_extraction_btn_gold mb-2">
+              <i class="bi bi-calendar-event me-2"></i>
+              BOOK APPOINTMENT
+            </button>
+          </a>
 
-          <button class="tooth_extraction_btn_gold">
-            <i class="bi bi-calendar-event me-2"></i>
-            BOOK APPOINTMENT
-          </button>
-
-          <button class="tooth_extraction_btn_outline ms-2">
-            <i class="bi bi-telephone me-2"></i>
-            CALL US NOW
-          </button>
-
+          <a href="contact_srinivasa_multispeciality_dental_hospital.php">
+            <button class="tooth_extraction_btn_outline ms-2">
+              <i class="bi bi-telephone me-2"></i>
+              CALL US NOW
+            </button>
+          </a>
         </div>
 
       </div>
@@ -503,4 +501,3 @@
 </section>
 
 <?php include 'footer.php'; ?>
-

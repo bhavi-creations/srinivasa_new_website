@@ -47,16 +47,18 @@
       </div>
 
     </div>
+    <a href="appointment_srinivasa_dental_hospital.php">
+      <button class="tooth_extraction_btn_blue me-3 mb-2">
+        BOOK APPOINTMENT
+        <i class="bi bi-calendar-event ms-2"></i>
+      </button>
+    </a>
 
-    <button class="tooth_extraction_btn_blue me-3">
-      BOOK APPOINTMENT
-      <i class="bi bi-calendar-event ms-2"></i>
-    </button>
-
-    <button class="tooth_extraction_btn_outline">
-      <i class="bi bi-telephone me-2"></i>
-      CALL US NOW
-    </button>
+    <a href="contact_srinivasa_multispeciality_dental_hospital.php">
+      <button class="tooth_extraction_btn_outline">
+        <i class="bi bi-telephone me-2"></i>
+        CALL US NOW
+      </button></a>
 
     <!-- <div class="tooth_extraction_video_box">
 
@@ -84,35 +86,35 @@
 
       <div class="row g-0">
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-heart-pulse"></i>
             Relieves Pain<br>& Sensitivity
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-shield-check"></i>
             Prevents Further<br>Decay
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-tools"></i>
             Restores Tooth<br>Function
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-stars"></i>
             Tooth-Colored<br>Aesthetics
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-clock-history"></i>
             Quick &<br>Comfortable Procedure
@@ -534,17 +536,17 @@
         </div>
 
         <div class="col-lg-6 text-lg-end">
-
-          <button class="tooth_extraction_btn_gold">
-            <i class="bi bi-calendar-event me-2"></i>
-            BOOK APPOINTMENT
-          </button>
-
-          <button class="tooth_extraction_btn_outline ms-2">
-            <i class="bi bi-telephone me-2"></i>
-            CALL US NOW
-          </button>
-
+          <a href="appointment_srinivasa_dental_hospital.php">
+            <button class="tooth_extraction_btn_gold mb-2">
+              <i class="bi bi-calendar-event me-2"></i>
+              BOOK APPOINTMENT
+            </button></a>
+          <a href="contact_srinivasa_multispeciality_dental_hospital.php">
+            <button class="tooth_extraction_btn_outline ms-2">
+              <i class="bi bi-telephone me-2"></i>
+              CALL US NOW
+            </button>
+          </a>
         </div>
 
       </div>
@@ -556,5 +558,3 @@
 </section>
 
 <?php include 'footer.php'; ?>
-
-

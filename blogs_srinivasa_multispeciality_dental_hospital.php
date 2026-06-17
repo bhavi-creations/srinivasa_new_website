@@ -136,6 +136,15 @@ $category_result = $conn->query($category_sql);
     padding: 0 18px;
     width: auto;
 }
+
+.blog_section{
+    display: flex;
+    justify-content: center;
+    color: #d27800;
+    font-weight: 600;
+    margin-top: 20px;
+        font-family: Georgia, serif;
+}
 </style>
     <section class="blogs_section_hero">
         <div class="container">
@@ -149,14 +158,14 @@ $category_result = $conn->query($category_sql);
                 Explore our expert articles to learn more about dental care, treatments, and tips for a healthier, brighter smile.
             </p>
 
-            <div class="blogs_section_search_box">
+            <!-- <div class="blogs_section_search_box">
                 <input type="text" class="form-control" placeholder="Search blogs...">
                 <button>SEARCH</button>
-            </div>
+            </div> -->
         </div>
     </section>
 
-    <section class="blogs_section_topics">
+    <!-- <section class="blogs_section_topics">
         <div class="container">
             <div class="blogs_section_topics_box">
                 <div class="blogs_section_topic_item"><i class="bi bi-heart-pulse"></i>General<br>Dentistry</div>
@@ -170,8 +179,10 @@ $category_result = $conn->query($category_sql);
                 <div class="blogs_section_topic_item"><i class="bi bi-grid-3x3-gap-fill"></i>View All<br>Topics</div>
             </div>
         </div>
-    </section>
+    </section> -->
 
+
+    <h1 class="blog_section">Blogs</h1>
     <section class="blogs_section_main">
     <div class="container">
 

@@ -3,9 +3,9 @@
 <section class="tooth_extraction_hero teeth_whitning_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home 
-      <i class="bi bi-chevron-right mx-2"></i> Services 
-      <i class="bi bi-chevron-right mx-2"></i> 
+      <i class="bi bi-house-door"></i> Home
+      <i class="bi bi-chevron-right mx-2"></i> Services
+      <i class="bi bi-chevron-right mx-2"></i>
       <b>Teeth Whitening</b>
     </div>
 
@@ -28,8 +28,8 @@
       <div><i class="bi bi-emoji-smile"></i>Boosts Confidence &<br>Self-Esteem</div>
     </div>
 
-    <button class="tooth_extraction_btn_blue me-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
-    <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
+     <a href=""> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
+  <a href="">  <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
@@ -45,11 +45,21 @@
   <div class="container">
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-heart-pulse"></i>Removes Tough<br>Stains</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-stars"></i>Improves Overall<br>Appearance</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-shield-check"></i>Safe for Enamel<br>(When Done Right)</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-clock"></i>Quick, Comfortable<br>& Effective</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-calendar-check"></i>Long-lasting<br>Results</div></div>
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item"><i class="bi bi-heart-pulse"></i>Removes Tough<br>Stains</div>
+        </div>
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item"><i class="bi bi-stars"></i>Improves Overall<br>Appearance</div>
+        </div>
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item"><i class="bi bi-shield-check"></i>Safe for Enamel<br>(When Done Right)</div>
+        </div>
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item"><i class="bi bi-clock"></i>Quick, Comfortable<br>& Effective</div>
+        </div>
+        <div class="col-lg col-md-4 col-6">
+          <div class="tooth_extraction_strip_item"><i class="bi bi-calendar-check"></i>Long-lasting<br>Results</div>
+        </div>
       </div>
     </div>
   </div>
@@ -109,12 +119,42 @@
     <h2 class="tooth_extraction_heading">Simple Steps to a Brighter Smile</h2>
 
     <div class="row g-3">
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-search-heart"></i><h5>Consultation</h5><p>We examine your teeth and discuss your whitening goals.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i><h5>Cleaning</h5><p>We clean your teeth to remove plaque and surface stains.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-shield-check"></i><h5>Gum Protection</h5><p>A protective barrier is applied to keep gums safe and comfortable.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-stars"></i><h5>Whitening Treatment</h5><p>The whitening gel is applied and activated for optimal results.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-heart-pulse"></i><h5>Rinse & Reveal</h5><p>The gel is removed and your brighter smile is revealed!</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-emoji-smile"></i><h5>Aftercare Advice</h5><p>We guide you on how to maintain your results for longer.</p></div></div>
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-search-heart"></i>
+          <h5>Consultation</h5>
+          <p>We examine your teeth and discuss your whitening goals.</p>
+        </div>
+      </div>
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i>
+          <h5>Cleaning</h5>
+          <p>We clean your teeth to remove plaque and surface stains.</p>
+        </div>
+      </div>
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-shield-check"></i>
+          <h5>Gum Protection</h5>
+          <p>A protective barrier is applied to keep gums safe and comfortable.</p>
+        </div>
+      </div>
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-stars"></i>
+          <h5>Whitening Treatment</h5>
+          <p>The whitening gel is applied and activated for optimal results.</p>
+        </div>
+      </div>
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-heart-pulse"></i>
+          <h5>Rinse & Reveal</h5>
+          <p>The gel is removed and your brighter smile is revealed!</p>
+        </div>
+      </div>
+      <div class="col-lg-2 col-md-4">
+        <div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-emoji-smile"></i>
+          <h5>Aftercare Advice</h5>
+          <p>We guide you on how to maintain your results for longer.</p>
+        </div>
+      </div>
     </div>
 
     <div class="row g-4 mt-3">
@@ -183,14 +223,16 @@
 
     <div class="tooth_extraction_cta">
       <div class="row align-items-center g-3">
-        <div class="col-lg-1"><div class="tooth_extraction_cta_icon"><i class="bi bi-heart-pulse"></i></div></div>
+        <div class="col-lg-1">
+          <div class="tooth_extraction_cta_icon"><i class="bi bi-heart-pulse"></i></div>
+        </div>
         <div class="col-lg-5">
           <h3>A Brighter Smile. A More Confident You.</h3>
           <p class="mb-0">Book your appointment today and take the first step towards a whiter, brighter smile!</p>
         </div>
         <div class="col-lg-6 text-lg-end">
-          <button class="tooth_extraction_btn_gold"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button>
-          <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
+          <a href="appointment_srinivasa_dental_hospital.php"> <button class="tooth_extraction_btn_gold mb-3"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button></a>
+          <a href="contact_srinivasa_multispeciality_dental_hospital.php"> <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
         </div>
       </div>
     </div>

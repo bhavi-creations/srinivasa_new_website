@@ -5,7 +5,7 @@
       <div class="col-lg-3">
         <div class="home_section_logo mb-3">
           <!-- 🦷 SRINIVASA <span>DENTAL</span> -->
-                   <img src="./assets/img/srinivasa.png" alt=" logo" class="img-fluid" style="max-width: 250px;">
+                   <img src="./assets/img/Srinivasa_new.png" alt=" logo" class="img-fluid" style="max-width: 280px;">
 
         
         </div>
@@ -18,7 +18,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2">
+      <div class="col-lg-2 d-md-6 d-none d-md-block ">
         <h5> LINKS</h5>
         <a href="index.php">Home</a>
         <a href="about_srinivasa_multispeciality_dental_hospital.php">About Us</a>
@@ -41,7 +41,7 @@
         <a href="#">Root Canal Treatment</a>
       </div> -->
 
-      <div class="col-lg-3">
+      <div class="col-lg-4 d-md-6">
         <h5>CONTACT US</h5>
         <p><i class="bi bi-geo-alt me-2"></i> 
 Rama Rao Peta, Kakinada, Andhra Pradesh 533001</p>

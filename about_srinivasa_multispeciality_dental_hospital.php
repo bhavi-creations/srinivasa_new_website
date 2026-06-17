@@ -23,35 +23,35 @@
     <div class="container about_section_stats_wrap">
         <div class="about_section_stats">
             <div class="row g-4">
-                <div class="col-lg col-md-4 about_section_stat_item">
+                <div class="col-lg col-md-4 col-6 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-emoji-smile"></i></div>
                     <div>
                         <div class="about_section_stat_number">11+</div><small>Years of Excellence</small>
                     </div>
                 </div>
 
-                <div class="col-lg col-md-4 about_section_stat_item">
+                <div class="col-lg col-md-4 col-6 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-people"></i></div>
                     <div>
                         <div class="about_section_stat_number">8126+</div><small>Happy Patients</small>
                     </div>
                 </div>
 
-                <div class="col-lg col-md-4 about_section_stat_item">
+                <div class="col-lg col-md-4 col-6 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-person-badge"></i></div>
                     <div>
                         <div class="about_section_stat_number">10+</div><small>Expert Doctors</small>
                     </div>
                 </div>
 
-                <div class="col-lg col-md-4 about_section_stat_item">
+                <div class="col-lg col-md-4 col-6 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-shield-check"></i></div>
                     <div>
                         <div class="about_section_stat_number">98%</div><small>Patient Satisfaction</small>
                     </div>
                 </div>
 
-                <div class="col-lg col-md-4 about_section_stat_item">
+                <div class="col-lg col-md-4 col-6 about_section_stat_item">
                     <div class="about_section_stat_icon"><i class="bi bi-award"></i></div>
                     <div>
                         <div class="about_section_stat_number">500+</div><small> Implants  </small>

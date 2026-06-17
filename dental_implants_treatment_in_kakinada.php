@@ -42,16 +42,16 @@
         Restores Smile<br>& Confidence
       </div>
     </div>
-
-    <button class="tooth_extraction_btn_blue me-3">
-      BOOK APPOINTMENT
-      <i class="bi bi-calendar-event ms-2"></i>
-    </button>
-
-    <button class="tooth_extraction_btn_outline">
-      <i class="bi bi-telephone me-2"></i>
-      CALL US NOW
-    </button>
+    <a href="appointment_srinivasa_dental_hospital.php">
+      <button class="tooth_extraction_btn_blue me-3 mb-3">
+        BOOK APPOINTMENT
+        <i class="bi bi-calendar-event ms-2"></i>
+      </button></a>
+    <a href="contact_srinivasa_multispeciality_dental_hospital.php">
+      <button class="tooth_extraction_btn_outline">
+        <i class="bi bi-telephone me-2"></i>
+        CALL US NOW
+      </button></a>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play">
@@ -125,7 +125,7 @@
 
       <div class="col-lg-4">
         <img class="w-100 rounded"
-             src="assets\img\Dental_implant1.jpg">
+          src="assets\img\Dental_implant1.jpg">
       </div>
 
       <!-- WHO CAN GET DENTAL IMPLANTS -->
@@ -194,7 +194,7 @@
       </div>
 
     </div>
-        <!-- PROCESS SECTION -->
+    <!-- PROCESS SECTION -->
 
     <div class="tooth_extraction_heading_small">
       — THE DENTAL IMPLANT PROCESS —
@@ -359,7 +359,7 @@
     <h2 class="tooth_extraction_heading mt-4">
       Frequently Asked Questions
     </h2>
-        <div class="row g-3">
+    <div class="row g-3">
 
       <div class="col-lg-4">
         <div class="tooth_extraction_faq_card">
@@ -420,16 +420,16 @@
         </div>
 
         <div class="col-lg-6 text-lg-end">
-
-          <button class="tooth_extraction_btn_gold">
-            <i class="bi bi-calendar-event me-2"></i>
-            BOOK APPOINTMENT
-          </button>
-
-          <button class="tooth_extraction_btn_outline ms-2">
-            <i class="bi bi-telephone me-2"></i>
-            CALL US NOW
-          </button>
+          <a href="appointment_srinivasa_dental_hospital.php">
+            <button class="tooth_extraction_btn_gold mb-2 ">
+              <i class="bi bi-calendar-event me-2"></i>
+              BOOK APPOINTMENT
+            </button></a>
+          <a href="contact_srinivasa_multispeciality_dental_hospital.php">
+            <button class="tooth_extraction_btn_outline ms-2">
+              <i class="bi bi-telephone me-2"></i>
+              CALL US NOW
+            </button></a>
 
         </div>
 

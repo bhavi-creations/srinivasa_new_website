@@ -158,37 +158,37 @@
     <h2 class="tooth_extraction_heading">Your Journey to a Perfect Smile</h2>
 
     <div class="row g-3">
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-people"></i>
           <h5>Consultation</h5>
           <p>We understand your goals and evaluate your smile.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i>
           <h5>Personalized Plan</h5>
           <p>A customized treatment plan is designed for you.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-tools"></i>
           <h5>Treatment</h5>
           <p>We perform the agreed treatments with precision.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-emoji-smile"></i>
           <h5>Enhancement</h5>
           <p>Your smile is enhanced step-by-step.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-search"></i>
           <h5>Final Reveal</h5>
           <p>See your new smile and the amazing transformation.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-stars"></i>
           <h5>Follow-up Care</h5>
           <p>We ensure long-lasting results and your satisfaction.</p>
@@ -197,7 +197,7 @@
     </div>
 
     <div class="row g-4 mt-3">
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_dark_card">
           <h3>BENEFITS OF A SMILE MAKEOVER</h3>
           <ul>
@@ -210,7 +210,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 d-none d-lg-block">
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
@@ -222,7 +222,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_card">
           <h3>OUR PROMISE</h3>
           <ul>
@@ -232,6 +232,19 @@
             <li><i class="bi bi-check2-circle"></i> Painless and comfortable experience</li>
             <li><i class="bi bi-check2-circle"></i> Results that look and feel natural</li>
           </ul>
+        </div>
+      </div>
+
+
+        <div class="col-lg-4 d-block d-lg-none">
+        <div class="tooth_extraction_card">
+          <h3>BEFORE & AFTER</h3>
+          <div class="tooth_extraction_before_after">
+            <img src="assets\img\Before_smile_makeover.jpg">
+            <img src="assets\img\After_smile_makeover.jpg">
+          </div>
+          <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
+          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
         </div>
       </div>
     </div>

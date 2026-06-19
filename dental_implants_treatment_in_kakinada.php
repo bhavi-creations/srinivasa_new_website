@@ -77,35 +77,35 @@
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-6 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-tooth"></i>
             Looks & Feels<br>Like Natural Teeth
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-6 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-shield-check"></i>
             Supports Jawbone<br>Health
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-6 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-cup-hot"></i>
             Eat & Chew<br>Comfortably
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-6 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-award"></i>
             Strong & Durable<br>Results
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <div class="col-lg col-6 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-emoji-smile"></i>
             Improves Smile<br>Confidence
@@ -130,7 +130,7 @@
 
       <!-- WHO CAN GET DENTAL IMPLANTS -->
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_card">
 
           <div class="tooth_extraction_heading_small text-start">
@@ -166,7 +166,7 @@
 
       <!-- IMPLANT STRUCTURE -->
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_card">
 
           <h3>IMPLANT STRUCTURE</h3>
@@ -206,7 +206,7 @@
 
     <div class="row g-3">
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card">
           <span>01</span>
           <i class="bi bi-search"></i>
@@ -215,7 +215,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card">
           <span>02</span>
           <i class="bi bi-clipboard2-pulse"></i>
@@ -224,7 +224,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card">
           <span>03</span>
           <i class="bi bi-tools"></i>
@@ -233,7 +233,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card">
           <span>04</span>
           <i class="bi bi-hourglass-split"></i>
@@ -242,7 +242,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card">
           <span>05</span>
           <i class="bi bi-link-45deg"></i>
@@ -251,7 +251,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card">
           <span>06</span>
           <i class="bi bi-gem"></i>
@@ -268,7 +268,7 @@
 
       <!-- BENEFITS -->
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_card">
 
           <h3>BENEFITS OF DENTAL IMPLANTS</h3>
@@ -307,7 +307,7 @@
 
       <!-- SUCCESS RATE -->
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_card">
 
           <h3>IMPLANT SUCCESS RATE</h3>
@@ -405,13 +405,13 @@
 
       <div class="row align-items-center g-3">
 
-        <div class="col-lg-1">
+        <!-- <div class="col-lg-1">
           <div class="tooth_extraction_cta_icon">
             <i class="bi bi-calendar-event"></i>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-lg-5">
+        <div class="col-lg-6">
           <h3>Ready to Replace Missing Teeth?</h3>
 
           <p class="mb-0">

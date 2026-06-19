@@ -34,7 +34,7 @@
 
 
         <div class="row g-4">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="root_canal_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">01</span>
@@ -47,7 +47,7 @@
             </div>
 
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="dental_braces_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">02</span>
@@ -59,7 +59,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="dental_implants_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">03</span>
@@ -71,7 +71,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="dentalcrown_bridge_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">04</span>
@@ -83,7 +83,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="teeth_filling_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">05</span>
@@ -95,7 +95,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="dentaldentures_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">06</span>
@@ -107,7 +107,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="teeth_scaling_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">07</span>
@@ -119,7 +119,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="tooth_extraction_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">08</span>
@@ -131,7 +131,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="invisalignaligners_clearaligners_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">09</span>
@@ -143,7 +143,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="teeth_whitning_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">10</span>
@@ -155,7 +155,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="smile_makeover_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">11</span>
@@ -167,7 +167,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-xl-3 col-md-6">
                 <a href="fullmouthrestrotion_treatment_in_kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">12</span>
@@ -179,11 +179,12 @@
                 </a>
             </div>
         </div>
-
-        <div class="service_section_cta">
+  <div class="service_section_cta">
             <div class="row align-items-center g-4">
                 <div class="col-lg-3 d-flex align-items-center gap-3">
-                    <div class="service_section_cta_icon"><i class="bi bi-calendar2-check"></i></div>
+                    <!-- <div class="service_section_cta_icon">
+                        <i class="bi bi-calendar2-check"></i>
+                    </div> -->
                     <div>
                         <div class="service_section_cta_title">Ready for a Healthier Smile?</div>
                         <small>Book your appointment today and experience the difference.</small>
@@ -226,6 +227,7 @@
                 </div>
             </div>
         </div>
+      
 
     </div>
 </section>

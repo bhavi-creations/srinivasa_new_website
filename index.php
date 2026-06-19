@@ -237,7 +237,7 @@
 
 <section class="home_section_about">
   <div class="container">
-    <div class="row align-items-center g-5 " style="margin: 0px -12px 0px;">
+    <div class="row align-items-center g-5 " style="margin: 0px -12px 0px; mx-2">
       <div class="col-lg-4">
         <div class="home_section_subtitle">WHY CHOOSE US —</div>
         <h2>Experience the Best in <span>Dental Care</span></h2>
@@ -259,10 +259,9 @@
       </div>
 
       <div class="col-lg-3">
-        <div class="home_section_about_box">
-          <div class="home_section_about_box_item">
-            <div class="home_section_about_box_icon"><i class="bi bi-cpu"></i></div> Advanced Technology
-          </div>
+        <div class="home_section_about_box ">
+          
+         
           <div class="home_section_about_box_item">
             <div class="home_section_about_box_icon"><i class="bi bi-person-check"></i></div> Comfortable Environment
           </div>

@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
-<section class="tooth_extraction_hero teeth_whitning_treatment_hero">
-  <div class="container">
+<section class="tooth_extraction_hero teeth_whitning_treatment_hero ">
+  <div class="container ">
     <div class="tooth_extraction_breadcrumb">
       <i class="bi bi-house-door"></i> Home
       <i class="bi bi-chevron-right mx-2"></i> Services
@@ -119,37 +119,37 @@
     <h2 class="tooth_extraction_heading">Simple Steps to a Brighter Smile</h2>
 
     <div class="row g-3">
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-search-heart"></i>
           <h5>Consultation</h5>
           <p>We examine your teeth and discuss your whitening goals.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i>
           <h5>Cleaning</h5>
           <p>We clean your teeth to remove plaque and surface stains.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-shield-check"></i>
           <h5>Gum Protection</h5>
           <p>A protective barrier is applied to keep gums safe and comfortable.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-stars"></i>
           <h5>Whitening Treatment</h5>
           <p>The whitening gel is applied and activated for optimal results.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-heart-pulse"></i>
           <h5>Rinse & Reveal</h5>
           <p>The gel is removed and your brighter smile is revealed!</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-emoji-smile"></i>
           <h5>Aftercare Advice</h5>
           <p>We guide you on how to maintain your results for longer.</p>
@@ -158,7 +158,7 @@
     </div>
 
     <div class="row g-4 mt-3">
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_dark_card">
           <h3>BENEFITS OF TEETH WHITENING</h3>
           <ul>
@@ -171,7 +171,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 d-none d-lg-block">
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
@@ -183,7 +183,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_card">
           <h3>AFTERCARE TIPS</h3>
           <ul>
@@ -192,6 +192,19 @@
             <li><i class="bi bi-check2-circle"></i> Brush twice daily & floss regularly</li>
             <li><i class="bi bi-check2-circle"></i> Visit your dentist for regular cleanings</li>
           </ul>
+        </div>
+      </div>
+
+
+      <div class="col-lg-4 d-block d-lg-none">
+        <div class="tooth_extraction_card">
+          <h3>BEFORE & AFTER</h3>
+          <div class="tooth_extraction_before_after">
+            <img src="assets\img\Before_teeth_whitning1.jpg">
+            <img src="assets\img\After_teeth_whitning1.jpg">
+          </div>
+          <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
+          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
         </div>
       </div>
     </div>

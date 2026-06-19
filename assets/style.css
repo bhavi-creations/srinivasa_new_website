@@ -107,6 +107,7 @@
        margin: 0 12px;
    }
 
+   @media (min-width:1200px){
    .home_section_btn_gold {
        background: linear-gradient(135deg, #f8d58b, #c98b2c);
        border: 0;
@@ -115,6 +116,43 @@
        border-radius: 8px;
        font-weight: 800;
    }
+   }
+
+
+
+
+@media (min-width:992px) and (max-width:1200px){
+
+     .home_section_btn_gold {
+          background: linear-gradient(135deg, #f8d58b, #c98b2c);
+       border: 0;
+       color: #061936;
+       /* padding: 13px 24px; */
+       border-radius: 8px;
+       font-weight: 800;
+      
+       padding: 13px 10px !important;
+      
+   }
+}
+
+
+
+@media (max-width:992px) {
+    .home_section_btn_gold {
+       background: linear-gradient(135deg, #f8d58b, #c98b2c);
+       border: 0;
+       color: #061936;
+       padding: 13px 24px;
+       border-radius: 8px;
+       font-weight: 800;
+   }
+    
+}
+
+
+
+
 
    .home_section_hero {
        min-height: 720px;
@@ -552,15 +590,25 @@
            display: none;
        }
 
-       .home_section_booking {
-           margin-top: -50px;
-       }
+       
 
        .home_section_stat_item {
            border-right: 0;
            margin-bottom: 25px;
        }
    }
+   
+      @media (max-width: 768px) {
+    .home_section_booking {
+           margin-top: -50px;
+       }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .home_section_booking {
+        margin-top: -191px;
+    }
+}
 
 
    /* ABOUT PAGE */
@@ -596,6 +644,19 @@
 
 
    @media (max-width:768px) {
+       .about_section_hero_title {
+           font-size: 30px !important;
+       }
+
+       .about_section_hero_content {
+
+           background: #ffffff91
+       }
+   }
+
+
+   
+   @media (min-width:768px) and (max-width:992px){
        .about_section_hero_title {
            font-size: 30px !important;
        }
@@ -4706,3 +4767,12 @@
                background-image: none;
            }
        }
+
+
+       .teeth_whitening{
+        background-color: red !important;
+       }
+
+
+
+       

@@ -86,28 +86,28 @@
 
       <div class="row g-0">
 
-        <div class="col-lg col-md-4 col-12">
+        <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-heart-pulse"></i>
             Relieves Pain<br>& Sensitivity
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-12">
+        <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-shield-check"></i>
             Prevents Further<br>Decay
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-12">
+        <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-tools"></i>
             Restores Tooth<br>Function
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-12">
+        <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-stars"></i>
             Tooth-Colored<br>Aesthetics
@@ -135,7 +135,7 @@
 
     <div class="row g-4">
 
-      <div class="col-lg-6">
+      <div class="col-xl-6">
 
         <div class="tooth_extraction_card tooth_extraction_img_right">
 
@@ -187,7 +187,7 @@
 
       </div>
 
-      <div class="col-lg-6">
+      <div class="col-xl-6">
 
         <div class="tooth_extraction_card">
 
@@ -261,7 +261,7 @@
 
     <div class="row g-3">
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>01</span>
           <i class="bi bi-clipboard2-pulse"></i>
@@ -272,7 +272,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>02</span>
           <i class="bi bi-shield-x"></i>
@@ -283,7 +283,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>03</span>
           <i class="bi bi-droplet-half"></i>
@@ -294,7 +294,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>04</span>
           <i class="bi bi-pencil-square"></i>
@@ -305,7 +305,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>05</span>
           <i class="bi bi-stars"></i>
@@ -316,7 +316,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>06</span>
           <i class="bi bi-patch-check"></i>
@@ -331,7 +331,7 @@
 
     <div class="row g-4 mt-3">
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
 
         <div class="tooth_extraction_card">
 
@@ -375,38 +375,8 @@
 
       </div>
 
-      <div class="col-lg-4">
 
-        <div class="tooth_extraction_card">
-
-          <h3>BEFORE & AFTER</h3>
-
-          <div class="tooth_extraction_before_after">
-
-            <img
-              src="assets\img\Before_teethfilling_1012.jpg"
-              alt="Before Treatment">
-
-            <img
-              src="assets\img\After_teethfilling_1021.jpg"
-              alt="After Treatment">
-
-          </div>
-
-          <div class="tooth_extraction_ba_labels">
-            <span>BEFORE</span>
-            <span>AFTER</span>
-          </div>
-
-          <p class="text-center mt-2 mb-0">
-            <small>*Results may vary from patient to patient.</small>
-          </p>
-
-        </div>
-
-      </div>
-
-      <div class="col-lg-4">
+<div class="col-lg-4 col-md-6">
 
         <div class="tooth_extraction_card">
 
@@ -444,6 +414,43 @@
         </div>
 
       </div>
+
+
+
+
+
+      <div class="col-lg-4">
+
+        <div class="tooth_extraction_card">
+
+          <h3>BEFORE & AFTER</h3>
+
+          <div class="tooth_extraction_before_after">
+
+            <img
+              src="assets\img\Before_teethfilling_1012.jpg"
+              alt="Before Treatment">
+
+            <img
+              src="assets\img\After_teethfilling_1021.jpg"
+              alt="After Treatment">
+
+          </div>
+
+          <div class="tooth_extraction_ba_labels">
+            <span>BEFORE</span>
+            <span>AFTER</span>
+          </div>
+
+          <p class="text-center mt-2 mb-0">
+            <small>*Results may vary from patient to patient.</small>
+          </p>
+
+        </div>
+
+      </div>
+
+      
 
     </div>
 

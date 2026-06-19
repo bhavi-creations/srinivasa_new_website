@@ -103,37 +103,37 @@
     <h2 class="tooth_extraction_heading">Simple Steps to a Healthier Smile</h2>
 
     <div class="row g-3">
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4  col-6">
         <div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-search-heart"></i>
           <h5>Examination</h5>
           <p>We examine your teeth and gums to assess your oral health.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4  col-6">
         <div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i>
           <h5>Tartar Removal</h5>
           <p>Plaque and tartar are removed using advanced instruments.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4  col-6">
         <div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-brush"></i>
           <h5>Deep Cleaning</h5>
           <p>Teeth are cleaned thoroughly, including below the gumline.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4  col-6">
         <div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-stars"></i>
           <h5>Polishing</h5>
           <p>Teeth are polished to remove stains and make them smoother.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4  col-6">
         <div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-shield-check"></i>
           <h5>Fluoride Treatment</h5>
           <p>A fluoride treatment to strengthen teeth and prevent decay.</p>
         </div>
       </div>
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4  col-6">
         <div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-emoji-smile"></i>
           <h5>Healthy Smile</h5>
           <p>Enjoy clean, fresh and healthy teeth & gums!</p>
@@ -142,7 +142,7 @@
     </div>
 
     <div class="row g-4 mt-3">
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-6">
         <div class="tooth_extraction_dark_card">
           <h3>BENEFITS YOU'LL LOVE</h3>
           <ul>
@@ -155,7 +155,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 d-none d-lg-block">
         <div class="tooth_extraction_card">
 
           <h3>BEFORE & AFTER SCALING</h3>
@@ -179,7 +179,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-6" >
         <div class="tooth_extraction_card">
           <h3>AFTERCARE TIPS</h3>
           <ul>
@@ -188,6 +188,31 @@
             <li><i class="bi bi-check2-circle"></i> Avoid tobacco and excessive tea/coffee</li>
             <li><i class="bi bi-check2-circle"></i> Visit your dentist regularly</li>
           </ul>
+        </div>
+      </div>
+
+
+      <div class="col-lg-4 d-block d-lg-none">
+        <div class="tooth_extraction_card">
+
+          <h3>BEFORE & AFTER SCALING</h3>
+
+          <div class="tooth_extraction_before_after">
+            <img src="assets\img\Before_scaling.jpg" class="img-fluid">
+            <img src="assets\img\After_scaling.jpg" class="img-fluid">
+          </div>
+
+          <div class="tooth_extraction_ba_labels">
+            <span>BEFORE</span>
+            <span>AFTER</span>
+          </div>
+
+          <p class="text-center mt-2 mb-0">
+            <small>
+              Professional scaling helps remove plaque, tartar, and stains for cleaner teeth and healthier gums.
+            </small>
+          </p>
+
         </div>
       </div>
     </div>

@@ -233,7 +233,7 @@
 
     <div class="row g-3">
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>01</span>
           <i class="bi bi-clipboard2-pulse"></i>
@@ -242,7 +242,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>02</span>
           <i class="bi bi-tools"></i>
@@ -251,7 +251,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>03</span>
           <i class="bi bi-bounding-box"></i>
@@ -260,7 +260,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>04</span>
           <i class="bi bi-clock-history"></i>
@@ -269,7 +269,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>05</span>
           <i class="bi bi-gem"></i>
@@ -278,7 +278,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>06</span>
           <i class="bi bi-patch-check"></i>
@@ -291,7 +291,7 @@
 
     <div class="row g-4 mt-3">
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
 
         <div class="tooth_extraction_dark_card">
 
@@ -330,33 +330,8 @@
 
       </div>
 
-      <div class="col-lg-4">
 
-        <div class="tooth_extraction_card">
-
-          <h3>BEFORE & AFTER</h3>
-
-          <div class="tooth_extraction_before_after">
-
-            <img src="assets\img\Before_crownbridge.jpg" class="img-fluid">
-
-            <img src="assets\img\After_crownbridge.jpg" class="img-fluid">
-          </div>
-
-          <div class="tooth_extraction_ba_labels">
-            <span>BEFORE</span>
-            <span>AFTER</span>
-          </div>
-
-          <p class="text-center mt-2 mb-0">
-            <small>*Results may vary from patient to patient.</small>
-          </p>
-
-        </div>
-
-      </div>
-
-      <div class="col-lg-4">
+<div class="col-lg-4 col-md-6">
 
         <div class="tooth_extraction_card">
 
@@ -390,6 +365,38 @@
         </div>
 
       </div>
+
+
+
+
+
+      <div class="col-lg-4">
+
+        <div class="tooth_extraction_card">
+
+          <h3>BEFORE & AFTER</h3>
+
+          <div class="tooth_extraction_before_after">
+
+            <img src="assets\img\Before_crownbridge.jpg" class="img-fluid">
+
+            <img src="assets\img\After_crownbridge.jpg" class="img-fluid">
+          </div>
+
+          <div class="tooth_extraction_ba_labels">
+            <span>BEFORE</span>
+            <span>AFTER</span>
+          </div>
+
+          <p class="text-center mt-2 mb-0">
+            <small>*Results may vary from patient to patient.</small>
+          </p>
+
+        </div>
+
+      </div>
+
+      
 
     </div>
 

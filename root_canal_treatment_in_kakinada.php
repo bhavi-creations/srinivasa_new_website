@@ -39,16 +39,16 @@
   <div class="container">
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
-        <div class="col-lg col-md-4 col-12">
+        <div class="col-xl col-md-6 col-12">
           <div class="tooth_extraction_strip_item"><i class="bi bi-pc-display"></i>Advanced Technology<br><small>Latest rotary instruments for precision</small></div>
         </div>
-        <div class="col-lg col-md-4 col-12">
+        <div class="col-xl col-md-6 col-12">
           <div class="tooth_extraction_strip_item"><i class="bi bi-emoji-smile"></i>Painless Treatment<br><small>Comfortable & virtually pain-free experience</small></div>
         </div>
-        <div class="col-lg col-md-4 col-12">
+        <div class="col-xl col-md-6 col-12">
           <div class="tooth_extraction_strip_item"><i class="bi bi-person-badge"></i>Experienced Endodontists<br><small>Specialized care for best results</small></div>
         </div>
-        <div class="col-lg col-md-4 col-12">
+        <div class="col-xl col-md-6 col-12">
           <div class="tooth_extraction_strip_item"><i class="bi bi-shield-check"></i>Safe & Hygienic<br><small>Sterile environment for your safety</small></div>
         </div>
       </div>
@@ -96,7 +96,7 @@
     </div>
 
     <div class="row g-4 mt-3">
-      <div class="col-lg-3">
+      <div class="col-lg-3 col-md-6">
         <div class="tooth_extraction_card">
           <h3>SIGNS YOU MAY NEED ROOT CANAL TREATMENT</h3>
           <ul>
@@ -110,7 +110,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_dark_card">
           <h3>Benefits of Root Canal Treatment</h3>
           <ul>
@@ -170,7 +170,9 @@
         </div>
         <div class="col-lg-6 text-lg-end">
           <a href="appointment_srinivasa_dental_hospital.php"> <button class="tooth_extraction_btn_gold mb-3"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button></a>
-          <a href="contact_srinivasa_multispeciality_dental_hospital.php"> <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-whatsapp me-2"></i> WHATSAPP US</button></a>
+          <a href="contact_srinivasa_multispeciality_dental_hospital.php"> <button class="tooth_extraction_btn_outline ms-2">
+            <!-- <i class="bi bi-whatsapp me-2"></i> -->
+             CONTACT US</button></a>
         </div>
       </div>
     </div>

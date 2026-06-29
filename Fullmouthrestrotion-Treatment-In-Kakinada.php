@@ -27,8 +27,8 @@
       <div><i class="bi bi-calendar-check"></i>Long-lasting<br>Results</div>
     </div>
 
-   <a href="appointment_srinivasa_dental_hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
-   <a href="contact_srinivasa_multispeciality_dental_hospital.php"> <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
+   <a href="Appointment-Srinivasa-Dental-Hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
+   <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php"> <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
@@ -98,16 +98,16 @@
     <h2 class="tooth_extraction_heading">Your Path to a Complete, Healthy Smile</h2>
 
     <div class="row g-3">
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-chat-dots"></i><h5>Consultation & Evaluation</h5><p>We understand your concerns and perform advanced diagnostics.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-clipboard2-check"></i><h5>Personalized Treatment Plan</h5><p>A customized plan is designed around your needs and goals.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-heart-pulse"></i><h5>Preparatory Treatment</h5><p>We treat any existing mouth concerns before restoration.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-award"></i><h5>Restoration Phase</h5><p>Rebuild, replace and restore using advanced techniques and materials.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-stars"></i><h5>Refinement & Finishing</h5><p>We fine-tune your bite and aesthetics for natural results.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-shield-check"></i><h5>Long-term Care & Maintenance</h5><p>Ongoing care to maintain your new smile for years to come.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-chat-dots"></i><h5>Consultation & Evaluation</h5><p>We understand your concerns and perform advanced diagnostics.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-clipboard2-check"></i><h5>Personalized Treatment Plan</h5><p>A customized plan is designed around your needs and goals.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-heart-pulse"></i><h5>Preparatory Treatment</h5><p>We treat any existing mouth concerns before restoration.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-award"></i><h5>Restoration Phase</h5><p>Rebuild, replace and restore using advanced techniques and materials.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-stars"></i><h5>Refinement & Finishing</h5><p>We fine-tune your bite and aesthetics for natural results.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-shield-check"></i><h5>Long-term Care & Maintenance</h5><p>Ongoing care to maintain your new smile for years to come.</p></div></div>
     </div>
 
     <div class="row g-4 mt-3">
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-4">
         <div class="tooth_extraction_dark_card">
           <h3>BENEFITS OF FULL MOUTH RESTORATION</h3>
           <ul>
@@ -120,7 +120,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4  d-none d-lg-block">
+      <div class="col-lg-4">
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
@@ -132,7 +132,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-4">
         <div class="tooth_extraction_card">
           <h3>TECHNIQUES WE USE</h3>
           <ul>
@@ -142,18 +142,6 @@
             <li><i class="bi bi-check2-circle"></i> Full Mouth Rehabilitation</li>
             <li><i class="bi bi-check2-circle"></i> Advanced Digital Smile Design</li>
           </ul>
-        </div>
-      </div>
-
-        <div class="col-lg-4 d-block d-lg-none">
-        <div class="tooth_extraction_card">
-          <h3>BEFORE & AFTER</h3>
-          <div class="tooth_extraction_before_after">
-            <img src="assets\img\Before_full_mouth_restoration11.jpeg">
-            <img src="assets\img\After_full_mouth_restoration11.jpeg">
-          </div>
-          <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
-          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
         </div>
       </div>
     </div>
@@ -191,8 +179,8 @@
           <p class="mb-0">Book your appointment today and take the first step towards a healthier, stronger, more beautiful smile.</p>
         </div>
         <div class="col-lg-6 text-lg-end">
-     <a href="appointment_srinivasa_dental_hospital.php">    <button class="tooth_extraction_btn_gold mb-3"><i class="bi bi-calendar-event me-2 "></i> BOOK APPOINTMENT</button></a>
-       <a href="contact_srinivasa_multispeciality_dental_hospital.php">     <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button> </a>
+     <a href="Appointment-Srinivasa-Dental-Hospital.php">    <button class="tooth_extraction_btn_gold mb-3"><i class="bi bi-calendar-event me-2 "></i> BOOK APPOINTMENT</button></a>
+       <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">     <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button> </a>
         </div>
       </div>
     </div>

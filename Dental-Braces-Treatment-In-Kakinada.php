@@ -26,8 +26,8 @@
       <div><i class="bi bi-shield-check"></i>Long-term Oral<br>Health</div>
     </div>
 
-   <a href="appointment_srinivasa_dental_hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
-   <a href="contact_srinivasa_multispeciality_dental_hospital.php"> <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
+    <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
+    <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
@@ -214,8 +214,8 @@
           <p class="mb-0">Book your consultation today and take the first step towards a confident, beautiful smile.</p>
         </div>
         <div class="col-lg-6 text-lg-end"> 
-        <a href="appointment_srinivasa_dental_hospital.php">  <button class="tooth_extraction_btn_gold mb-3" ><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button></a>
-        <a href="contact_srinivasa_multispeciality_dental_hospital.php"> <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
+        <a href="Appointment-Srinivasa-Dental-Hospital.php"></a>  <button class="tooth_extraction_btn_gold mb-3" ><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button>
+        <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php"></a>  <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button>
         </div>
       </div>
     </div>

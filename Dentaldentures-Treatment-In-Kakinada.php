@@ -47,13 +47,13 @@
       </div>
 
     </div>
-    <a href="appointment_srinivasa_dental_hospital.php">
+    <a href="Appointment-Srinivasa-Dental-Hospital.php">
       <button class="tooth_extraction_btn_blue me-3 mb-2">
         BOOK APPOINTMENT
         <i class="bi bi-calendar-event ms-2"></i>
       </button>
     </a>
-    <a href="contact_srinivasa_multispeciality_dental_hospital.php">
+    <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">
       <button class="tooth_extraction_btn_outline">
         <i class="bi bi-telephone me-2"></i>
         CALL US NOW
@@ -248,7 +248,7 @@
     </h2>
 
     <div class="row g-3">
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>01</span>
           <i class="bi bi-clipboard2-pulse"></i>
@@ -260,7 +260,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>02</span>
           <i class="bi bi-bounding-box"></i>
@@ -272,7 +272,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>03</span>
           <i class="bi bi-pencil-square"></i>
@@ -284,7 +284,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>04</span>
           <i class="bi bi-person-check"></i>
@@ -296,7 +296,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>05</span>
           <i class="bi bi-stars"></i>
@@ -308,7 +308,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>06</span>
           <i class="bi bi-emoji-smile"></i>
@@ -322,9 +322,9 @@
 
     </div>
 
-    <div class="row g-4 mt-3  ">
+    <div class="row g-4 mt-3">
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-4">
 
         <div class="tooth_extraction_dark_card">
 
@@ -368,7 +368,7 @@
 
       </div>
 
-      <div class="col-lg-4 d-none d-lg-block">
+      <div class="col-lg-4">
 
         <div class="tooth_extraction_card">
 
@@ -399,7 +399,7 @@
 
       </div>
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-4">
 
         <div class="tooth_extraction_card">
 
@@ -438,46 +438,7 @@
 
       </div>
 
-       <div class="col-lg-4 d-block d-lg-none">
-
-        <div class="tooth_extraction_card">
-
-          <h3>BEFORE & AFTER</h3>
-
-          <div class="tooth_extraction_before_after">
-
-            <img
-              src="assets\img\Before_denture_treatment.jpeg"
-              alt="Before Dentures">
-
-            <img
-              src="assets\img\After_denture_treatment.jpeg"
-              alt="After Dentures">
-
-          </div>
-
-          <div class="tooth_extraction_ba_labels">
-            <span>BEFORE</span>
-            <span>AFTER</span>
-          </div>
-
-          <p class="text-center mt-2 mb-0">
-            <small>*Results may vary from patient to patient.</small>
-          </p>
-
-        </div>
-
-      </div>
-
     </div>
-
-
-  
-    
-
-
-
-    
 
     <h2 class="tooth_extraction_heading mt-5">
       Frequently Asked Questions
@@ -568,13 +529,13 @@
         </div>
 
         <div class="col-lg-6 text-lg-end">
-          <a href="appointment_srinivasa_dental_hospital.php">
+          <a href="Appointment-Srinivasa-Dental-Hospital.php">
             <button class="tooth_extraction_btn_gold mb-2">
               <i class="bi bi-calendar-event me-2"></i>
               BOOK APPOINTMENT
             </button>
           </a>
-          <a href="contact_srinivasa_multispeciality_dental_hospital.php">
+          <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">
             <button class="tooth_extraction_btn_outline ms-2">
               <i class="bi bi-telephone me-2"></i>
               CALL US NOW

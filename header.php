@@ -31,16 +31,16 @@
 
         <div class="collapse navbar-collapse" id="home_section_menu">
             <ul class="navbar-nav mx-auto">
-                <li class="nav-item"><a class="nav-link" href="index.php">HOME</a></li>
-                <li class="nav-item"><a class="nav-link" href="about_srinivasa_multispeciality_dental_hospital.php">ABOUT US</a></li>
-                <li class="nav-item"><a class="nav-link" href="services_srinivasa_multispeciality_dental_hospital.php">SERVICES</a></li>
+                <li class="nav-item"><a class="nav-link" href="Home.php">HOME</a></li>
+                <li class="nav-item"><a class="nav-link" href="About-Srinivasa-Multispeciality-Dental-Hospital.php">ABOUT US</a></li>
+                <li class="nav-item"><a class="nav-link" href="Services-Srinivasa-Multispeciality-Dental-Hospital.php">SERVICES</a></li>
                 <!-- <li class="nav-item"><a class="nav-link" href="doctors.php">DOCTORS</a></li> -->
                
                 <li class="nav-item"><a class="nav-link" href="blogs_srinivasa_multispeciality_dental_hospital.php">BLOGS</a></li>
                  <!-- <li class="nav-item"><a class="nav-link" href="news_letter1.php">NEWS LETTER</a></li> -->
-                <li class="nav-item"><a class="nav-link" href="contact_srinivasa_multispeciality_dental_hospital.php">CONTACT</a></li>
+                <li class="nav-item"><a class="nav-link" href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">CONTACT</a></li>
             </ul>
-            <a href="appointment_srinivasa_dental_hospital.php">
+            <a href="Appointment-Srinivasa-Dental-Hospital.php">
             <button class="home_section_btn_gold">
                 <i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT
             </button></a>

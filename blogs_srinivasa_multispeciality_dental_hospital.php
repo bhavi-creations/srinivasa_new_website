@@ -86,86 +86,86 @@ $category_result = $conn->query($category_sql);
 
 <style>
     .pagination-wrap {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    flex-wrap: wrap;
-}
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
 
-.pagination-wrap a {
-    text-decoration: none;
-}
+    .pagination-wrap a {
+        text-decoration: none;
+    }
 
-.page-btn {
-    min-width: 42px;
-    height: 42px;
-    border: 1px solid #d7d7d7;
-    background: #fff;
-    color: #333;
-    border-radius: 50%;
-    font-size: 15px;
-    font-weight: 600;
-    transition: 0.3s ease;
-}
+    .page-btn {
+        min-width: 42px;
+        height: 42px;
+        border: 1px solid #d7d7d7;
+        background: #fff;
+        color: #333;
+        border-radius: 50%;
+        font-size: 15px;
+        font-weight: 600;
+        transition: 0.3s ease;
+    }
 
-.page-btn:hover {
-    background: #943483;
-    color: #fff;
-    border-color: #943483;
-    transform: translateY(-2px);
-}
+    .page-btn:hover {
+        background: #943483;
+        color: #fff;
+        border-color: #943483;
+        transform: translateY(-2px);
+    }
 
-.page-btn.active {
-    background: #943483;
-    color: #fff;
-    border-color: #943483;
-    box-shadow: 0 8px 20px rgba(148, 52, 131, 0.3);
-}
+    .page-btn.active {
+        background: #943483;
+        color: #fff;
+        border-color: #943483;
+        box-shadow: 0 8px 20px rgba(148, 52, 131, 0.3);
+    }
 
-.pagination-wrap .page-btn:not(.active) {
-    cursor: pointer;
-}
+    .pagination-wrap .page-btn:not(.active) {
+        cursor: pointer;
+    }
 
-.pagination-wrap button {
-    outline: none;
-}
+    .pagination-wrap button {
+        outline: none;
+    }
 
-.pagination-wrap a:last-child .page-btn {
-    border-radius: 25px;
-    padding: 0 18px;
-    width: auto;
-}
+    .pagination-wrap a:last-child .page-btn {
+        border-radius: 25px;
+        padding: 0 18px;
+        width: auto;
+    }
 
-.blog_section{
-    display: flex;
-    justify-content: center;
-    color: #d27800;
-    font-weight: 600;
-    margin-top: 20px;
+    .blog_section {
+        display: flex;
+        justify-content: center;
+        color: #d27800;
+        font-weight: 600;
+        margin-top: 20px;
         font-family: Georgia, serif;
-}
+    }
 </style>
-    <section class="blogs_section_hero">
-        <div class="container">
-            <div class="blogs_section_breadcrumb">
-                <i class="bi bi-house-door me-2"></i> Home <i class="bi bi-chevron-right mx-2"></i> <b>Blog</b>
-            </div>
+<section class="blogs_section_hero">
+    <div class="container">
+        <div class="blogs_section_breadcrumb">
+            <i class="bi bi-house-door me-2"></i> Home <i class="bi bi-chevron-right mx-2"></i> <b>Blog</b>
+        </div>
 
-            <h1 class="blogs_section_hero_title">Our Blogs</h1>
-            <div class="blogs_section_hero_subtitle">Insights. Tips. Trends. All About Better Oral Health.</div>
-            <p class="blogs_section_hero_text">
-                Explore our expert articles to learn more about dental care, treatments, and tips for a healthier, brighter smile.
-            </p>
+        <h1 class="blogs_section_hero_title">Our Blogs</h1>
+        <div class="blogs_section_hero_subtitle">Insights. Tips. Trends. All About Better Oral Health.</div>
+        <p class="blogs_section_hero_text">
+            Explore our expert articles to learn more about dental care, treatments, and tips for a healthier, brighter smile.
+        </p>
 
-            <!-- <div class="blogs_section_search_box">
+        <!-- <div class="blogs_section_search_box">
                 <input type="text" class="form-control" placeholder="Search blogs...">
                 <button>SEARCH</button>
             </div> -->
-        </div>
-    </section>
+    </div>
+</section>
 
-    <!-- <section class="blogs_section_topics">
+<!-- <section class="blogs_section_topics">
         <div class="container">
             <div class="blogs_section_topics_box">
                 <div class="blogs_section_topic_item"><i class="bi bi-heart-pulse"></i>General<br>Dentistry</div>
@@ -182,8 +182,8 @@ $category_result = $conn->query($category_sql);
     </section> -->
 
 
-    <h1 class="blog_section">Blogs</h1>
-    <section class="blogs_section_main">
+<h1 class="blog_section">Blogs</h1>
+<section class="blogs_section_main">
     <div class="container">
 
         <div class="row mb-4">
@@ -262,7 +262,7 @@ $category_result = $conn->query($category_sql);
                     <div class="blogs_section_label">ALL BLOGS</div>
 
                     <div class="row g-4">
-                        <?php for ($i = 1; $i < count($blogs); $i++): 
+                        <?php for ($i = 1; $i < count($blogs); $i++):
                             $row = $blogs[$i];
 
                             $image_path = !empty($row['main_image'])
@@ -364,7 +364,7 @@ $category_result = $conn->query($category_sql);
                     <h3>Popular Posts</h3>
 
                     <?php if ($popular_result && $popular_result->num_rows > 0): ?>
-                        <?php while ($p_row = $popular_result->fetch_assoc()): 
+                        <?php while ($p_row = $popular_result->fetch_assoc()):
                             $p_img = !empty($p_row['main_image'])
                                 ? "admin/uploads/photos/" . htmlspecialchars($p_row['main_image'])
                                 : "default_image.png";
@@ -433,4 +433,4 @@ $category_result = $conn->query($category_sql);
     </div>
 </section>
 
-   <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>

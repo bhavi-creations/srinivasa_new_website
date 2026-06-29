@@ -5,7 +5,7 @@
     <div class="container-fluid p-0">
         <div class="row g-0 align-items-center">
 
-            <div class="col-md-5">
+            <div class="col-lg-5">
                 <div class="contact_us_hero_content">
 
                     <div class="contact_us_breadcrumb">
@@ -51,7 +51,7 @@
                 </div>
             </div>
 
-            <div class="col-md-7">
+            <div class="col-lg-7">
                 <div class="contact_us_hero_image">
                     <img src="./assets/img/equi.png" class="img-fluid w-100">
 

@@ -65,7 +65,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         $mail->send();
 
-        header("Location: index.php");
+        header("Location: Home.php");
         // header("Location: thank-you.php");
         exit;
 

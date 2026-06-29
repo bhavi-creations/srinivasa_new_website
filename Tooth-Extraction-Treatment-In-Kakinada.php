@@ -22,8 +22,8 @@
       <div><i class="bi bi-clock"></i>Quick & Safe<br>Procedure</div>
     </div>
 
-   <a href="appointment_srinivasa_dental_hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
-   <a href="contact_srinivasa_multispeciality_dental_hospital.php"> <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
+   <a href="Appointment-Srinivasa-Dental-Hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
+   <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital"> <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
@@ -89,16 +89,16 @@
     <h2 class="tooth_extraction_heading">Step-by-Step Care You Can Trust</h2>
 
     <div class="row g-3">
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-clipboard2-pulse"></i><h5>Examination</h5><p>We examine your tooth and take X-rays if needed.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-eyedropper"></i><h5>Numbing</h5><p>Local anesthesia is given to ensure a pain-free procedure.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-heart-pulse"></i><h5>Extraction</h5><p>The tooth is gently removed using advanced instruments.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-bandaid"></i><h5>Cleansing</h5><p>The area is cleaned thoroughly.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-file-earmark-medical"></i><h5>Aftercare Instructions</h5><p>We provide detailed instructions for recovery.</p></div></div>
-      <div class="col-lg-4 col-6"><div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-emoji-smile"></i><h5>Recovery & Follow-up</h5><p>We monitor your healing and support you.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-clipboard2-pulse"></i><h5>Examination</h5><p>We examine your tooth and take X-rays if needed.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-eyedropper"></i><h5>Numbing</h5><p>Local anesthesia is given to ensure a pain-free procedure.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-heart-pulse"></i><h5>Extraction</h5><p>The tooth is gently removed using advanced instruments.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-bandaid"></i><h5>Cleansing</h5><p>The area is cleaned thoroughly.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-file-earmark-medical"></i><h5>Aftercare Instructions</h5><p>We provide detailed instructions for recovery.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-emoji-smile"></i><h5>Recovery & Follow-up</h5><p>We monitor your healing and support you.</p></div></div>
     </div>
 
     <div class="row g-4 mt-3">
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-4">
         <div class="tooth_extraction_dark_card">
           <h3>BENEFITS OF TOOTH EXTRACTION</h3>
           <ul>
@@ -111,7 +111,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 d-none d-lg-block">
+      <div class="col-lg-4">
         <div class="tooth_extraction_card">
           <h3>BEFORE & AFTER</h3>
           <div class="tooth_extraction_before_after">
@@ -122,7 +122,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-4">
         <div class="tooth_extraction_card">
           <h3>AFTERCARE TIPS</h3>
           <ul>
@@ -132,17 +132,6 @@
             <li><i class="bi bi-check2-circle"></i> Take prescribed medicines as directed</li>
             <li><i class="bi bi-check2-circle"></i> Maintain good oral hygiene</li>
           </ul>
-        </div>
-      </div>
-
-       <div class="col-lg-4 d-block d-lg-none">
-        <div class="tooth_extraction_card">
-          <h3>BEFORE & AFTER</h3>
-          <div class="tooth_extraction_before_after">
-            <img src="assets\img\Before_extraction.jpg">
-            <img src="assets\img\After_extraction.jpg">
-          </div>
-          <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
         </div>
       </div>
     </div>
@@ -160,8 +149,8 @@
         <div class="col-lg-1"><div class="tooth_extraction_cta_icon"><i class="bi bi-heart-pulse"></i></div></div>
         <div class="col-lg-5"><h3>Your Comfort. Our Care. Your Healthy Smile.</h3><p class="mb-0">Book your appointment today for safe and painless tooth extraction.</p></div>
         <div class="col-lg-6 text-lg-end">
-       <a href="appointment_srinivasa_dental_hospital.php">   <button class="tooth_extraction_btn_gold mb-3"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button></a>  
-        <a href="contact_srinivasa_multispeciality_dental_hospital.php"> <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>  
+       <a href="Appointment-Srinivasa-Dental-Hospital.php">   <button class="tooth_extraction_btn_gold mb-3"><i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT</button></a>  
+        <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php"> <button class="tooth_extraction_btn_outline ms-2"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>  
         </div>
       </div>
     </div>

@@ -114,7 +114,7 @@
             <h2 class="about_section_heading">Experience the Difference</h2>
 
             <div class="row g-3">
-                <div class=" col-md-4 col-sm-6">
+                <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="about_section_feature_card">
                         <div class="about_section_feature_icon"><i class="bi bi-stars"></i></div>
                         <h5>Advanced Technology</h5>
@@ -122,7 +122,7 @@
                     </div>
                 </div>
 
-                <div class=" col-md-4 col-sm-6">
+                <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="about_section_feature_card">
                         <div class="about_section_feature_icon"><i class="bi bi-person-badge"></i></div>
                         <h5>Experienced Professionals</h5>
@@ -130,7 +130,7 @@
                     </div>
                 </div>
 
-                <div class=" col-md-4 col-sm-6">
+                <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="about_section_feature_card">
                         <div class="about_section_feature_icon"><i class="bi bi-shield-check"></i></div>
                         <h5>Painless & Comfortable</h5>
@@ -138,7 +138,7 @@
                     </div>
                 </div>
 
-                <div class=" col-md-4 col-sm-6">
+                <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="about_section_feature_card">
                         <div class="about_section_feature_icon"><i class="bi bi-heart"></i></div>
                         <h5>Personalized Care</h5>
@@ -146,7 +146,7 @@
                     </div>
                 </div>
 
-                <div class=" col-md-4 col-sm-6">
+                <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="about_section_feature_card">
                         <div class="about_section_feature_icon"><i class="bi bi-brightness-high"></i></div>
                         <h5>Hygienic & Safe Environment</h5>
@@ -154,7 +154,7 @@
                     </div>
                 </div>
 
-                <div class=" col-md-4 col-sm-6">
+                <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="about_section_feature_card">
                         <div class="about_section_feature_icon"><i class="bi bi-cash-coin"></i></div>
                         <h5>Affordable Pricing</h5>

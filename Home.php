@@ -12,8 +12,8 @@
       </p>
 
       <div class="d-flex gap-3 flex-wrap">
-        <a href="appointment_srinivasa_dental_hospital.php"><button class="home_section_btn_blue">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
-        <a href="contact_srinivasa_multispeciality_dental_hospital.php"><button class="home_section_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
+        <a href="Appointment-Srinivasa-Dental-Hospital.php"><button class="home_section_btn_blue">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
+        <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php"><button class="home_section_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
       </div>
 
       <div class="home_section_features">
@@ -92,7 +92,7 @@
             <div class="home_section_service_icon"><i class="bi bi-heart-pulse"></i></div>
             <h5>Root Canal</h5>
             <p>A root canal is a dental procedure that removes infected tissue from inside a tooth to relieve pain and save the tooth</p>
-            <a class="home_section_service_link" href="root_canal_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Root-Canal-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
 
@@ -101,7 +101,7 @@
             <div class="home_section_service_icon"><i class="bi bi-award"></i></div>
             <h5>Dental braces</h5>
             <p>Dental braces are orthodontic devices used to align and straighten teeth, improving dental health and appearance.</p>
-            <a class="home_section_service_link" href="dental_braces_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Dental-Braces-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
 
@@ -110,7 +110,7 @@
             <div class="home_section_service_icon"><i class="bi bi-stars"></i></div>
             <h5>Dental implants</h5>
             <p>Dental implants are artificial tooth roots placed in the jawbone to support and anchor replacement teeth or bridges.</p>
-            <a class="home_section_service_link" href="dental_implants_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Dental-Implants-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
 
@@ -119,7 +119,7 @@
             <div class="home_section_service_icon"><i class="bi bi-braces"></i></div>
             <h5>Tooth Crowns & Bridges</h5>
             <p>Tooth crowns and bridges are restorative dental solutions used to restore damaged teeth and replace missing ones, improving both function and appearance.</p>
-            <a class="home_section_service_link" href="dentalcrown_bridge_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Dentalcrown-Bridge-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
 
@@ -154,7 +154,7 @@
             <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
             <h5>Teeth Scaling</h5>
             <p>Teeth scaling is a dental procedure that removes plaque and tartar buildup from the tooth surfaces and below the gum line to maintain oral health.</p>
-            <a class="home_section_service_link" href="teeth_scaling_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Teeth-Scaling-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
         <div class="swiper-slide">
@@ -162,7 +162,7 @@
             <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
             <h5>Tooth Extraction</h5>
             <p>Tooth extraction is the removal of a tooth from its socket in the jawbone, often due to decay, damage, or crowding.</p>
-            <a class="home_section_service_link" href="tooth_extraction_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Tooth-Extraction-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
         <div class="swiper-slide">
@@ -170,7 +170,7 @@
             <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
             <h5>Clear Aligners</h5>
             <p>Clear aligners are transparent, custom trays that straighten teeth by gradually shifting them into proper alignment</p>
-            <a class="home_section_service_link" href="invisalignaligners_clearaligners_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Invisalign-aligners-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
         <div class="swiper-slide">
@@ -178,7 +178,7 @@
             <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
             <h5>Teeth Whitening</h5>
             <p>Teeth whitening is a cosmetic procedure that lightens the color of teeth to enhance their brightness and improve your smile's appearance.</p>
-            <a class="home_section_service_link" href="teeth_whitning_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Teeth-Whitning-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
         <div class="swiper-slide">
@@ -186,7 +186,7 @@
             <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
             <h5>Smile Makeover</h5>
             <p>A smile makeover is a comprehensive cosmetic dental treatment designed to enhance the overall appearance of your smile through a combination of procedures.</p>
-            <a class="home_section_service_link" href="smile_makeover_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Smile-Makeover-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
         <div class="swiper-slide">
@@ -194,13 +194,13 @@
             <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
             <h5>Full Mouth Restoration</h5>
             <p>Full mouth restoration is a comprehensive dental treatment that repairs and rebuilds the entire mouth to restore function, health, and aesthetics.</p>
-            <a class="home_section_service_link" href="fullmouthrestrotion_treatment_in_kakinada.php">LEARN MORE →</a>
+            <a class="home_section_service_link" href="Fullmouthrestrotion-Treatment-In-Kakinada.php">LEARN MORE →</a>
           </div>
         </div>
 
       </div>
 <div class="d-flex justify-content-center mt-4">
-        <a href="services_srinivasa_multispeciality_dental_hospital.php"><button class="home_section_btn_outline">Know More</button></a>
+        <a href="Services-Srinivasa-Multispeciality-Dental-Hospital.php"><button class="home_section_btn_outline">Know More</button></a>
 </div>
       <!-- <div class="swiper-pagination mt-4"></div> -->
     </div>
@@ -237,7 +237,7 @@
 
 <section class="home_section_about">
   <div class="container">
-    <div class="row align-items-center g-5 " style="margin: 0px -12px 0px; mx-2">
+    <div class="row align-items-center g-5 " style="margin: 0px -12px 0px;">
       <div class="col-lg-4">
         <div class="home_section_subtitle">WHY CHOOSE US —</div>
         <h2>Experience the Best in <span>Dental Care</span></h2>
@@ -251,7 +251,7 @@
           <li><i class="bi bi-check-circle-fill"></i> Personalized care for every patient</li>
         </ul>
 
-       <a href="about_srinivasa_multispeciality_dental_hospital.php"> <button class="home_section_btn_blue">ABOUT US <i class="bi bi-arrow-right ms-2"></i></button></a>
+       <a href="About-Srinivasa-Multispeciality-Dental-Hospital.php"> <button class="home_section_btn_blue">ABOUT US <i class="bi bi-arrow-right ms-2"></i></button></a>
       </div>
 
       <div class="col-lg-5">
@@ -259,9 +259,10 @@
       </div>
 
       <div class="col-lg-3">
-        <div class="home_section_about_box ">
-          
-         
+        <div class="home_section_about_box">
+          <div class="home_section_about_box_item">
+            <div class="home_section_about_box_icon"><i class="bi bi-cpu"></i></div> Advanced Technology
+          </div>
           <div class="home_section_about_box_item">
             <div class="home_section_about_box_icon"><i class="bi bi-person-check"></i></div> Comfortable Environment
           </div>

@@ -2,10 +2,10 @@
 <footer class="home_section_footer">
   <div class="container">
     <div class="row g-4">
-      <div class="col-lg-3 col-md-6">
+      <div class="col-lg-3">
         <div class="home_section_logo mb-3">
           <!-- 🦷 SRINIVASA <span>DENTAL</span> -->
-                   <img src="./assets/img/Srinivasa_new.png" alt=" logo" class="img-fluid" style="max-width: 250px;">
+                   <img src="./assets/img/Srinivasa_new.png" alt=" logo" class="img-fluid" style="max-width: 280px;">
 
         
         </div>
@@ -18,17 +18,17 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-6 d-md-6 d-none d-md-block ">
+      <div class="col-lg-2 d-md-6 d-none d-md-block ">
         <h5> LINKS</h5>
-        <a href="index.php">Home</a>
-        <a href="about_srinivasa_multispeciality_dental_hospital.php">About Us</a>
-        <a href="services_srinivasa_multispeciality_dental_hospital.php">Services</a>
+        <a href="Home.php">Home</a>
+        <a href="About-Srinivasa-Multispeciality-Dental-Hospital.php">About Us</a>
+        <a href="Services-Srinivasa-Multispeciality-Dental-Hospital.php">Services</a>
        
         
         <a href="blogs_srinivasa_multispeciality_dental_hospital.php">Blog</a>
         <a href="news_letter1.php"> News Letter</a>
-        <a href="contact_srinivasa_multispeciality_dental_hospital.php">Contact Us</a>
-        <a href="appointment_srinivasa_dental_hospital.php">Apointment</a>
+        <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">Contact Us</a>
+        <a href="Appointment-Srinivasa-Dental-Hospital.php">Apointment</a>
       </div>
 
       <!-- <div class="col-lg-2">
@@ -41,7 +41,7 @@
         <a href="#">Root Canal Treatment</a>
       </div> -->
 
-      <div class="col-lg-4  d-md-6">
+      <div class="col-lg-4 d-md-6">
         <h5>CONTACT US</h5>
         <p><i class="bi bi-geo-alt me-2"></i> 
 Rama Rao Peta, Kakinada, Andhra Pradesh 533001</p>
@@ -50,7 +50,7 @@ Rama Rao Peta, Kakinada, Andhra Pradesh 533001</p>
         <p><i class="bi bi-clock me-2"></i> Mon - Sat: 9:00 AM - 8:30 PM  <br> &nbsp;  &nbsp;  &nbsp;  Sunday: 9:00 AM - 1:00 PM    </p>
       </div>
 
-      <div class="col-lg-3 col-md-6">
+      <div class="col-lg-3">
         <h5>GALLERY</h5>
         <div class="home_section_gallery">
           <img src="assets\img\Rootcanal_treatment.jpg" class="img-fluid">

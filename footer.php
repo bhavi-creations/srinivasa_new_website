@@ -26,7 +26,7 @@
        
         
         <a href="blogs_srinivasa_multispeciality_dental_hospital.php">Blog</a>
-        <a href="news_letter1.php"> News Letter</a>
+        <a href="news_letter.php"> News Letter</a>
         <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">Contact Us</a>
         <a href="Appointment-Srinivasa-Dental-Hospital.php">Apointment</a>
       </div>

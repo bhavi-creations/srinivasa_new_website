@@ -37,7 +37,7 @@
                 <!-- <li class="nav-item"><a class="nav-link" href="doctors.php">DOCTORS</a></li> -->
                
                 <li class="nav-item"><a class="nav-link" href="blogs_srinivasa_multispeciality_dental_hospital.php">BLOGS</a></li>
-                 <!-- <li class="nav-item"><a class="nav-link" href="news_letter1.php">NEWS LETTER</a></li> -->
+                 <!-- <li class="nav-item"><a class="nav-link" href="news_letter.php">NEWS LETTER</a></li> -->
                 <li class="nav-item"><a class="nav-link" href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">CONTACT</a></li>
             </ul>
             <a href="Appointment-Srinivasa-Dental-Hospital.php">

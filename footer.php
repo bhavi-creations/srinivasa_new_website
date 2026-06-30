@@ -28,7 +28,7 @@
         <a href="blogs_srinivasa_multispeciality_dental_hospital.php">Blog</a>
         <a href="news_letter.php"> News Letter</a>
         <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">Contact Us</a>
-        <a href="Appointment-Srinivasa-Dental-Hospital.php">Apointment</a>
+        <a href="Appointment-Srinivasa-Dental-Hospital.php">Appointment</a>
       </div>
 
       <!-- <div class="col-lg-2">
@@ -44,7 +44,7 @@
       <div class="col-lg-4 d-md-6">
         <h5>CONTACT US</h5>
         <p><i class="bi bi-geo-alt me-2"></i> 
-Rama Rao Peta, Kakinada, Andhra Pradesh 533001</p>
+ Beside MRF showroom, opp Vivekananda statue- kulaicheruvu park , Kakinada, Andhra Pradesh 533001</p>
         <p><i class="bi bi-telephone me-2"></i> +919290019948</p>
         <p><i class="bi bi-envelope me-2"></i> srinivasadentalkakinada@gmail.com</p>
         <p><i class="bi bi-clock me-2"></i> Mon - Sat: 9:00 AM - 8:30 PM  <br> &nbsp;  &nbsp;  &nbsp;  Sunday: 9:00 AM - 1:00 PM    </p>
@@ -53,12 +53,12 @@ Rama Rao Peta, Kakinada, Andhra Pradesh 533001</p>
       <div class="col-lg-3">
         <h5>GALLERY</h5>
         <div class="home_section_gallery">
-          <img src="assets\img\Rootcanal_treatment.jpg" class="img-fluid">
-          <img src="assets\img\Dental braces treatment .jpg" class="img-fluid">
-          <img src="assets\img\Teeth_whitning_1.jpg" class="img-fluid">
-          <img src="assets\img\Dental_implants121.jpeg" class="img-fluid">
-          <img src="assets\img\Veneers121.jpeg" class="img-fluid">
-          <img src="assets\img\tooth filling.jpeg" class="img-fluid">
+          <img src="./assets/img/2.png" class="img-fluid">
+          <img src="assets\img\3.png" class="img-fluid">
+          <img src="assets\img\4.png" class="img-fluid">
+          <img src="assets\img\5.png" class="img-fluid">
+          <img src="assets\img\6.png" class="img-fluid">
+          <img src="assets\img\7.png" class="img-fluid">
         </div>
       </div>
     </div>

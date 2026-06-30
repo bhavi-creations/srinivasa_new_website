@@ -1,4 +1,3 @@
-
 <?php include 'header.php'; ?>
 
 
@@ -35,17 +34,18 @@
 
   <div class="home_section_floating_contact">
     <!-- Call Link -->
-<a href="tel:+919290019948" class="home_section_float_item text-decoration-none text-reset">
-    <i class="bi bi-telephone-fill"></i>Call Us
-</a>
+    <a href="tel:+919290019948" class="home_section_float_item text-decoration-none text-reset">
+      <i class="bi bi-telephone-fill"></i>Call Us
+    </a>
 
-<!-- WhatsApp Link -->
-<a href="https://wa.me/919290019948?text=Hi!%20I%20am%20interested%20in%20your%20services." target="_blank" class="home_section_float_item whatsapp text-decoration-none text-reset">
-    <i class="bi bi-whatsapp"></i>WhatsApp
-</a>
+    <!-- WhatsApp Link -->
+    <a href="https://wa.me/919290019948?text=Hi!%20I%20am%20interested%20in%20your%20services." target="_blank" class="home_section_float_item whatsapp text-decoration-none text-reset">
+      <i class="bi bi-whatsapp"></i>WhatsApp
+    </a>
     <!-- <div class="home_section_float_item"><i class="bi bi-telephone-fill"></i>Call Us</div>
     <div class="home_section_float_item whatsapp"><i class="bi bi-whatsapp"></i>WhatsApp</div> -->
-   <a href="https://share.google/UqH0YaDpLaXSGi8qX" target="_blank"> <div class="home_section_float_item"><i class="bi bi-geo-alt-fill"></i>Location</div>
+    <a href="https://share.google/UqH0YaDpLaXSGi8qX" target="_blank">
+      <div class="home_section_float_item"><i class="bi bi-geo-alt-fill"></i>Location</div>
   </div></a>
 </section>
 
@@ -89,7 +89,10 @@
 
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-heart-pulse"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-heart-pulse"></i> -->
+               <img src="./assets/img/icons/root-canal.png" alt="" style="width: 50px; height: 50px;">
+            </div>
             <h5>Root Canal</h5>
             <p>A root canal is a dental procedure that removes infected tissue from inside a tooth to relieve pain and save the tooth</p>
             <a class="home_section_service_link" href="Root-Canal-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -98,7 +101,10 @@
 
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-award"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-award"></i> -->
+            <img src="./assets/img/icons/braces.png" alt="" style="width: 50px; height: 50px;">
+            </div>
             <h5>Dental braces</h5>
             <p>Dental braces are orthodontic devices used to align and straighten teeth, improving dental health and appearance.</p>
             <a class="home_section_service_link" href="Dental-Braces-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -107,7 +113,11 @@
 
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-stars"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-stars"></i> -->
+            <img src="./assets/img/icons/implant.png" alt="" style="width: 50px; height: 50px;">
+            
+            </div>
             <h5>Dental implants</h5>
             <p>Dental implants are artificial tooth roots placed in the jawbone to support and anchor replacement teeth or bridges.</p>
             <a class="home_section_service_link" href="Dental-Implants-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -116,7 +126,10 @@
 
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-braces"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-braces"></i> -->
+            <img src="./assets/img/icons/dental-bridge.png" alt="" style="width: 50px; height: 50px;">
+            </div>
             <h5>Tooth Crowns & Bridges</h5>
             <p>Tooth crowns and bridges are restorative dental solutions used to restore damaged teeth and replace missing ones, improving both function and appearance.</p>
             <a class="home_section_service_link" href="Dentalcrown-Bridge-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -125,7 +138,12 @@
 
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-balloon-heart"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-balloon-heart"></i> -->
+            
+            <img src="./assets/img/icons/tooth-filling.png" alt="" style="width: 50px; height: 50px;">
+            
+            </div>
             <h5>Teeth Filling</h5>
             <p>A teeth filling is a dental procedure to restore the function and integrity of a damaged tooth by filling cavities with materials like composite resin or amalgam.</p>
             <a class="home_section_service_link" href="#">LEARN MORE →</a>
@@ -134,7 +152,11 @@
 
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-brightness-high"></i> -->
+            
+            <img src="./assets/img/icons/dental-implant.png" alt="" style="width: 50px; height: 50px;">
+            </div>
             <h5>Dentures</h5>
             <p>Dentures are removable prosthetic devices designed to replace missing teeth and restore function and appearance to the mouth.</p>
             <a class="home_section_service_link" href="#">LEARN MORE →</a>
@@ -149,9 +171,13 @@
 
 
         <!-- new new  -->
-         <div class="swiper-slide">
+        <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-brightness-high"></i> -->
+            <img src="./assets/img/icons/scaling.png" alt="" style="width: 50px; height: 50px;">
+            
+            </div>
             <h5>Teeth Scaling</h5>
             <p>Teeth scaling is a dental procedure that removes plaque and tartar buildup from the tooth surfaces and below the gum line to maintain oral health.</p>
             <a class="home_section_service_link" href="Teeth-Scaling-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -159,7 +185,12 @@
         </div>
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-brightness-high"></i> -->
+            
+            <img src="./assets/img/icons/tooth-extraction.png" alt="" style="width: 50px; height: 50px;">
+            
+            </div>
             <h5>Tooth Extraction</h5>
             <p>Tooth extraction is the removal of a tooth from its socket in the jawbone, often due to decay, damage, or crowding.</p>
             <a class="home_section_service_link" href="Tooth-Extraction-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -167,7 +198,10 @@
         </div>
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-brightness-high"></i> -->
+            <img src="./assets/img/icons/CLEAR_ALIGNERS.png" alt="" style="width: 50px; height: 50px;">
+            </div>
             <h5>Clear Aligners</h5>
             <p>Clear aligners are transparent, custom trays that straighten teeth by gradually shifting them into proper alignment</p>
             <a class="home_section_service_link" href="Invisalign-aligners-In-Kakinada.php">LEARN MORE →</a>
@@ -175,7 +209,12 @@
         </div>
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <div class="home_section_service_icon">
+              
+            
+            <!-- <i class="bi bi-brightness-high"></i> -->
+          <img src="./assets/img/icons/teeth_whitening.png" alt="" style="width: 50px; height: 50px;">
+          </div>
             <h5>Teeth Whitening</h5>
             <p>Teeth whitening is a cosmetic procedure that lightens the color of teeth to enhance their brightness and improve your smile's appearance.</p>
             <a class="home_section_service_link" href="Teeth-Whitning-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -183,7 +222,10 @@
         </div>
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-brightness-high"></i> -->
+            <img src="./assets/img/icons/Smile_Makeover.png" alt="" style="width: 50px; height: 50px;">
+            </div>
             <h5>Smile Makeover</h5>
             <p>A smile makeover is a comprehensive cosmetic dental treatment designed to enhance the overall appearance of your smile through a combination of procedures.</p>
             <a class="home_section_service_link" href="Smile-Makeover-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -191,7 +233,10 @@
         </div>
         <div class="swiper-slide">
           <div class="home_section_service_card">
-            <div class="home_section_service_icon"><i class="bi bi-brightness-high"></i></div>
+            <div class="home_section_service_icon">
+              <!-- <i class="bi bi-brightness-high"></i> -->
+            <img src="./assets/img/icons/denture.png" alt="" style="width: 50px; height: 50px;">
+            </div>
             <h5>Full Mouth Restoration</h5>
             <p>Full mouth restoration is a comprehensive dental treatment that repairs and rebuilds the entire mouth to restore function, health, and aesthetics.</p>
             <a class="home_section_service_link" href="Fullmouthrestrotion-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -199,31 +244,39 @@
         </div>
 
       </div>
-<div class="d-flex justify-content-center mt-4">
+      <div class="d-flex justify-content-center mt-4">
         <a href="Services-Srinivasa-Multispeciality-Dental-Hospital.php"><button class="home_section_btn_outline">Know More</button></a>
-</div>
+      </div>
       <!-- <div class="swiper-pagination mt-4"></div> -->
     </div>
 
-    
+
 
     <div class="home_section_stats">
       <div class="row g-4">
         <div class="col-lg-3 col-6  home_section_stat_item">
           <i class="bi bi-crown"></i>
-          <div><div class="home_section_stat_number">11+</div><small>Years of Excellence</small></div>
+          <div>
+            <div class="home_section_stat_number">12+</div><small>Years of Excellence</small>
+          </div>
         </div>
         <div class="col-lg-3 col-6 home_section_stat_item">
           <i class="bi bi-people"></i>
-          <div><div class="home_section_stat_number">8126+</div><small>Happy Patients</small></div>
+          <div>
+            <div class="home_section_stat_number">15000+</div><small>Happy Patients</small>
+          </div>
         </div>
         <div class="col-lg-3 col-6 home_section_stat_item">
           <i class="bi bi-person-badge"></i>
-          <div><div class="home_section_stat_number">10+</div><small>Expert Doctors</small></div>
+          <div>
+            <div class="home_section_stat_number">7+</div><small>Expert Doctors</small>
+          </div>
         </div>
         <div class="col-lg-3 col-6 home_section_stat_item">
           <i class="bi bi-shield-check"></i>
-          <div><div class="home_section_stat_number">98%</div><small>Patient Satisfaction</small></div>
+          <div>
+            <div class="home_section_stat_number">98%</div><small>Patient Satisfaction</small>
+          </div>
         </div>
       </div>
     </div>
@@ -251,7 +304,7 @@
           <li><i class="bi bi-check-circle-fill"></i> Personalized care for every patient</li>
         </ul>
 
-       <a href="About-Srinivasa-Multispeciality-Dental-Hospital.php"> <button class="home_section_btn_blue">ABOUT US <i class="bi bi-arrow-right ms-2"></i></button></a>
+        <a href="About-Srinivasa-Multispeciality-Dental-Hospital.php"> <button class="home_section_btn_blue">ABOUT US <i class="bi bi-arrow-right ms-2"></i></button></a>
       </div>
 
       <div class="col-lg-5">
@@ -287,11 +340,13 @@
       <div class="col-lg-4">
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
-          <p>I’m so glad that I chose this dental clinic. This clinic is so clean and also, the dentists and the staff are very friendly and well spoken. They are so considerate while doing the procedure too!</p>
+          <p>The dental treatment was smooth and painless. Kiran raju sir explained everything clearly.
+            I’m very satisfied with the care I received. The staff was friendly and professional.
+            The procedure went well, and I feel much better now.</p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <!-- <img src="https://randomuser.me/api/portraits/women/44.jpg"> -->
-            <div><b>Marina Masa</b><br></div>
+            <img src="./assets/img/1.png">
+            <div><b>krishnaveni u</b><br></div>
             <!-- <div><b>Marina Masa</b><br><small>Patient</small></div> -->
           </div>
         </div>
@@ -300,11 +355,11 @@
       <div class="col-lg-4">
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
-          <p>First of all I have to thank to Dr.Kiran Raju sir the way he was treat me very nice and he was give the excellent treatment for my problem also the staff members are all very respectfull to the patients and thank you 🙏 for the wonder-full experience’s in Srinivasa Multispeciality Dental Hospital…</p>
+          <p>Went to srinivasa dental for tooth extraction and root canal...Dr krian raju listened to my problem with patience...he explained me all in detail...throughout the treatment he made me comfortable.</p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <!-- <img src="https://randomuser.me/api/portraits/men/32.jpg"> -->
-            <div><b>mohid sheik</b><br></div>
+            <img src="https://randomuser.me/api/portraits/men/32.jpg">
+            <div><b>Singa Raju</b><br></div>
           </div>
         </div>
       </div>
@@ -313,18 +368,20 @@
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
           <p>
-          Im happy with the service, have taken tooth filling treatment which went well <br> without pain. Well equipmented.<br>
-Good Hospitality from doctors and staff.<br>
-Much appreciated 👏  
+            "A huge thank you to the team at Srinivasa Dental Clinic! You guys did an amazing job with my treatment. The clinic has such a clean and eco-friendly vibe, and the doctors are so kind and professional. Definitely the top choice for dental care in Kakinada! TQ!"😊❤️
 
           </p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <!-- <img src="https://randomuser.me/api/portraits/women/68.jpg"> -->
-            <div><b>Satya Pittala</b><br></div>
+            <img src="https://randomuser.me/api/portraits/women/68.jpg">
+            <div><b>JOHN SON</b><br></div>
           </div>
         </div>
       </div>
+    </div>
+    <div class="d-flex justify-content-center mt-5">
+              <a href="testimonials.php"> <button class="home_section_btn_blue">View All<i class="bi bi-arrow-right ms-2"></i></button></a>
+
     </div>
   </div>
 </section>
@@ -333,34 +390,34 @@ Much appreciated 👏
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 <script>
-new Swiper(".home_services_swiper", {
-  slidesPerView: 3,
-  slidesPerGroup: 1,
-  spaceBetween: 24,
-  loop: true,
+  new Swiper(".home_services_swiper", {
+    slidesPerView: 3,
+    slidesPerGroup: 1,
+    spaceBetween: 24,
+    loop: true,
 
-  autoplay: {
-    delay: 3000,
-    disableOnInteraction: false
-  },
-
-  pagination: {
-    el: ".swiper-pagination",
-    clickable: true
-  },
-
-  breakpoints: {
-    0: {
-      slidesPerView: 1
+    autoplay: {
+      delay: 3000,
+      disableOnInteraction: false
     },
-    576: {
-      slidesPerView: 2
+
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true
     },
-    992: {
-      slidesPerView: 3
+
+    breakpoints: {
+      0: {
+        slidesPerView: 1
+      },
+      576: {
+        slidesPerView: 2
+      },
+      992: {
+        slidesPerView: 3
+      }
     }
-  }
-});
+  });
 </script>
 
 <?php include 'footer.php'; ?>

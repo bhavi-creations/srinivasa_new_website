@@ -10,7 +10,7 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
 </head>
 
@@ -35,15 +35,15 @@
                 <li class="nav-item"><a class="nav-link" href="About-Srinivasa-Multispeciality-Dental-Hospital.php">ABOUT US</a></li>
                 <li class="nav-item"><a class="nav-link" href="Services-Srinivasa-Multispeciality-Dental-Hospital.php">SERVICES</a></li>
                 <!-- <li class="nav-item"><a class="nav-link" href="doctors.php">DOCTORS</a></li> -->
-               
+
                 <li class="nav-item"><a class="nav-link" href="blogs_srinivasa_multispeciality_dental_hospital.php">BLOGS</a></li>
-                 <!-- <li class="nav-item"><a class="nav-link" href="news_letter.php">NEWS LETTER</a></li> -->
+                <!-- <li class="nav-item"><a class="nav-link" href="news_letter.php">NEWS LETTER</a></li> -->
                 <li class="nav-item"><a class="nav-link" href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">CONTACT</a></li>
             </ul>
             <a href="Appointment-Srinivasa-Dental-Hospital.php">
-            <button class="home_section_btn_gold">
-                <i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT
-            </button></a>
+                <button class="home_section_btn_gold">
+                    <i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT
+                </button></a>
         </div>
     </div>
 </nav>

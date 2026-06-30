@@ -1,13 +1,12 @@
-
 <footer class="home_section_footer">
   <div class="container">
     <div class="row g-4">
       <div class="col-lg-3">
         <div class="home_section_logo mb-3">
           <!-- 🦷 SRINIVASA <span>DENTAL</span> -->
-                   <img src="./assets/img/Srinivasa_new.png" alt=" logo" class="img-fluid" style="max-width: 280px;">
+          <img src="./assets/img/Srinivasa_new.png" alt=" logo" class="img-fluid" style="max-width: 280px;">
 
-        
+
         </div>
         <p>At Srinivasa Dental, we are dedicated to providing world-class dental care with compassion and excellence.</p>
         <div class="home_section_social">
@@ -23,8 +22,8 @@
         <a href="Home.php">Home</a>
         <a href="About-Srinivasa-Multispeciality-Dental-Hospital.php">About Us</a>
         <a href="Services-Srinivasa-Multispeciality-Dental-Hospital.php">Services</a>
-       
-        
+
+
         <a href="blogs_srinivasa_multispeciality_dental_hospital.php">Blog</a>
         <a href="news_letter.php"> News Letter</a>
         <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">Contact Us</a>
@@ -43,14 +42,14 @@
 
       <div class="col-lg-4 d-md-6">
         <h5>CONTACT US</h5>
-        <p><i class="bi bi-geo-alt me-2"></i> 
- Beside MRF showroom, opp Vivekananda statue- kulaicheruvu park , Kakinada, Andhra Pradesh 533001</p>
+        <p><i class="bi bi-geo-alt me-2"></i>
+          Beside MRF showroom, opp Vivekananda statue- kulaicheruvu park , Kakinada, Andhra Pradesh 533001</p>
         <p><i class="bi bi-telephone me-2"></i> +919290019948</p>
         <p><i class="bi bi-envelope me-2"></i> srinivasadentalkakinada@gmail.com</p>
-        <p><i class="bi bi-clock me-2"></i> Mon - Sat: 9:00 AM - 8:30 PM  <br> &nbsp;  &nbsp;  &nbsp;  Sunday: 9:00 AM - 1:00 PM    </p>
+        <p><i class="bi bi-clock me-2"></i> Mon - Sat: 9:00 AM - 8:30 PM <br> &nbsp; &nbsp; &nbsp; Sunday: 9:00 AM - 1:00 PM </p>
       </div>
 
-      <div class="col-lg-3">
+      <!-- <div class="col-lg-3">
         <h5>GALLERY</h5>
         <div class="home_section_gallery">
           <img src="./assets/img/2.png" class="img-fluid">
@@ -60,7 +59,42 @@
           <img src="assets\img\6.png" class="img-fluid">
           <img src="assets\img\7.png" class="img-fluid">
         </div>
+      </div> -->
+
+      <div class="col-lg-3">
+        <h5>GALLERY</h5>
+
+        <div class="footer_gallery_new">
+
+          <img src="./assets/img/2.png" class="footer_gallery_img">
+          <img src="./assets/img/3.png" class="footer_gallery_img">
+          <img src="./assets/img/4.png" class="footer_gallery_img">
+          <img src="./assets/img/5.png" class="footer_gallery_img">
+          <img src="./assets/img/6.png" class="footer_gallery_img">
+          <img src="./assets/img/7.png" class="footer_gallery_img">
+
+        </div>
       </div>
+
+
+      <!-- Image Popup -->
+
+      <div class="footer_gallery_popup" id="footerGalleryPopup">
+
+        <span class="footer_gallery_close">&times;</span>
+
+        <img class="footer_gallery_popup_img" id="footerPopupImage">
+
+      </div>
+
+
+
+
+
+
+
+
+
     </div>
 
     <!-- <div class="home_section_newsletter">
@@ -85,8 +119,50 @@
   </div>
 </footer>
 
+<script>
+  const footerImages=document.querySelectorAll(".footer_gallery_img");
+
+const footerPopup=document.getElementById("footerGalleryPopup");
+
+const footerPopupImg=document.getElementById("footerPopupImage");
+
+const footerClose=document.querySelector(".footer_gallery_close");
+
+
+footerImages.forEach(img=>{
+
+img.addEventListener("click",()=>{
+
+footerPopup.classList.add("active");
+
+footerPopupImg.src=img.src;
+
+});
+
+});
+
+
+footerClose.addEventListener("click",()=>{
+
+footerPopup.classList.remove("active");
+
+});
+
+
+footerPopup.addEventListener("click",(e)=>{
+
+if(e.target===footerPopup){
+
+footerPopup.classList.remove("active");
+
+}
+
+});
+</script>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 
 </body>
+
 </html>

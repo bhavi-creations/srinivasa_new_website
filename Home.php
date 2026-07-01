@@ -16,18 +16,35 @@
       </div>
 
       <div class="home_section_features">
+
         <div class="home_section_feature_item">
-          <div class="home_section_feature_icon"><i class="bi bi-gear"></i></div> Advanced<br>Technology
+          <div class="home_section_feature_icon">
+            <i class="bi bi-cpu-fill"></i>
+          </div>
+          Advanced<br>Technology
         </div>
+
         <div class="home_section_feature_item">
-          <div class="home_section_feature_icon"><i class="bi bi-person-badge"></i></div> Expert<br>Doctors
+          <div class="home_section_feature_icon">
+            <i class="bi bi-person-vcard-fill"></i>
+          </div>
+          Expert<br>Doctors
         </div>
+
         <div class="home_section_feature_item">
-          <div class="home_section_feature_icon"><i class="bi bi-emoji-smile"></i></div> Painless<br>Treatments
+          <div class="home_section_feature_icon">
+            <i class="bi bi-heart-pulse-fill"></i>
+          </div>
+          Painless<br>Treatments
         </div>
+
         <div class="home_section_feature_item">
-          <div class="home_section_feature_icon"><i class="bi bi-shield-check"></i></div> Sterile & Safe<br>Environment
+          <div class="home_section_feature_icon">
+            <i class="bi bi-shield-fill-check"></i>
+          </div>
+          Sterile & Safe<br>Environment
         </div>
+
       </div>
     </div>
   </div>
@@ -91,7 +108,7 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-heart-pulse"></i> -->
-               <img src="./assets/img/icons/root-canal.png" alt="" style="width: 50px; height: 50px;">
+              <img src="./assets/img/icons/root-canal.png" alt="" style="width: 50px; height: 50px;">
             </div>
             <h5>Root Canal</h5>
             <p>A root canal is a dental procedure that removes infected tissue from inside a tooth to relieve pain and save the tooth</p>
@@ -103,7 +120,7 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-award"></i> -->
-            <img src="./assets/img/icons/braces.png" alt="" style="width: 50px; height: 50px;">
+              <img src="./assets/img/icons/braces.png" alt="" style="width: 50px; height: 50px;">
             </div>
             <h5>Dental braces</h5>
             <p>Dental braces are orthodontic devices used to align and straighten teeth, improving dental health and appearance.</p>
@@ -115,8 +132,8 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-stars"></i> -->
-            <img src="./assets/img/icons/implant.png" alt="" style="width: 50px; height: 50px;">
-            
+              <img src="./assets/img/icons/implant.png" alt="" style="width: 50px; height: 50px;">
+
             </div>
             <h5>Dental implants</h5>
             <p>Dental implants are artificial tooth roots placed in the jawbone to support and anchor replacement teeth or bridges.</p>
@@ -128,7 +145,7 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-braces"></i> -->
-            <img src="./assets/img/icons/dental-bridge.png" alt="" style="width: 50px; height: 50px;">
+              <img src="./assets/img/icons/dental-bridge.png" alt="" style="width: 50px; height: 50px;">
             </div>
             <h5>Tooth Crowns & Bridges</h5>
             <p>Tooth crowns and bridges are restorative dental solutions used to restore damaged teeth and replace missing ones, improving both function and appearance.</p>
@@ -140,9 +157,9 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-balloon-heart"></i> -->
-            
-            <img src="./assets/img/icons/tooth-filling.png" alt="" style="width: 50px; height: 50px;">
-            
+
+              <img src="./assets/img/icons/tooth-filling.png" alt="" style="width: 50px; height: 50px;">
+
             </div>
             <h5>Teeth Filling</h5>
             <p>A teeth filling is a dental procedure to restore the function and integrity of a damaged tooth by filling cavities with materials like composite resin or amalgam.</p>
@@ -154,8 +171,8 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-brightness-high"></i> -->
-            
-            <img src="./assets/img/icons/dental-implant.png" alt="" style="width: 50px; height: 50px;">
+
+              <img src="./assets/img/icons/dental-implant.png" alt="" style="width: 50px; height: 50px;">
             </div>
             <h5>Dentures</h5>
             <p>Dentures are removable prosthetic devices designed to replace missing teeth and restore function and appearance to the mouth.</p>
@@ -175,8 +192,8 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-brightness-high"></i> -->
-            <img src="./assets/img/icons/scaling.png" alt="" style="width: 50px; height: 50px;">
-            
+              <img src="./assets/img/icons/scaling.png" alt="" style="width: 50px; height: 50px;">
+
             </div>
             <h5>Teeth Scaling</h5>
             <p>Teeth scaling is a dental procedure that removes plaque and tartar buildup from the tooth surfaces and below the gum line to maintain oral health.</p>
@@ -187,9 +204,9 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-brightness-high"></i> -->
-            
-            <img src="./assets/img/icons/tooth-extraction.png" alt="" style="width: 50px; height: 50px;">
-            
+
+              <img src="./assets/img/icons/tooth-extraction.png" alt="" style="width: 50px; height: 50px;">
+
             </div>
             <h5>Tooth Extraction</h5>
             <p>Tooth extraction is the removal of a tooth from its socket in the jawbone, often due to decay, damage, or crowding.</p>
@@ -200,7 +217,7 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-brightness-high"></i> -->
-            <img src="./assets/img/icons/CLEAR_ALIGNERS.png" alt="" style="width: 50px; height: 50px;">
+              <img src="./assets/img/icons/CLEAR_ALIGNERS.png" alt="" style="width: 50px; height: 50px;">
             </div>
             <h5>Clear Aligners</h5>
             <p>Clear aligners are transparent, custom trays that straighten teeth by gradually shifting them into proper alignment</p>
@@ -210,11 +227,11 @@
         <div class="swiper-slide">
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
-              
-            
-            <!-- <i class="bi bi-brightness-high"></i> -->
-          <img src="./assets/img/icons/teeth_whitening.png" alt="" style="width: 50px; height: 50px;">
-          </div>
+
+
+              <!-- <i class="bi bi-brightness-high"></i> -->
+              <img src="./assets/img/icons/teeth_whitening.png" alt="" style="width: 50px; height: 50px;">
+            </div>
             <h5>Teeth Whitening</h5>
             <p>Teeth whitening is a cosmetic procedure that lightens the color of teeth to enhance their brightness and improve your smile's appearance.</p>
             <a class="home_section_service_link" href="Teeth-Whitning-Treatment-In-Kakinada.php">LEARN MORE →</a>
@@ -224,7 +241,7 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-brightness-high"></i> -->
-            <img src="./assets/img/icons/Smile_Makeover.png" alt="" style="width: 50px; height: 50px;">
+              <img src="./assets/img/icons/Smile_Makeover.png" alt="" style="width: 50px; height: 50px;">
             </div>
             <h5>Smile Makeover</h5>
             <p>A smile makeover is a comprehensive cosmetic dental treatment designed to enhance the overall appearance of your smile through a combination of procedures.</p>
@@ -235,7 +252,7 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-brightness-high"></i> -->
-            <img src="./assets/img/icons/denture.png" alt="" style="width: 50px; height: 50px;">
+              <img src="./assets/img/icons/denture.png" alt="" style="width: 50px; height: 50px;">
             </div>
             <h5>Full Mouth Restoration</h5>
             <p>Full mouth restoration is a comprehensive dental treatment that repairs and rebuilds the entire mouth to restore function, health, and aesthetics.</p>
@@ -268,6 +285,7 @@
         </div>
         <div class="col-lg-3 col-6 home_section_stat_item">
           <i class="bi bi-person-badge"></i>
+
           <div>
             <div class="home_section_stat_number">7+</div><small>Expert Doctors</small>
           </div>
@@ -380,7 +398,7 @@
       </div>
     </div>
     <div class="d-flex justify-content-center mt-5">
-              <a href="testimonials.php"> <button class="home_section_btn_blue">View All<i class="bi bi-arrow-right ms-2"></i></button></a>
+      <a href="testimonials.php"> <button class="home_section_btn_blue">View All<i class="bi bi-arrow-right ms-2"></i></button></a>
 
     </div>
   </div>

@@ -231,6 +231,94 @@
                 </div>
             </div>
         </div>
+
+
+
+
+
+
+        <!-- new doctor image add  -->
+        <div class="about_section_founder">
+            <div class="row g-0 align-items-center">
+                <div class="col-lg-4">
+                    <div class="about_section_founder_content">
+                        <!-- <div class="about_section_small_title">MEET OUR FOUNDER</div> -->
+                        <h2 class="about_section_founder_name">Dr.CH. RAGA MOUNIKA</h2>
+                        <h6 style="color:#d9a441;">MDS - Fixed teeth , Smile makeover & Implant Specialist</h6>
+                        <p class="mt-4">
+                            Recognized for her precision in implants, gum treatments, and full-mouth rehabilitation. Her work has restored not just teeth, but the dignity of countless patients.
+                        </p>
+                        <!-- <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <img class="about_section_founder_img" src="./assets/img/Mounika.png" alt="Dr. Lakshmi Deepika">
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="about_section_founder_list">
+                        <!-- <p><i class="bi bi-check-circle"></i> Expert in Advanced Dental Implant Solutions</p>
+                            <p><i class="bi bi-check-circle"></i> Specialist in Gum Disease & Periodontal Care</p>
+                            <p><i class="bi bi-check-circle"></i> Excellence in Full-Mouth Smile Rehabilitation</p>
+                            <p><i class="bi bi-check-circle"></i> Trusted for Precision-Driven Dental Treatments</p>
+                            <p><i class="bi bi-check-circle"></i> Building Confident Smiles</p> -->
+
+
+
+                        <p><i class="bi bi-check-circle"></i> Advanced Expertise in Dental Implant Rehabilitation</p>
+                        <p><i class="bi bi-check-circle"></i> Specialist in Periodontal Regeneration & Gum Health</p>
+                        <p><i class="bi bi-check-circle"></i>Precision-Guided Implant Placement Techniques</p>
+                        <p><i class="bi bi-check-circle"></i> Comprehensive Care for Missing Teeth & Gum Disorders</p>
+                        <p><i class="bi bi-check-circle"></i> Excellence in Implant-Supported Smile Restorations</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="about_section_founder">
+            <div class="row g-0 align-items-center">
+                <div class="col-lg-4">
+                    <div class="about_section_founder_content">
+                        <!-- <div class="about_section_small_title">MEET OUR FOUNDER</div> -->
+                        <h2 class="about_section_founder_name">Dr.T.L.V CHANDRIKA</h2>
+                        <h6 style="color:#d9a441;">MDS - Kids Dental & Root canal Specialist</h6>
+                        <p class="mt-4">
+                            Recognized for her precision in implants, gum treatments, and full-mouth rehabilitation. Her work has restored not just teeth, but the dignity of countless patients.
+                        </p>
+                        <!-- <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <img class="about_section_founder_img" src="./assets/img/Chandrika.png" alt="Dr. Lakshmi Deepika">
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="about_section_founder_list">
+                        <!-- <p><i class="bi bi-check-circle"></i> Expert in Advanced Dental Implant Solutions</p>
+                            <p><i class="bi bi-check-circle"></i> Specialist in Gum Disease & Periodontal Care</p>
+                            <p><i class="bi bi-check-circle"></i> Excellence in Full-Mouth Smile Rehabilitation</p>
+                            <p><i class="bi bi-check-circle"></i> Trusted for Precision-Driven Dental Treatments</p>
+                            <p><i class="bi bi-check-circle"></i> Building Confident Smiles</p> -->
+
+
+
+                        <p><i class="bi bi-check-circle"></i> Advanced Expertise in Dental Implant Rehabilitation</p>
+                        <p><i class="bi bi-check-circle"></i> Specialist in Periodontal Regeneration & Gum Health</p>
+                        <p><i class="bi bi-check-circle"></i>Precision-Guided Implant Placement Techniques</p>
+                        <p><i class="bi bi-check-circle"></i> Comprehensive Care for Missing Teeth & Gum Disorders</p>
+                        <p><i class="bi bi-check-circle"></i> Excellence in Implant-Supported Smile Restorations</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
     </div>
 </section>
 <?php include 'footer.php'; ?>

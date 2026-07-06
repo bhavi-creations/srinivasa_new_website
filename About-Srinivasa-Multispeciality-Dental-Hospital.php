@@ -232,21 +232,18 @@
             </div>
         </div>
 
-
-
-
-
-
         <!-- new doctor image add  -->
         <div class="about_section_founder">
             <div class="row g-0 align-items-center">
                 <div class="col-lg-4">
                     <div class="about_section_founder_content">
                         <!-- <div class="about_section_small_title">MEET OUR FOUNDER</div> -->
-                        <h2 class="about_section_founder_name">Dr.CH. RAGA MOUNIKA</h2>
-                        <h6 style="color:#d9a441;">MDS - Fixed teeth , Smile makeover & Implant Specialist</h6>
+                        <h2 class="about_section_founder_name">DR. RAGA MOUNIKA
+                            CHAKKAPALLI</h2>
+                        <h6 style="color:#d9a441;">MDS - PROSTHODONTIST & IMPLANTOLOGIST</h6>
                         <p class="mt-4">
-                            Recognized for her precision in implants, gum treatments, and full-mouth rehabilitation. Her work has restored not just teeth, but the dignity of countless patients.
+                            A passionate Prosthodontist dedicated to restoring smiles with precision, function, and aesthetics. Committed to delivering advanced dental care through personalized treatment plans and the latest technology. She believes every smile has a story,
+                            and we are here to make it beautiful.
                         </p>
                         <!-- <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4> -->
                     </div>
@@ -266,28 +263,28 @@
 
 
 
-                        <p><i class="bi bi-check-circle"></i> Advanced Expertise in Dental Implant Rehabilitation</p>
-                        <p><i class="bi bi-check-circle"></i> Specialist in Periodontal Regeneration & Gum Health</p>
-                        <p><i class="bi bi-check-circle"></i>Precision-Guided Implant Placement Techniques</p>
-                        <p><i class="bi bi-check-circle"></i> Comprehensive Care for Missing Teeth & Gum Disorders</p>
-                        <p><i class="bi bi-check-circle"></i> Excellence in Implant-Supported Smile Restorations</p>
+                        <p><i class="bi bi-check-circle"></i> Specialist in Prosthodontics & Restorative Dentistry</p>
+                        <p><i class="bi bi-check-circle"></i> Expert in Complete Dentures,Crowns, Bridges & Aesthetic Restorations</p>
+                        <p><i class="bi bi-check-circle"></i>Advanced Training in Dental Implants & Full Mouth Rehabilitation</p>
+                        <p><i class="bi bi-check-circle"></i> Skilled in Digital Dentistry & Smile Designing</p>
+                        <p><i class="bi bi-check-circle"></i>Expert in Implant Prosthodontics & Fixed Prosthodontics</p>
+                        <p><i class="bi bi-check-circle"></i>Committed to Precision, Comfort & Patient Satisfaction</p>
+                        <p><i class="bi bi-check-circle"></i>Dedicated to Ethical & Comprehensive Dental Care</p>
                     </div>
                 </div>
             </div>
         </div>
-
-
-
 
         <div class="about_section_founder">
             <div class="row g-0 align-items-center">
                 <div class="col-lg-4">
                     <div class="about_section_founder_content">
                         <!-- <div class="about_section_small_title">MEET OUR FOUNDER</div> -->
-                        <h2 class="about_section_founder_name">Dr.T.L.V CHANDRIKA</h2>
-                        <h6 style="color:#d9a441;">MDS - Kids Dental & Root canal Specialist</h6>
+                        <h2 class="about_section_founder_name">DR. TLV CHANDRIKA</h2>
+                        <h6 style="color:#d9a441;">MDS-PEDODONTIST & PREVENTIVE DENTIST</h6>
                         <p class="mt-4">
-                            Recognized for her precision in implants, gum treatments, and full-mouth rehabilitation. Her work has restored not just teeth, but the dignity of countless patients.
+                            A compassionate Pedodontist dedicated to nurturing little smiles with gentle care and preventive wisdom. Committed to creating a positive dental experience that lasts a lifetime. She believes every child deserves a healthy, happy smile, and we are here to make It fun.
+
                         </p>
                         <!-- <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4> -->
                     </div>
@@ -307,16 +304,135 @@
 
 
 
-                        <p><i class="bi bi-check-circle"></i> Advanced Expertise in Dental Implant Rehabilitation</p>
-                        <p><i class="bi bi-check-circle"></i> Specialist in Periodontal Regeneration & Gum Health</p>
-                        <p><i class="bi bi-check-circle"></i>Precision-Guided Implant Placement Techniques</p>
-                        <p><i class="bi bi-check-circle"></i> Comprehensive Care for Missing Teeth & Gum Disorders</p>
-                        <p><i class="bi bi-check-circle"></i> Excellence in Implant-Supported Smile Restorations</p>
+                        <p><i class="bi bi-check-circle"></i> Specialist in Pediatric & Preventive Dentistry</p>
+                        <p><i class="bi bi-check-circle"></i> Expert in Early Childhood Dental Health & Cavity Prevention</p>
+                        <p><i class="bi bi-check-circle"></i>Advanced Training in Child Behavior Management & Gentle Care</p>
+                        <p><i class="bi bi-check-circle"></i>Skilled in Restorative, Endodontic, and Orthodontic Care for Kids</p>
+                        <p><i class="bi bi-check-circle"></i>Expert in Fluoride Therapy, Sealants, & Interceptive Orthodontics </p>
+                        <p><i class="bi bi-check-circle"></i>Committed to a Comfortable, Child-Friendly Environment </p>
+                        <p><i class="bi bi-check-circle"></i>Dedicated to Instilling Lifelong Healthy Dental Habits </p>
                     </div>
                 </div>
             </div>
         </div>
 
+        <!-- another 2 doctor addd   -->
+        <div class="about_section_founder">
+            <div class="row g-0 align-items-center">
+                <div class="col-lg-4">
+                    <div class="about_section_founder_content">
+                        <!-- <div class="about_section_small_title">MEET OUR FOUNDER</div> -->
+                        <h2 class="about_section_founder_name">DR. V. HARSHITHA </h2>
+                        <h6 style="color:#d9a441;">BDS - General Dental Surgeon</h6>
+                        <p class="mt-4">
+                            Dr. V. Harshitha is a dedicated and compassionate dental professional committed to providing high-quality, patient-centered care. She focuses on preventive, restorative, and aesthetic dentistry with a gentle approach to ensure comfortable and effective treatment for every smile.
+                        </p>
+                        <!-- <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <img class="about_section_founder_img" src="./assets/img/" alt="Dr.HARSHITHA">
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="about_section_founder_list">
+                        <!-- <p><i class="bi bi-check-circle"></i> Expert in Advanced Dental Implant Solutions</p>
+                            <p><i class="bi bi-check-circle"></i> Specialist in Gum Disease & Periodontal Care</p>
+                            <p><i class="bi bi-check-circle"></i> Excellence in Full-Mouth Smile Rehabilitation</p>
+                            <p><i class="bi bi-check-circle"></i> Trusted for Precision-Driven Dental Treatments</p>
+                            <p><i class="bi bi-check-circle"></i> Building Confident Smiles</p> -->
+
+
+
+                        <p><i class="bi bi-check-circle"></i>Comprehensive General Dental Care </p>
+                        <p><i class="bi bi-check-circle"></i>Preventive & Restorative Dentistry
+                        </p>
+                        <p><i class="bi bi-check-circle"></i> Tooth-Colored Fillings & Smile Maintenance</p>
+
+                        <p><i class="bi bi-check-circle"></i>Patient Education & Oral Health Promotion </p>
+                        <p><i class="bi bi-check-circle"></i>Gentle and Comfortable Dental Care </p>
+                        <!-- <p><i class="bi bi-check-circle"></i> </p> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <div class="about_section_founder">
+            <div class="row g-0 align-items-center">
+                <div class="col-lg-4">
+                    <div class="about_section_founder_content">
+            
+                        <h2 class="about_section_founder_name"> </h2>
+                        <h6 style="color:#d9a441;"></h6>
+                        <p class="mt-4">
+
+                        </p>
+                       
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <img class="about_section_founder_img" src="./assets/img/Chandrika.png" alt="Dr. Lakshmi Deepika">
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="about_section_founder_list">
+                      
+
+
+
+                        <p><i class="bi bi-check-circle"></i> </p>
+                        <p><i class="bi bi-check-circle"></i> </p>
+                        <p><i class="bi bi-check-circle"></i> </p>
+                        <p><i class="bi bi-check-circle"></i> </p>
+                        <p><i class="bi bi-check-circle"></i> </p>
+                        <p><i class="bi bi-check-circle"></i> </p>
+                        <p><i class="bi bi-check-circle"></i> </p>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+        <div class="about_section_founder">
+            <div class="row g-0 align-items-center">
+                <div class="col-lg-4">
+                    <div class="about_section_founder_content">
+                        <!-- <div class="about_section_small_title">MEET OUR FOUNDER</div> -->
+                        <h2 class="about_section_founder_name">DR. PRAVALLIKA </h2>
+                        <h6 style="color:#d9a441;">BDS - General Dental Surgeon</h6>
+                        <p class="mt-4">
+                            BDS - General Dental Surgeon
+                            Dr. Pravallika plays a vital role in our practice by expertly managing digital reports and ensuring accurate diagnosis through advanced imaging and analysis. Along with her expertise in digital workflows, she is actively involved in clinical practice, providing quality dental care with a patient-first approach.
+                        </p>
+                        <!-- <h4 style="color:#d9a441;font-family:cursive;">Srinivasa Rao</h4> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <img class="about_section_founder_img" src="./assets/img/" alt="Dr. PRAVALLIKA">
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="about_section_founder_list">
+                        <!-- <p><i class="bi bi-check-circle"></i> Expert in Advanced Dental Implant Solutions</p>
+                            <p><i class="bi bi-check-circle"></i> Specialist in Gum Disease & Periodontal Care</p>
+                            <p><i class="bi bi-check-circle"></i> Excellence in Full-Mouth Smile Rehabilitation</p>
+                            <p><i class="bi bi-check-circle"></i> Trusted for Precision-Driven Dental Treatments</p>
+                            <p><i class="bi bi-check-circle"></i> Building Confident Smiles</p> -->
+
+
+
+                        <p><i class="bi bi-check-circle"></i>Expert in Digital Reports & Radiographic Analysis </p>
+                        <p><i class="bi bi-check-circle"></i>Proficient in Digital Workflows & Imaging Systems </p>
+                        <p><i class="bi bi-check-circle"></i>Clinical Expertise in General Dentistry </p>
+                        <p><i class="bi bi-check-circle"></i>Accurate Diagnosis & Treatment Planning </p>
+                        <p><i class="bi bi-check-circle"></i>Committed to Quality Care & Patient Satisfaction </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
     </div>

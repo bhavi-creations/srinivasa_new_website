@@ -120,49 +120,49 @@
 </footer>
 
 <script>
-  const footerImages=document.querySelectorAll(".footer_gallery_img");
+  const footerImages = document.querySelectorAll(".footer_gallery_img");
 
-const footerPopup=document.getElementById("footerGalleryPopup");
+  const footerPopup = document.getElementById("footerGalleryPopup");
 
-const footerPopupImg=document.getElementById("footerPopupImage");
+  const footerPopupImg = document.getElementById("footerPopupImage");
 
-const footerClose=document.querySelector(".footer_gallery_close");
-
-
-footerImages.forEach(img=>{
-
-img.addEventListener("click",()=>{
-
-footerPopup.classList.add("active");
-
-footerPopupImg.src=img.src;
-
-});
-
-});
+  const footerClose = document.querySelector(".footer_gallery_close");
 
 
-footerClose.addEventListener("click",()=>{
+  footerImages.forEach(img => {
 
-footerPopup.classList.remove("active");
+    img.addEventListener("click", () => {
 
-});
+      footerPopup.classList.add("active");
+
+      footerPopupImg.src = img.src;
+
+    });
+
+  });
 
 
-footerPopup.addEventListener("click",(e)=>{
+  footerClose.addEventListener("click", () => {
 
-if(e.target===footerPopup){
+    footerPopup.classList.remove("active");
 
-footerPopup.classList.remove("active");
+  });
 
-}
 
-});
+  footerPopup.addEventListener("click", (e) => {
+
+    if (e.target === footerPopup) {
+
+      footerPopup.classList.remove("active");
+
+    }
+
+  });
 </script>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
-
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </body>
 
 </html>

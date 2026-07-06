@@ -16,7 +16,7 @@
                     </div>
 
                     <h1 class="contact_us_title">
-                        CONTACT 
+                        CONTACT
                         <span>US</span>
                     </h1>
 
@@ -156,39 +156,41 @@
 
                     </form> -->
 
-<form action="contact_mail.php" method="POST">
+                    <form action="contact_mail.php" method="POST">
 
-    <div class="mb-3">
-        <label>Full Name *</label>
-        <input type="text" name="full_name" class="form-control"
-            placeholder="Enter your full name" required>
-    </div>
+                        <div class="mb-3">
+                            <label>Full Name *</label>
+                            <input type="text" name="full_name" class="form-control"
+                                placeholder="Enter your full name" required>
+                        </div>
 
-    <div class="mb-3">
-        <label>Phone Number *</label>
-        <input type="text" name="phone" class="form-control"
-            placeholder="Enter your phone number" required>
-    </div>
+                        <div class="mb-3">
+                            <label>Phone Number *</label>
+                            <input type="text" name="phone" class="form-control"
+                                placeholder="Enter your phone number" required>
+                        </div>
 
-    <div class="mb-3">
-        <label>Email Address *</label>
-        <input type="email" name="email" class="form-control"
-            placeholder="Enter your email address" required>
-    </div>
+                        <div class="mb-3">
+                            <label>Email Address *</label>
+                            <input type="email" name="email" class="form-control"
+                                placeholder="Enter your email address" required>
+                        </div>
 
-    <div class="mb-3">
-        <label>Message *</label>
-        <textarea rows="5" name="message"
-            class="form-control"
-            placeholder="Write your message" required></textarea>
-    </div>
+                        <div class="mb-3">
+                            <label>Message *</label>
+                            <textarea rows="5" name="message"
+                                class="form-control"
+                                placeholder="Write your message" required></textarea>
+                        </div>
+                        <div class="cf-turnstile"
+                            data-sitekey="0x4AAAAAADwTBec7r5nfv3W7"></div>
 
-    <button type="submit" class="btn contact_us_submit_btn w-100">
-        <i class="bi bi-send me-2"></i>
-        SEND MESSAGE
-    </button>
+                        <button type="submit" class="btn contact_us_submit_btn w-100">
+                            <i class="bi bi-send me-2"></i>
+                            SEND MESSAGE
+                        </button>
 
-</form>
+                    </form>
 
 
 
@@ -249,13 +251,13 @@
 
                     <div class="d-flex align-items-center">
                         <i class="bi bi-building contact_us_visit_icon"></i>
-<a href="https://share.google/UqH0YaDpLaXSGi8qX" target="_blank "style="text-decoration: none; color: inherit;">
-                        <div class="ms-3">
-                            <h4>VISIT OUR CLINIC</h4>
-                            <p class="mb-0">
-                                Walk in anytime during our working hours.
-                            </p>
-                        </div>
+                        <a href="https://share.google/UqH0YaDpLaXSGi8qX" target="_blank " style="text-decoration: none; color: inherit;">
+                            <div class="ms-3">
+                                <h4>VISIT OUR CLINIC</h4>
+                                <p class="mb-0">
+                                    Walk in anytime during our working hours.
+                                </p>
+                            </div>
                         </a>
                     </div>
 

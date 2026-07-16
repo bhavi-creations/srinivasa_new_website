@@ -14,8 +14,8 @@ $pdf_result = $conn->query($pdf_sql);
   <section class="news_letter_1_hero ">
     <div class="container">
       <div class="news_letter_1_breadcrumb">
-        <i class="bi bi-house-door me-2"></i> Home
-        <i class="bi bi-chevron-right mx-2"></i> <b>Newsletter</b>
+        <i class="fas fa-home me-2"></i> Home
+        <i class="fas fa-chevron-right mx-2"></i> <b>Newsletter</b>
       </div>
 
       <h1 class="news_letter_1_hero_title">
@@ -154,8 +154,8 @@ $pdf_result = $conn->query($pdf_sql);
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-3 col-6 service_section_cta_feature">
-                            <i class="bi bi-person-check"></i>
-                            <p>Expert<br>Doctors</p>
+                          <i class="fas fa-stethoscope"></i>
+                          <p>Expert<br>Doctors</p>
                         </div>
                         <div class="col-md-3 col-6 service_section_cta_feature">
                             <i class="bi bi-cpu"></i>

@@ -3,9 +3,9 @@
 <section class="tooth_extraction_hero fullmouthrestrotion_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home 
-      <i class="bi bi-chevron-right mx-2"></i> Services 
-      <i class="bi bi-chevron-right mx-2"></i> 
+      <i class="fas fa-home"></i> Home 
+      <i class="fas fa-chevron-right mx-2"></i> Services 
+      <i class="fas fa-chevron-right mx-2"></i> 
       <b>Full Mouth Restoration</b>
     </div>
 
@@ -21,14 +21,14 @@
     </p>
 
     <div class="tooth_extraction_features">
-      <div><i class="bi bi-heart-pulse"></i>Restore Function<br>& Comfort</div>
-      <div><i class="bi bi-shield-check"></i>Improve Oral<br>Health</div>
-      <div><i class="bi bi-emoji-smile"></i>Enhance Aesthetics<br>& Confidence</div>
-      <div><i class="bi bi-calendar-check"></i>Long-lasting<br>Results</div>
+      <div><img src="./assets/img/icons/full-mouth-step-4.png" alt="" style="width: 50px; height: 50px;"><br>Restore Function<br>& Comfort</div>
+      <div><img src="./assets/img/icons/oral-healthy-teeth.png" alt="" style="width: 50px; height: 50px;"><br>Improve Oral<br>Health</div>
+      <div><img src="./assets/img/icons/healthier-fullmouth-img.png" alt="" style="width: 50px; height: 50px;"><br>Enhance Aesthetics<br>& Confidence</div>
+      <div><i class="fas fa-calendar-check"></i>Long-lasting<br>Results</div>
     </div>
 
-   <a href="Appointment-Srinivasa-Dental-Hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
-   <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php"> <button class="tooth_extraction_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
+  <a href="Appointment-Srinivasa-Dental-Hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="fas fa-calendar-alt ms-2"></i></button></a>
+  <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php"> <button class="tooth_extraction_btn_outline"><i class="fas fa-phone me-2"></i> CALL US NOW</button></a>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play"><i class="bi bi-play-fill"></i></div>
@@ -44,12 +44,12 @@
   <div class="container">
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-heart-pulse"></i>Comprehensive<br>Care</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-tools"></i>Advanced<br>Technology</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-shield-check"></i>Customized<br>Treatment Plan</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-people"></i>Expert Team of<br>Specialists</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-stars"></i>Safe, Comfortable<br>& Painless</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-calendar-check"></i>Long-term Health<br>& Satisfaction</div></div>
+          <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/oral-healthy-teeth.png" alt="" style="width: 50px; height: 50px;">Comprehensive<br>Care</div></div>
+          <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Advaced-technology1.png" alt="" style="width: 50px; height: 50px;">Advanced<br>Technology</div></div>
+          <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 50px; height: 50px;">Customized<br>Treatment Plan</div></div>
+          <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Expert-team-specialists.png" alt="" style="width: 60px; height: 60px;">Expert Team<br>Specialists</div></div>
+          <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/painless_treatment-01.png" alt="" style="width: 40px; height: 45px;">Safe<br>& Painless</div></div>
+          <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="fas fa-calendar-check"></i>Long-term Health<br>& Satisfaction</div></div>
       </div>
     </div>
   </div>
@@ -64,12 +64,12 @@
           <div>
             <h3>WHO CAN BENEFIT?</h3>
             <ul>
-              <li><i class="bi bi-check-circle-fill"></i> Extensive tooth decay or damage</li>
-              <li><i class="bi bi-check-circle-fill"></i> Missing multiple teeth</li>
-              <li><i class="bi bi-check-circle-fill"></i> Worn down or broken teeth</li>
-              <li><i class="bi bi-check-circle-fill"></i> Jaw pain, bite problems or TMJ issues</li>
-              <li><i class="bi bi-check-circle-fill"></i> Previous dental work that has failed</li>
-              <li><i class="bi bi-check-circle-fill"></i> Want to improve function and appearance</li>
+                <li><i class="fas fa-check-circle"></i> Extensive tooth decay or damage</li>
+                <li><i class="fas fa-check-circle"></i> Missing multiple teeth</li>
+                <li><i class="fas fa-check-circle"></i> Worn down or broken teeth</li>
+                <li><i class="fas fa-check-circle"></i> Jaw pain, bite problems or TMJ issues</li>
+                <li><i class="fas fa-check-circle"></i> Previous dental work that has failed</li>
+                <li><i class="fas fa-check-circle"></i> Want to improve function and appearance</li>
             </ul>
           </div>
           <img src="assets\img\Fullmouth_restoration_1212.jpeg">
@@ -81,12 +81,12 @@
           <div>
             <h3>WHAT FULL MOUTH RESTORATION CAN DO</h3>
             <ul>
-              <li><i class="bi bi-check-circle-fill"></i> Restores chewing ability and bite function</li>
-              <li><i class="bi bi-check-circle-fill"></i> Rebuilds damaged teeth and replaces missing teeth</li>
-              <li><i class="bi bi-check-circle-fill"></i> Improves facial appearance and smile aesthetics</li>
-              <li><i class="bi bi-check-circle-fill"></i> Relieves pain and discomfort</li>
-              <li><i class="bi bi-check-circle-fill"></i> Enhances oral health and prevents future problems</li>
-              <li><i class="bi bi-check-circle-fill"></i> Boosts confidence and quality of life</li>
+              <li><i class="fas fa-check-circle"></i> Restores chewing ability and bite function</li>
+              <li><i class="fas fa-check-circle"></i> Rebuilds damaged teeth and replaces missing teeth</li>
+              <li><i class="fas fa-check-circle"></i> Improves facial appearance and smile aesthetics</li>
+              <li><i class="fas fa-check-circle"></i> Relieves pain and discomfort</li>
+              <li><i class="fas fa-check-circle"></i> Enhances oral health and prevents future problems</li>
+              <li><i class="fas fa-check-circle"></i> Boosts confidence and quality of life</li>
             </ul>
           </div>
           <img src="assets\img\fullmouth123.jpg">
@@ -98,12 +98,12 @@
     <h2 class="tooth_extraction_heading">Your Path to a Complete, Healthy Smile</h2>
 
     <div class="row g-3">
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-chat-dots"></i><h5>Consultation & Evaluation</h5><p>We understand your concerns and perform advanced diagnostics.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-clipboard2-check"></i><h5>Personalized Treatment Plan</h5><p>A customized plan is designed around your needs and goals.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-heart-pulse"></i><h5>Preparatory Treatment</h5><p>We treat any existing mouth concerns before restoration.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-award"></i><h5>Restoration Phase</h5><p>Rebuild, replace and restore using advanced techniques and materials.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-stars"></i><h5>Refinement & Finishing</h5><p>We fine-tune your bite and aesthetics for natural results.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-shield-check"></i><h5>Long-term Care & Maintenance</h5><p>Ongoing care to maintain your new smile for years to come.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>01</span><img src="./assets/img/icons/Advaced-technology1.png" alt="" style="width: 60px; height: 60px;"><h5>Consultation & Evaluation</h5><p>We understand your concerns and perform advanced diagnostics.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>02</span><img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 60px; height: 60px;"><h5>Personalized Treatment Plan</h5><p>A customized plan is designed around your needs and goals.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>03</span><img src="./assets/img/icons/full-mouth-step-3.png" alt="" style="width: 70px; height: 70px;"><h5>Preparatory Treatment</h5><p>We treat any existing mouth concerns before restoration.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>04</span><img src="./assets/img/icons/full-mouth-step-4.png" alt="" style="width: 70px; height: 70px;"><h5>Restoration Phase</h5><p>Rebuild, replace and restore using advanced techniques and materials.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>05</span><img src="./assets/img/icons/full-mouth-step-5.png" alt="" style="width: 70px; height: 70px;"><h5>Refinement & Finishing</h5><p>We fine-tune your bite and aesthetics for natural results.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>06</span><img src="./assets/img/icons/healthier-fullmouth-img.png" alt="" style="width: 70px; height: 70px;"><h5>Long-term Care & Maintenance</h5><p>Ongoing care to maintain your new smile for years to come.</p></div></div>
     </div>
 
     <div class="row g-4 mt-3">
@@ -111,11 +111,11 @@
         <div class="tooth_extraction_dark_card">
           <h3>BENEFITS OF FULL MOUTH RESTORATION</h3>
           <ul>
-            <li><i class="bi bi-check-circle-fill"></i> Complete oral health improvement</li>
-            <li><i class="bi bi-check-circle-fill"></i> Restored function and chewing ability</li>
-            <li><i class="bi bi-check-circle-fill"></i> Natural-looking, beautiful smile</li>
-            <li><i class="bi bi-check-circle-fill"></i> Durable, long-lasting results</li>
-            <li><i class="bi bi-check-circle-fill"></i> Improved confidence and well-being</li>
+            <li><i class="fas fa-check-circle"></i> Complete oral health improvement</li>
+            <li><i class="fas fa-check-circle"></i> Restored function and chewing ability</li>
+            <li><i class="fas fa-check-circle"></i> Natural-looking, beautiful smile</li>
+            <li><i class="fas fa-check-circle"></i> Durable, long-lasting results</li>
+            <li><i class="fas fa-check-circle"></i> Improved confidence and well-being</li>
           </ul>
         </div>
       </div>
@@ -128,7 +128,7 @@
             <img src="assets\img\After_full_mouth_restoration11.jpeg">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
-          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
+          <!-- <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p> -->
         </div>
       </div>
 
@@ -136,11 +136,11 @@
         <div class="tooth_extraction_card">
           <h3>TECHNIQUES WE USE</h3>
           <ul>
-            <li><i class="bi bi-check2-circle"></i> Dental Implants</li>
-            <li><i class="bi bi-check2-circle"></i> Crowns & Bridges</li>
-            <li><i class="bi bi-check2-circle"></i> Veneers & Cosmetic Restorations</li>
-            <li><i class="bi bi-check2-circle"></i> Full Mouth Rehabilitation</li>
-            <li><i class="bi bi-check2-circle"></i> Advanced Digital Smile Design</li>
+            <li><i class="fas fa-check-circle"></i> Dental Implants</li>
+            <li><i class="fas fa-check-circle"></i> Crowns & Bridges</li>
+            <li><i class="fas fa-check-circle"></i> Veneers & Cosmetic Restorations</li>
+            <li><i class="fas fa-check-circle"></i> Full Mouth Rehabilitation</li>
+            <li><i class="fas fa-check-circle"></i> Advanced Digital Smile Design</li>
           </ul>
         </div>
       </div>
@@ -151,7 +151,7 @@
     <div class="row g-3">
       <div class="col-lg-4">
         <div class="tooth_extraction_faq_card">
-          <h5>How long does full mouth restoration take? <i class="bi bi-chevron-down"></i></h5>
+            <h5>How long does full mouth restoration take? <i class="fas fa-chevron-down"></i></h5>
           <p>The duration varies depending on the complexity. It can take a few weeks to several months.</p>
         </div>
       </div>

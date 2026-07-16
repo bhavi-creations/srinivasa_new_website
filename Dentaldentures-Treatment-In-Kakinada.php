@@ -4,9 +4,9 @@
   <div class="container">
 
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home
-      <i class="bi bi-chevron-right mx-2"></i> Services
-      <i class="bi bi-chevron-right mx-2"></i>
+      <i class="fas fa-home"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i> Services
+      <i class="fas fa-chevron-right mx-2"></i>
       <b>Dentures Treatment</b>
     </div>
 
@@ -27,42 +27,42 @@
     <div class="tooth_extraction_features">
 
       <div>
-        <i class="bi bi-stars"></i>
-        Natural Looking<br>Smile
+        <img src="assets/img/icons/Natural-Looking-Smile.png" alt="" style="width: 70px; height: 70px;">
+        <br>Natural Looking<br>Smile
       </div>
 
       <div>
-        <i class="bi bi-chat-heart"></i>
-        Improved Speech<br>& Comfort
+        <img src="assets/img/icons/Dentures-speech-function.png" alt="" style="width: 70px; height: 70px;">
+        <br>Improved Speech<br>& Comfort
       </div>
 
       <div>
-        <i class="bi bi-emoji-smile"></i>
-        Better Confidence<br>& Appearance
+        <img src="assets/img/icons/dentures-step-5.png" alt="" style="width: 70px; height: 70px;">
+        <br> Natural look<br>& Appearance
       </div>
 
       <div>
-        <i class="bi bi-person-check"></i>
-        Custom Made<br>For You
+        <img src="assets/img/icons/Denture-custom-fit.png" alt="" style="width: 70px; height: 70px;">
+        <br>Custom Made<br>For You
       </div>
 
     </div>
     <a href="Appointment-Srinivasa-Dental-Hospital.php">
       <button class="tooth_extraction_btn_blue me-3 mb-2">
         BOOK APPOINTMENT
-        <i class="bi bi-calendar-event ms-2"></i>
+        <i class="fas fa-calendar-alt ms-2"></i>
       </button>
     </a>
     <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">
       <button class="tooth_extraction_btn_outline">
-        <i class="bi bi-telephone me-2"></i>
+        <i class="fas fa-phone me-2"></i>
         CALL US NOW
       </button>
     </a>
     <!-- <div class="tooth_extraction_video_box">
 
       <div class="tooth_extraction_play">
-        <i class="bi bi-play-fill"></i>
+        <i class="fas fa-play"></i>
       </div>
 
       <div>
@@ -87,35 +87,35 @@
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-person-check"></i>
-            Comfortable<br>Custom Fit
-          </div>
+              <img src="assets/img/icons/Denture-custom-fit.png" alt="" style="width: 70px; height: 70px;">
+              Comfortable<br>Custom Fit
+            </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-shield-check"></i>
+            <img src="assets/img/icons/Dentures-protection.png" alt="" style="width: 70px; height: 70px;">
             Strong &<br>Durable
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-stars"></i>
+            <img src="assets/img/icons/dentures-step-5.png" alt="" style="width: 70px; height: 70px;">
             Natural Looking<br>Appearance
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-chat-heart"></i>
+            <img src="assets/img/icons/Dentures-speech-function.png" alt="" style="width: 70px; height: 70px;">
             Better Speech<br>& Function
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-calendar-check"></i>
+            <img src="assets/img/icons/Denture-long-term-solution.png" alt="" style="width: 70px; height: 70px;">
             Long-Term<br>Solution
           </div>
         </div>
@@ -145,7 +145,7 @@
             <ul>
 
               <li>
-                <i class="bi bi-check-circle-fill"></i>
+                <i class="fas fa-check-circle"></i>
                 Patients missing multiple or all teeth
               </li>
 
@@ -189,7 +189,7 @@
 
           <div class="row g-3">
 
-            <div class="col-md-4">
+            <div class="col-md-6">
 
               <img
                 class="w-100 rounded mb-2"
@@ -203,7 +203,7 @@
 
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-6">
 
               <img
                 class="w-100 rounded mb-2"
@@ -216,8 +216,9 @@
               </p>
 
             </div>
+            <div class="col-md-3"></div>
 
-            <div class="col-md-4">
+            <div class="col-md-6 ">
 
               <img
                 class="w-100 rounded mb-2"
@@ -230,6 +231,8 @@
               </p>
 
             </div>
+                        <div class="col-md-3"></div>
+
 
           </div>
 
@@ -251,7 +254,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>01</span>
-          <i class="bi bi-clipboard2-pulse"></i>
+          <img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 75px; height: 60px;">
           <h5>Consultation</h5>
           <p>
             We evaluate your oral health, discuss your goals,
@@ -263,7 +266,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>02</span>
-          <i class="bi bi-bounding-box"></i>
+          <img src="./assets/img/icons/digital-imaging.png" alt="" style="width: 75px; height: 60px;">
           <h5>Digital Impressions</h5>
           <p>
             Precise impressions and measurements are taken
@@ -275,7 +278,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>03</span>
-          <i class="bi bi-pencil-square"></i>
+          <img src="./assets/img/icons/Denture-custom-fit.png" alt="" style="width: 75px; height: 70px;">
           <h5>Custom Design</h5>
           <p>
             Your dentures are designed to match your facial
@@ -284,10 +287,10 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+        <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>04</span>
-          <i class="bi bi-person-check"></i>
+          <img src="./assets/img/icons/dentures-step-4.png" alt="" style="width: 75px; height: 70px;">
           <h5>Trial Fitting</h5>
           <p>
             A trial denture is checked to ensure comfort,
@@ -299,7 +302,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>05</span>
-          <i class="bi bi-stars"></i>
+          <img src="./assets/img/icons/dentures-step-5.png" alt="" style="width: 75px; height: 70px;">
           <h5>Final Placement</h5>
           <p>
             Your completed dentures are fitted and adjusted
@@ -311,7 +314,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>06</span>
-          <i class="bi bi-emoji-smile"></i>
+          <img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 75px; height: 70px;">
           <h5>Smile Confidently</h5>
           <p>
             Enjoy improved chewing, speaking,
@@ -391,9 +394,9 @@
             <span>AFTER</span>
           </div>
 
-          <p class="text-center mt-2 mb-0">
+          <!-- <p class="text-center mt-2 mb-0">
             <small>*Results may vary from patient to patient.</small>
-          </p>
+          </p> -->
 
         </div>
 
@@ -456,8 +459,8 @@
           </h5>
 
           <p>
-            With proper care and regular dental check-ups,
-            dentures typically last between 5 and 10 years.
+           <br> With regular dental check-ups,
+            Dentures usually last 5 to 10 years.
           </p>
 
         </div>
@@ -474,8 +477,7 @@
           </h5>
 
           <p>
-            Some adjustment is normal during the first few weeks.
-            Modern custom dentures are designed for maximum comfort.
+            A little at first. Most people get comfortable within a few weeks.
           </p>
 
         </div>
@@ -492,8 +494,7 @@
           </h5>
 
           <p>
-            Yes. Most patients can return to a normal diet after
-            adapting to their dentures and following care instructions.
+            Yes. You can enjoy most foods after getting used to your dentures.
           </p>
 
         </div>

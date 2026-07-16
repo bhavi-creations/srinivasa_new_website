@@ -16,9 +16,9 @@
     </p>
 
     <div class="tooth_extraction_features">
-      <div><i class="bi bi-heart-pulse"></i>Relieves Pain<br>& Discomfort</div>
-      <div><i class="bi bi-shield-check"></i>Prevents Spread<br>of Infection</div>
-      <div><i class="bi bi-emoji-smile"></i>Protects Overall<br>Oral Health</div>
+      <div><img src="./assets/img/icons/painless_treatment-01.png" alt="" style="width: 60px; height: 60px;"><br>Relieves Pain<br>& Discomfort</div>
+      <div><img src="./assets/img/icons/Healthy-teeth.png" alt="" style="width: 60px; height: 60px;"><br>Prevents Spread<br>of Infection</div>
+      <div><img src="./assets/img/icons/oral-healthy-teeth.png" alt="" style="width: 60px; height: 60px;"><br>Protects Overall<br>Oral Health</div>
       <div><i class="bi bi-clock"></i>Quick & Safe<br>Procedure</div>
     </div>
 
@@ -39,10 +39,10 @@
   <div class="container">
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-person-check"></i>Experienced<br>Dentists</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-tools"></i>Advanced<br>Technology</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-shield-check"></i>Safe & Hygienic<br>Environment</div></div>
-        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-heart-pulse"></i>Painless & Comfortable<br>Procedure</div></div>
+        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Expert-team-specialists.png" alt="" style="width: 60px; height: 60px;">Experienced<br>Dentists</div></div>
+        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Advaced-technology1.png" alt="" style="width: 40px; height: 40px;">Advanced<br>Technology</div></div>
+        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Hygenic1.png" alt="" style="width: 40px; height: 40px;">Safe & Hygienic<br>Teeth</div></div>
+        <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><img src="./assets/img/icons/painless_treatment-01.png" alt="" style="width: 50px; height: 50px;">Painless<br>Treatment</div></div>
         <div class="col-lg col-md-4 col-6"><div class="tooth_extraction_strip_item"><i class="bi bi-hospital"></i>Complete Care<br>& Support</div></div>
       </div>
     </div>
@@ -77,8 +77,8 @@
           <p>We use modern techniques and effective anesthesia to make your extraction experience smooth, comfortable, and stress-free.</p>
 
           <div class="tooth_extraction_comfort_icons">
-            <div><i class="bi bi-heart-pulse"></i>Local Anesthesia<br>for a pain-free experience</div>
-            <div><i class="bi bi-person-heart"></i>Gentle Techniques<br>for faster recovery</div>
+            <div><img src="./assets/img/icons/painless_treatment-01.png" alt="" style="width: 50px; height: 50px;"><br>Local Anesthesia<br>for a pain-free experience</div>
+            <div><i class="fas fa-hand-holding-medical"></i><br>Gentle Techniques<br>for faster recovery</div>
             <div><i class="bi bi-emoji-smile"></i>Personalized Care<br>tailored to your needs</div>
           </div>
         </div>
@@ -89,12 +89,12 @@
     <h2 class="tooth_extraction_heading">Step-by-Step Care You Can Trust</h2>
 
     <div class="row g-3">
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-clipboard2-pulse"></i><h5>Examination</h5><p>We examine your tooth and take X-rays if needed.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-eyedropper"></i><h5>Numbing</h5><p>Local anesthesia is given to ensure a pain-free procedure.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-heart-pulse"></i><h5>Extraction</h5><p>The tooth is gently removed using advanced instruments.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-bandaid"></i><h5>Cleansing</h5><p>The area is cleaned thoroughly.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>01</span><img src="./assets/img/icons/step-1.png" alt="" style="width: 55px; height: 55px;"><h5>Examination</h5><p>We examine your tooth and take X-rays if needed.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>02</span><img src="./assets/img/icons/painless_treatment-01.png" alt="" style="width: 60px; height: 52px;"><h5>Numbing</h5><p>Local anesthesia is given to ensure a pain-free procedure.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>03</span><img src="./assets/img/icons/Tooth-extraction-img.png" alt="" style="width: 60px; height: 52px;"><h5>Extraction</h5><p>The tooth is gently removed using advanced instruments.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>04</span><img src="./assets/img/icons/cleaning-teeth-img.png" alt="" style="width: 60px; height: 52px;"><h5>Cleansing</h5><p>The area is cleaned thoroughly.</p></div></div>
       <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-file-earmark-medical"></i><h5>Aftercare Instructions</h5><p>We provide detailed instructions for recovery.</p></div></div>
-      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-emoji-smile"></i><h5>Recovery & Follow-up</h5><p>We monitor your healing and support you.</p></div></div>
+      <div class="col-lg-2 col-md-4"><div class="tooth_extraction_process_card"><span>06</span><img src="./assets/img/icons/Healthy-teeth.png" alt="" style="width: 60px; height: 52px;"><h5>Recovery & Fine Teeth</h5><p>We monitor your healing and support you.</p></div></div>
     </div>
 
     <div class="row g-4 mt-3">

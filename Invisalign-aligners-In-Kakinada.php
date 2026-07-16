@@ -4,8 +4,8 @@
 
 <section class="clear_aligners_hero ">
     <div class="container">
-        <div class="clear_aligners_breadcrumb">
-            <i class="bi bi-house-door me-2"></i> Home <i class="bi bi-chevron-right mx-2"></i> Services <i class="bi bi-chevron-right mx-2"></i> <b>Clear Aligners</b>
+            <div class="clear_aligners_breadcrumb">
+                <i class="fas fa-home me-2"></i> Home <i class="fas fa-chevron-right mx-2"></i> Services <i class="fas fa-chevron-right mx-2"></i> <b>Clear Aligners</b>
         </div>
 
         <h1 class="clear_aligners_hero_title">CLEAR ALIGNERS</h1>
@@ -15,10 +15,10 @@
         </p>
 
         <div class="clear_aligners_hero_features">
-            <div class="clear_aligners_hero_feature"><i class="bi bi-lips"></i>Virtually<br>Invisible</div>
-            <div class="clear_aligners_hero_feature"><i class="bi bi-emoji-smile"></i>Comfortable<br>& Removable</div>
-            <div class="clear_aligners_hero_feature"><i class="bi bi-calendar3"></i>Fewer Dental<br>Visits</div>
-            <div class="clear_aligners_hero_feature"><i class="bi bi-shield-check"></i>Safe &<br>Effective</div>
+            <div class="clear_aligners_hero_feature"><img src="./assets/img/icons/clear-aligners-step-1.png" alt="" style="width: 65px; height: 65px;"><br>Virtually<br>Invisible</div>
+            <div class="clear_aligners_hero_feature"><img src="./assets/img/icons/clear-aligners-step-2.png" alt="" style="width: 65px; height: 65px;"><br>Comfortable<br>& Removable</div>
+            <div class="clear_aligners_hero_feature"><i class="bi bi-calendar-check"></i>Fewer Dental<br>Visits</div>
+            <div class="clear_aligners_hero_feature"><img src="./assets/img/icons/clear-aligners-last-step.png" alt="" style="width: 65px; height: 65px;"><br>Safe &<br>Effective</div>
         </div>
         <a href="Appointment-Srinivasa-Dental-Hospital.php">
             <button class="clear_aligners_btn_blue me-3 mb-3">
@@ -45,25 +45,25 @@
         <div class="row g-3">
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <div class="clear_aligners_choose_card">
-                    <div class="clear_aligners_icon"><i class="bi bi-heart-pulse"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/clear-aligners-step-1.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Nearly invisible – no one will notice</h5>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <div class="clear_aligners_choose_card">
-                    <div class="clear_aligners_icon"><i class="bi bi-heart-pulse"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/clear-aligners-step-2.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Removable – eat, drink & brush with ease</h5>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <div class="clear_aligners_choose_card">
-                    <div class="clear_aligners_icon"><i class="bi bi-scissors"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/clear-aligners-step-3.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Smooth & comfortable – no metal or wires</h5>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
-                <div class="clear_aligners_choose_card">
-                    <div class="clear_aligners_icon"><i class="bi bi-person-badge"></i></div>
+                    <div class="clear_aligners_choose_card">
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/invisible-aligners.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Customized for precise results</h5>
                 </div>
             </div>
@@ -75,7 +75,7 @@
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <div class="clear_aligners_choose_card">
-                    <div class="clear_aligners_icon"><i class="bi bi-heart-pulse"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/child-dentistry.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Effective for teens & adults</h5>
                 </div>
             </div>
@@ -90,42 +90,42 @@
         <div class="row g-3">
             <div class="col-lg-2 col-md-4">
                 <div class="clear_aligners_process_card"><span class="clear_aligners_process_number">01</span>
-                    <div class="clear_aligners_icon"><i class="bi bi-search-heart"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/consultation-1.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Consultation</h5>
                     <p>We evaluate your smile and discuss your goals.</p>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4">
                 <div class="clear_aligners_process_card"><span class="clear_aligners_process_number">02</span>
-                    <div class="clear_aligners_icon"><i class="bi bi-display"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/digital-imaging.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Digital Scan</h5>
                     <p>We take a 3D scan of your teeth – no messy impressions.</p>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4">
                 <div class="clear_aligners_process_card"><span class="clear_aligners_process_number">03</span>
-                    <div class="clear_aligners_icon"><i class="bi bi-display"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 65px; height: 63px;"></div>
                     <h5>Treatment Plan</h5>
                     <p>A customized plan is created to show your smile journey.</p>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4">
                 <div class="clear_aligners_process_card"><span class="clear_aligners_process_number">04</span>
-                    <div class="clear_aligners_icon"><i class="bi bi-lips"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/invisible-aligners.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Aligners Delivery</h5>
                     <p>You receive your aligners and wear them as directed.</p>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4">
                 <div class="clear_aligners_process_card"><span class="clear_aligners_process_number">05</span>
-                    <div class="clear_aligners_icon"><i class="bi bi-calendar3"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/Advaced-technology1.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Progress Check</h5>
                     <p>Regular check-ups to monitor your progress.</p>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4">
                 <div class="clear_aligners_process_card"><span class="clear_aligners_process_number">06</span>
-                    <div class="clear_aligners_icon"><i class="bi bi-stars"></i></div>
+                    <div class="clear_aligners_icon"><img src="./assets/img/icons/Healthy-teeth.png" alt="" style="width: 65px; height: 65px;"></div>
                     <h5>Beautiful Results</h5>
                     <p>Enjoy a straighter, healthier and more confident smile!</p>
                 </div>
@@ -157,7 +157,7 @@
                         <span>BEFORE</span>
                         <span>AFTER</span>
                     </div>
-                    <p class="text-center mt-3 mb-0"><small>*Results may vary from person to person.</small></p>
+                    <!-- <p class="text-center mt-3 mb-0"><small>*Results may vary from person to person.</small></p> -->
                 </div>
             </div>
 

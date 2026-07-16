@@ -3,9 +3,9 @@
 <section class="tooth_extraction_hero smile_makeover_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home
-      <i class="bi bi-chevron-right mx-2"></i> Services
-      <i class="bi bi-chevron-right mx-2"></i>
+      <i class="fas fa-home"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i> Services
+      <i class="fas fa-chevron-right mx-2"></i>
       <b>Smile Makeover</b>
     </div>
 
@@ -22,10 +22,10 @@
     </p>
 
     <div class="tooth_extraction_features">
-      <div><i class="bi bi-heart-pulse"></i>Customized<br>for You</div>
+      <div><img src="./assets/img/icons/Natural-Looking-Smile.png" alt="" style="width: 60px; height: 60px;"><br>Customized<br>for You</div>
       <div><i class="bi bi-emoji-smile"></i>Enhanced<br>Confidence</div>
-      <div><i class="bi bi-stars"></i>Natural Looking<br>Results</div>
-      <div><i class="bi bi-shield-check"></i>Long-lasting<br>Transformation</div>
+      <div><img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 60px; height: 60px;"><br>Natural Looking<br>Results</div>
+      <div><img src="./assets/img/icons/Healthy-teeth.png" alt="" style="width: 60px; height: 60px;"><br>Long-lasting<br>Transformation</div>
     </div>
 
     <a href="Appointment-Srinivasa-Dental-Hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
@@ -46,16 +46,16 @@
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
         <div class="col-lg col-md-4 col-6">
-          <div class="tooth_extraction_strip_item"><i class="bi bi-heart-pulse"></i>Personalized<br>Treatment Plan</div>
+          <div class="tooth_extraction_strip_item"><img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 60px; height: 60px;">Personalized<br>Treatment Plan</div>
         </div>
         <div class="col-lg col-md-4 col-6">
-          <div class="tooth_extraction_strip_item"><i class="bi bi-tools"></i>Advanced<br>Technology</div>
+          <div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Advaced-technology1.png" alt="" style="width: 60px; height: 60px;">Advanced<br>Technology</div>
         </div>
         <div class="col-lg col-md-4 col-6">
-          <div class="tooth_extraction_strip_item"><i class="bi bi-shield-check"></i>Safe, Comfortable<br>& Painless</div>
+          <div class="tooth_extraction_strip_item"><img src="./assets/img/icons/painless_treatment-01.png" alt="" style="width: 60px; height: 60px;">Safe, Comfortable<br>& Painless</div>
         </div>
         <div class="col-lg col-md-4 col-6">
-          <div class="tooth_extraction_strip_item"><i class="bi bi-stars"></i>Beautiful, Natural<br>Results</div>
+          <div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Natural-Looking-Smile.png" alt="" style="width: 60px; height: 60px;">Beautiful, Natural<br>Results</div>
         </div>
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item"><i class="bi bi-calendar-check"></i>Long-lasting<br>Confidence</div>
@@ -159,38 +159,38 @@
 
     <div class="row g-3">
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-people"></i>
+        <div class="tooth_extraction_process_card"><span>01</span><img src="./assets/img/icons/consultation-1.png" alt="" style="width: 60px; height: 60px;">
           <h5>Consultation</h5>
           <p>We understand your goals and evaluate your smile.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i>
+        <div class="tooth_extraction_process_card"><span>02</span><img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 60px; height: 60px;">
           <h5>Personalized Plan</h5>
           <p>A customized treatment plan is designed for you.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-tools"></i>
+        <div class="tooth_extraction_process_card"><span>03</span><img src="./assets/img/icons/painless_treatment-1.png" alt="" style="width: 60px; height: 60px;">
           <h5>Treatment</h5>
           <p>We perform the agreed treatments with precision.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-emoji-smile"></i>
+        <div class="tooth_extraction_process_card"><span>04</span><img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 60px; height: 60px;">
           <h5>Enhancement</h5>
           <p>Your smile is enhanced step-by-step.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-search"></i>
+        <div class="tooth_extraction_process_card"><span>05</span><img src="./assets/img/icons/Natural-Looking-Smile.png" alt="" style="width: 60px; height: 60px;">
           <h5>Final Reveal</h5>
           <p>See your new smile and the amazing transformation.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-stars"></i>
-          <h5>Follow-up Care</h5>
+        <div class="tooth_extraction_process_card"><span>06</span><i class="bi bi-calendar-check"></i>
+          <h5>Follow-up</h5>
           <p>We ensure long-lasting results and your satisfaction.</p>
         </div>
       </div>
@@ -218,7 +218,7 @@
             <img src="assets\img\After_smile_makeover.jpg">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
-          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
+          <!-- <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p> -->
         </div>
       </div>
 

@@ -4,9 +4,9 @@
   <div class="container">
 
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home
-      <i class="bi bi-chevron-right mx-2"></i> Services
-      <i class="bi bi-chevron-right mx-2"></i>
+      <i class="fas fa-home"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i> Services
+      <i class="fas fa-chevron-right mx-2"></i>
       <b>Dental Implants</b>
     </div>
 
@@ -23,39 +23,39 @@
 
     <div class="tooth_extraction_features">
       <div>
-        <i class="bi bi-tooth"></i>
-        Natural Look<br>& Feel
+        <img src="./assets/img/icons/natural-look.png" alt="" style="width: 60px; height: 60px;">
+        <br>Natural Look<br>& Feel
       </div>
 
       <div>
-        <i class="bi bi-shield-check"></i>
-        Secure &<br>Stable Fit
+        <img src="./assets/img/icons/dental_implants1.png" alt="" style="width: 60px; height: 60px;">
+        <br>Implants<br>Missing Teeth
       </div>
 
       <div>
-        <i class="bi bi-award"></i>
-        Long-Term<br>Solution
+        <img src="./assets/img/icons/natural-look-implant.png" alt="" style="width: 61px; height: 58px;">
+        <br>Secure &<br>Stable Fit
       </div>
 
       <div>
-        <i class="bi bi-emoji-smile"></i>
-        Restores Smile<br>& Confidence
+        <img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 60px; height: 60px;">
+        <br>Restores Smile<br>& Confidence
       </div>
     </div>
     <a href="Appointment-Srinivasa-Dental-Hospital.php">
       <button class="tooth_extraction_btn_blue me-3 mb-3">
         BOOK APPOINTMENT
-        <i class="bi bi-calendar-event ms-2"></i>
+        <i class="fas fa-calendar-alt ms-2"></i>
       </button></a>
     <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">
       <button class="tooth_extraction_btn_outline">
-        <i class="bi bi-telephone me-2"></i>
+        <i class="fas fa-phone me-2"></i>
         CALL US NOW
       </button></a>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play">
-        <i class="bi bi-play-fill"></i>
+        <i class="fas fa-play"></i>
       </div>
 
       <div>
@@ -79,35 +79,35 @@
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-tooth"></i>
-            Looks & Feels<br>Like Natural Teeth
+            <img src="./assets/img/icons/natural-look.png" alt="" style="width: 45px; height: 45px;">
+            Natural Look<br>& Feel
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-shield-check"></i>
+            <img src="./assets/img/icons/natural-look-implant.png" alt="" style="width: 55px; height: 50px;">
             Supports Jawbone<br>Health
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-cup-hot"></i>
-            Eat & Chew<br>Comfortably
+            <img src="./assets/img/icons/dental_implants1.png" alt="" style="width: 45px; height: 45px;">
+             dental implant<br>placement
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-award"></i>
-            Strong & Durable<br>Results
+            <img src="./assets/img/icons/natural-look-implant.png" alt="" style="width: 55px; height: 50px;">
+            Secure &<br>Stable Fit
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-emoji-smile"></i>
+            <img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 50px; height: 50px;">
             Improves Smile<br>Confidence
           </div>
         </div>
@@ -209,7 +209,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>01</span>
-          <i class="bi bi-search"></i>
+          <img src="./assets/img/icons/digital-imaging.png" alt="" style="width: 75px; height: 60px;">
           <h5>Consultation</h5>
           <p>Comprehensive examination and digital imaging.</p>
         </div>
@@ -218,7 +218,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>02</span>
-          <i class="bi bi-clipboard2-pulse"></i>
+          <img src="./assets/img/icons/consultation-1.png" alt="" style="width: 75px; height: 60px;">
           <h5>Treatment Plan</h5>
           <p>Personalized implant treatment plan is created.</p>
         </div>
@@ -227,7 +227,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>03</span>
-          <i class="bi bi-tools"></i>
+          <img src="./assets/img/icons/implant-step-3.png" alt="" style="width: 75px; height: 60px;">
           <h5>Implant Placement</h5>
           <p>Titanium implant is placed into the jawbone.</p>
         </div>
@@ -236,7 +236,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>04</span>
-          <i class="bi bi-hourglass-split"></i>
+          <img src="./assets/img/icons/implant-step-4.png" alt="" style="width: 75px; height: 60px;">
           <h5>Healing Phase</h5>
           <p>The implant naturally bonds with the bone.</p>
         </div>
@@ -245,7 +245,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>05</span>
-          <i class="bi bi-link-45deg"></i>
+          <img src="./assets/img/icons/implant-step-5.png" alt="" style="width: 75px; height: 70px;">
           <h5>Abutment Placement</h5>
           <p>Connector is attached to support the crown.</p>
         </div>
@@ -254,7 +254,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>06</span>
-          <i class="bi bi-gem"></i>
+          <img src="./assets/img/icons/implant-step-6.png" alt="" style="width: 75px; height: 70px;">
           <h5>Crown Placement</h5>
           <p>Custom crown completes your new smile.</p>
         </div>
@@ -345,9 +345,9 @@
             <span>AFTER</span>
           </div>
 
-          <p class="text-center mt-2 mb-0">
+          <!-- <p class="text-center mt-2 mb-0">
             <small>*Results may vary from person to person.</small>
-          </p>
+          </p> -->
 
         </div>
       </div>

@@ -3,6 +3,20 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
+$secretKey = "6Le46UctAAAAAGXxyGoyXbmnRWc73Uj2kSGuuErv";
+
+$response = $_POST['g-recaptcha-response'] ?? '';
+
+$verify = file_get_contents(
+    "https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$response
+);
+
+$responseData = json_decode($verify);
+
+if (empty($response) || !$responseData->success) {
+    die("Please complete the 'I'm not a robot' verification.");
+}
+
 require 'vendor/autoload.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {

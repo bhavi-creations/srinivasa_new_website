@@ -4,9 +4,9 @@
   <div class="container">
 
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home
-      <i class="bi bi-chevron-right mx-2"></i> Services
-      <i class="bi bi-chevron-right mx-2"></i>
+      <i class="fas fa-home"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i> Services
+      <i class="fas fa-chevron-right mx-2"></i>
       <b>Crown & Bridge Treatment</b>
     </div>
 
@@ -26,40 +26,40 @@
     <div class="tooth_extraction_features">
 
       <div>
-        <i class="bi bi-shield-plus"></i>
-        Protects<br>Weak Teeth
+        <img src="assets/img/icons/protects-teeth-img.png" alt="" style="width: 70px; height: 70px;">
+        <br>Protects<br>Weak Teeth
       </div>
 
       <div>
-        <i class="bi bi-grid-3x3-gap"></i>
-        Replaces Missing<br>Teeth
+        <img src="assets/img/icons/replacing-missing-teeth01.png" alt="" style="width: 75px; height: 75px;">
+        <br>Replaces Missing<br>Teeth
       </div>
 
       <div>
-        <i class="bi bi-stars"></i>
-        Natural Looking<br>Smile
+        <img src="assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 70px; height: 70px;">
+        <br>Natural Looking<br>Smile
       </div>
 
       <div>
-        <i class="bi bi-award"></i>
-        Long-lasting<br>Results
+        <i class="fas fa-award"></i>
+        <br>Long-lasting<br>Results
       </div>
 
     </div>
     <a href="appointment_srinivasa_dental_hospital.php">
       <button class="tooth_extraction_btn_blue me-3 mb-3">
         BOOK APPOINTMENT
-        <i class="bi bi-calendar-event ms-2"></i>
+        <i class="fas fa-calendar-alt ms-2"></i>
       </button></a>
     <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php">
       <button class="tooth_extraction_btn_outline">
-        <i class="bi bi-telephone me-2"></i>
+        <i class="fas fa-phone me-2"></i>
         CALL US NOW
       </button></a>
 
     <!-- <div class="tooth_extraction_video_box">
       <div class="tooth_extraction_play">
-        <i class="bi bi-play-fill"></i>
+        <i class="fas fa-play"></i>
       </div> -->
 
     <!-- <div>
@@ -82,38 +82,38 @@
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-shield-plus"></i>
+            <img src="./assets/img/icons/Repair-Damaged-Teeth.png" alt="" style="width: 60px; height: 60px;">
             Strengthens<br>Damaged Teeth
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-emoji-smile"></i>
+            <img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 60px; height: 60px;">
             Restores Natural<br>Smile
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-grid-3x3-gap"></i>
+            <img src="assets/img/icons/replacing-missing-teeth01.png" alt="" style="width: 70px; height: 70px;">
             Replaces Missing<br>Teeth
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-heart-pulse"></i>
+            <img src="assets/img/icons/Healthy-teeth.png" alt="" style="width: 70px; height: 70px;">
             Improves Oral<br>Function
           </div>
         </div>
 
-        <div class="col-lg col-md-4 col-6">
+        <!-- <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item">
             <i class="bi bi-award"></i>
             Durable Long-Term<br>Solution
           </div>
-        </div>
+        </div> -->
 
       </div>
 
@@ -188,8 +188,7 @@
               </h5>
 
               <p>
-                A dental crown is a custom-designed cap placed over a damaged tooth to restore its strength,
-                function, and natural appearance while protecting it from further damage.
+                A dental crown is a tooth-shaped cap that covers a damaged or weak tooth to restore its shape, strength, and appearance.
               </p>
 
               <img class="w-100 rounded"
@@ -205,8 +204,7 @@
               </h5>
 
               <p>
-                A dental bridge is a fixed restoration that replaces one or more missing teeth by using adjacent
-                teeth or implants as support, helping restore function and aesthetics.
+                A dental bridge is a fixed replacement for one or more missing teeth. It fills the gap using nearby teeth or dental implants for support.
               </p>
 
               <img class="w-100 rounded"
@@ -233,55 +231,55 @@
 
     <div class="row g-3">
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>01</span>
-          <i class="bi bi-clipboard2-pulse"></i>
+          <img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 75px; height: 60px;">
           <h5>Consultation & Evaluation</h5>
           <p>Comprehensive examination and digital assessment of your teeth.</p>
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>02</span>
-          <i class="bi bi-tools"></i>
+          <img src="./assets/img/icons/crown-bridge-step-2.png" alt="" style="width: 75px; height: 70px;">
           <h5>Tooth Preparation</h5>
           <p>The affected tooth is carefully prepared for the restoration.</p>
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>03</span>
-          <i class="bi bi-bounding-box"></i>
+          <img src="./assets/img/icons/crown-bridge-step-3.png" alt="" style="width: 65px; height: 65px;">
           <h5>Digital Impressions</h5>
           <p>Precise scans or impressions are taken for a custom fit.</p>
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>04</span>
-          <i class="bi bi-clock-history"></i>
+          <img src="./assets/img/icons/crown-bridge-step-4.png" alt="" style="width: 65px; height: 65px;">
           <h5>Temporary Restoration</h5>
           <p>A temporary crown protects the prepared tooth.</p>
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>05</span>
-          <i class="bi bi-gem"></i>
+          <img src="./assets/img/icons/crown-bridge-step-5.png" alt="" style="width: 65px; height: 65px;">
           <h5>Custom Crown / Bridge</h5>
           <p>Your permanent restoration is fabricated with precision.</p>
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-4">
+      <div class="col-lg-4 col-md-6">
         <div class="tooth_extraction_process_card">
           <span>06</span>
-          <i class="bi bi-patch-check"></i>
+          <img src="./assets/img/icons/Final-placement-crown-bridge.png" alt="" style="width: 65px; height: 65px;">
           <h5>Final Placement</h5>
           <p>The restoration is fitted, adjusted, and permanently secured.</p>
         </div>
@@ -330,9 +328,9 @@
 
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-lg-4 " style="d-flex justify-content-center ">
 
-        <div class="tooth_extraction_card">
+        <div class="tooth_extraction_card ">
 
           <h3>BEFORE & AFTER</h3>
 
@@ -348,9 +346,9 @@
             <span>AFTER</span>
           </div>
 
-          <p class="text-center mt-2 mb-0">
+          <!-- <p class="text-center mt-2 mb-0">
             <small>*Results may vary from patient to patient.</small>
-          </p>
+          </p> -->
 
         </div>
 
@@ -358,7 +356,7 @@
 
       <div class="col-lg-4">
 
-        <div class="tooth_extraction_card">
+        <div class="tooth_extraction_card" style="font-weight: 500;">
 
           <h3>MATERIAL OPTIONS</h3>
 
@@ -404,13 +402,12 @@
         <div class="tooth_extraction_faq_card">
 
           <h5>
-            How long do crowns and bridges last?
+            How long crowns and bridges last?
             <i class="bi bi-chevron-down"></i>
           </h5>
 
           <p>
-            With proper oral hygiene and routine dental check-ups,
-            crowns and bridges can last between 10–15 years or even longer.
+             Crowns and bridges can last upto 10–15 years or even longer
           </p>
 
         </div>
@@ -422,13 +419,12 @@
         <div class="tooth_extraction_faq_card">
 
           <h5>
-            Will the crown look natural?
+            Will the crown look <br>natural?
             <i class="bi bi-chevron-down"></i>
           </h5>
 
           <p>
-            Yes. Modern crowns are custom-made to match the color,
-            shape, and appearance of your natural teeth.
+           Yes. It is made to match the color and shape of your natural teeth.
           </p>
 
         </div>
@@ -445,8 +441,7 @@
           </h5>
 
           <p>
-            Absolutely. Once the restoration is permanently placed,
-            you can comfortably eat and chew most foods as normal.
+            Yes. After the crown is fixed, you can eat and chew your food normally.
           </p>
 
         </div>

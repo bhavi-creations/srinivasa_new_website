@@ -3,9 +3,9 @@
 <section class="tooth_extraction_hero Dental_braces_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home 
-      <i class="bi bi-chevron-right mx-2"></i> Services 
-      <i class="bi bi-chevron-right mx-2"></i> 
+      <i class="fas fa-home"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i> Services
+      <i class="fas fa-chevron-right mx-2"></i>
       <b>Dental Braces (Orthodontics)</b>
     </div>
 
@@ -20,10 +20,10 @@
     </p>
 
     <div class="tooth_extraction_features">
-      <div><i class="bi bi-heart-pulse"></i>Straighter<br>Teeth</div>
-      <div><i class="bi bi-emoji-smile"></i>Improved<br>Confidence</div>
-      <div><i class="bi bi-braces"></i>Better Bite<br>Function</div>
-      <div><i class="bi bi-shield-check"></i>Long-term Oral<br>Health</div>
+      <div><img src="./assets/img/icons/dental-braces-01.jpg" alt="" style="width: 50px; height: 45px;"><br>Straighter<br>Teeth</div>
+      <div><i class="fas fa-smile"></i>Improved<br>Confidence</div>
+      <div><img src="./assets/img/icons/dental-braces-02.jpg" alt="" style="width: 50px; height: 45px;"><br>Better Bite<br>Function</div>
+      <div><img src="./assets/img/icons/oral-healthy-teeth.png" alt="" style="width: 50px; height: 45px;"><br>Long-term Oral<br>Health</div>
     </div>
 
     <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button>
@@ -39,7 +39,7 @@
   </div> -->
 </section>
 
-<section class="tooth_extraction_icon_strip">
+<!-- <section class="tooth_extraction_icon_strip">
   <div class="container">
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
@@ -51,7 +51,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <section class="tooth_extraction_section">
   <div class="container">
@@ -98,7 +98,7 @@
     <div class="row g-3">
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
-          <span>01</span><i class="bi bi-search-heart"></i>
+          <span>01</span><img src="./assets/img/icons/consultation-1.png" alt="" style="width: 75px; height: 60px;">
           <h5>Initial Consultation</h5>
           <p>We examine your teeth alignment and discuss your treatment goals.</p>
         </div>
@@ -106,7 +106,7 @@
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
-          <span>02</span><i class="bi bi-pc-display"></i>
+          <span>02</span><img src="./assets/img/icons/digital-imaging.png" alt="" style="width: 75px; height: 60px;">
           <h5>Digital Test</h5>
           <p>Digital scans and X-rays are taken to plan your orthodontic treatment.</p>
         </div>
@@ -114,7 +114,7 @@
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
-          <span>03</span><i class="bi bi-braces"></i>
+          <span>03</span><img src="./assets/img/icons/dental-braces-121.png" alt="" style="width: 72px; height: 65px;">
           <h5>Braces Placement</h5>
           <p>Braces are fitted carefully to begin the teeth straightening process.</p>
         </div>
@@ -130,7 +130,7 @@
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
-          <span>05</span><i class="bi bi-stars"></i>
+          <span>05</span><img src="./assets/img/icons/dental-braces-monitoring.png" alt="" style="width: 72px; height: 65px;">
           <h5>Progress Monitoring</h5>
           <p>Your treatment progress is monitored and adjustments are made as needed.</p>
         </div>
@@ -138,7 +138,7 @@
 
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
-          <span>06</span><i class="bi bi-lips"></i>
+          <span>06</span><img src="./assets/img/icons/smile-1.png" alt="" style="width: 72px; height: 65px;">
           <h5>Smile Transformation</h5>
           <p>Enjoy a straighter, healthier, and more confident smile with lasting results.</p>
         </div>
@@ -154,7 +154,7 @@
             <img src="assets\img\After_dental_braces.jpg" class="img-fluid">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
-          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
+          <!-- <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p> -->
         </div>
       </div>
 
@@ -171,10 +171,10 @@
         <div class="tooth_extraction_card">
           <h3>HELPS CORRECT</h3>
 <ul>
-  <li><i class="bi bi-check-circle-fill"></i> Crooked and overlapping teeth</li>
+  <li><i class="bi bi-check-circle-fill"></i> Uneven and bent Teeth</li>
   <li><i class="bi bi-check-circle-fill"></i> Gaps between teeth</li>
-  <li><i class="bi bi-check-circle-fill"></i> Overbite, underbite, and crossbite</li>
-  <li><i class="bi bi-check-circle-fill"></i> Teeth and jaw alignment issues</li>
+  <li><i class="bi bi-check-circle-fill"></i> Upper & Lower Teeth balance</li>
+  <li><i class="bi bi-check-circle-fill"></i> Teeth and jaw position issues</li>
   <li><i class="bi bi-check-circle-fill"></i> Creating a straighter smile</li>
 </ul>
         </div>
@@ -187,7 +187,7 @@
       <div class="col-lg-4">
         <div class="tooth_extraction_faq_card">
           <h5>Does braces treatment hurt? <i class="bi bi-chevron-down"></i></h5>
-          <p>You may feel mild discomfort after adjustments, but it usually goes away in a few days.</p>
+          <p>No. little discomfort is normal and it stays only a few days.</p>
         </div>
       </div>
 

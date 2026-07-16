@@ -5,7 +5,7 @@
     <section class="befor_and_after_hero">
         <div class="container">
             <div class="befor_and_after_breadcrumb">
-                <i class="bi bi-house-door me-2"></i> Home <i class="bi bi-chevron-right mx-2"></i> <b>Before & After</b>
+                <i class="fas fa-home me-2"></i> Home <i class="fas fa-chevron-right mx-2"></i> <b>Before & After</b>
             </div>
 
             <h1 class="befor_and_after_hero_title">
@@ -22,13 +22,13 @@
     <section class="befor_and_after_filter">
         <div class="container">
             <div class="befor_and_after_filter_box">
-                <button class="befor_and_after_filter_btn active"><i class="bi bi-grid me-2"></i> All Treatments</button>
-                <button class="befor_and_after_filter_btn"><i class="bi bi-emoji-smile me-2"></i> Smile Makeover</button>
-                <button class="befor_and_after_filter_btn"><i class="bi bi-award me-2"></i> Dental Implants</button>
-                <button class="befor_and_after_filter_btn"><i class="bi bi-braces me-2"></i> Braces & Aligners</button>
-                <button class="befor_and_after_filter_btn"><i class="bi bi-stars me-2"></i> Teeth Whitening</button>
-                <button class="befor_and_after_filter_btn"><i class="bi bi-heart-pulse me-2"></i> Veneers</button>
-                <button class="befor_and_after_filter_btn"><i class="bi bi-gem me-2"></i> Full Mouth Restoration</button>
+                <button class="befor_and_after_filter_btn active"><i class="fas fa-th me-2"></i> All Treatments</button>
+                <button class="befor_and_after_filter_btn"><i class="fas fa-smile me-2"></i> Smile Makeover</button>
+                <button class="befor_and_after_filter_btn"><i class="fas fa-award me-2"></i> Dental Implants</button>
+                <button class="befor_and_after_filter_btn"><i class="fas fa-tooth me-2"></i> Braces & Aligners</button>
+                <button class="befor_and_after_filter_btn"><i class="fas fa-star me-2"></i> Teeth Whitening</button>
+                <button class="befor_and_after_filter_btn"><i class="fas fa-heartbeat me-2"></i> Veneers</button>
+                <button class="befor_and_after_filter_btn"><i class="fas fa-gem me-2"></i> Full Mouth Restoration</button>
             </div>
         </div>
     </section>
@@ -44,14 +44,14 @@
                             <img src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=500&q=80">
                             <span class="befor_and_after_tag before">BEFORE</span>
                             <span class="befor_and_after_tag after">AFTER</span>
-                            <span class="befor_and_after_compare"><i class="bi bi-chevron-left"></i><i class="bi bi-chevron-right"></i></span>
+                            <span class="befor_and_after_compare"><i class="fas fa-chevron-left"></i><i class="fas fa-chevron-right"></i></span>
                         </div>
                         <div class="befor_and_after_card_body">
-                            <div class="befor_and_after_card_icon"><i class="bi bi-stars"></i></div>
+                            <div class="befor_and_after_card_icon"><i class="fas fa-star"></i></div>
                             <div>
                                 <h4>Smile Makeover</h4>
                                 <p>Complete smile transformation for a confident new you.</p>
-                                <a href="#" class="befor_and_after_link">View Details <i class="bi bi-arrow-right ms-1"></i></a>
+                                <a href="#" class="befor_and_after_link">View Details <i class="fas fa-chevron-right ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                             <span class="befor_and_after_compare"><i class="bi bi-chevron-left"></i><i class="bi bi-chevron-right"></i></span>
                         </div>
                         <div class="befor_and_after_card_body">
-                            <div class="befor_and_after_card_icon"><i class="bi bi-award"></i></div>
+                            <div class="befor_and_after_card_icon"><i class="fas fa-award"></i></div>
                             <div>
                                 <h4>Dental Implants</h4>
                                 <p>Replacing missing teeth with strong, natural-looking implants.</p>

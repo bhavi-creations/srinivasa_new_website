@@ -13,11 +13,38 @@
             </p>
 
             <div class="service_section_hero_features ">
-                <span>Advanced Technology</span>
-                <span>Expert Care</span>
-                <span>Gentle Treatment</span>
-            </div>
+        
+                <!-- Advanced Technology -->
+    <div class="home_section_feature_item">
+        <div class="home_section_feature_icon">
+            <img src="./assets/img/icons/Advanced-technology11.png" alt="" style="width: 49px; height: 50px;">
+      </div>
+        Advanced<br>Technology
+    </div>
 
+    <!-- Expert Doctors -->
+    <div class="home_section_feature_item">
+      <div class="home_section_feature_icon">
+        <img src="./assets/img/icons/Expert-doctor-gold.png" alt="" style="width: 50px; height: 50px;">
+      </div>
+      Expert<br>Doctors
+    </div>
+
+    <!-- Painless Treatments -->
+    <div class="home_section_feature_item">
+        <div class="home_section_feature_icon">
+            <img src="./assets/img/icons/painless_treatment-02.png" alt="" style="width: 50px; height: 50px;">
+        </div>
+        Painless<br>Treatments
+    </div>
+
+    <!-- Sterile & Safe Environment -->
+    <div class="home_section_feature_item">
+        <div class="home_section_feature_icon">
+            <img src="./assets/img/icons/painless-treatment11.png" alt="" style="width: 43px; height: 43px;">
+        </div>
+        Sterile <br>Treatment
+    </div>
 
         </div>
     </div>
@@ -34,7 +61,7 @@
 
 
         <div class="row g-4">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Root-Canal-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">01</span>
@@ -50,7 +77,7 @@
             </div>
 
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Dental-Braces-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">02</span>
@@ -65,7 +92,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Dental-Implants-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">03</span>
@@ -80,7 +107,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Dentalcrown-Bridge-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">04</span>
@@ -97,7 +124,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Teeth-Filling-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">05</span>
@@ -113,7 +140,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Dentaldentures-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">06</span>
@@ -129,7 +156,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Teeth-Scaling-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">07</span>
@@ -139,13 +166,13 @@
 
                         </div>
                         <h4>Teeth Scaling</h4>
-                        <p>Teeth scaling is a dental procedure that removes plaque and tartar buildup from the tooth surfaces and below the gum line to maintain oral health.</p>
+                        <p>Teeth scaling is a dental procedure that removes plaque and tartar from the tooth surfaces and below the gum line to maintain oral health.</p>
                         <a href="Teeth-Scaling-Treatment-In-Kakinada.php">LEARN MORE <i class="bi bi-arrow-right ms-2"></i></a>
                     </div>
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Tooth-Extraction-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">08</span>
@@ -161,7 +188,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Invisalign-aligners-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">09</span>
@@ -177,7 +204,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Teeth-Whitning-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">10</span>
@@ -193,13 +220,13 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Smile-Makeover-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">11</span>
                         <div class="service_section_icon">
                             <!-- <i class="bi bi-gem"></i> -->
-                            <img src="./assets/img/icons/Smile_Makeover.png" alt="" style="width: 50px; height: 50px;">
+                            <img src="./assets/img/icons/Smile-makeover-icon.png" alt="" style="width: 50px; height: 50px;">
 
                         </div>
                         <h4>Smile Makeover</h4>
@@ -209,7 +236,7 @@
                 </a>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <a href="Fullmouthrestrotion-Treatment-In-Kakinada.php">
                     <div class="service_section_card">
                         <span class="service_section_number">12</span>
@@ -239,20 +266,20 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-3 col-6 service_section_cta_feature">
-                            <i class="bi bi-person-check"></i>
+                            <img src="./assets/img/icons/Expert-doctor-1.png" alt="" style="width: 65px; height: 65px;"><br>
                             <p>Expert<br>Doctors</p>
                         </div>
                         <div class="col-md-3 col-6 service_section_cta_feature">
-                            <i class="bi bi-cpu"></i>
+                            <img src="./assets/img/icons/Advaced-technology1.png" alt="" style="width: 65px; height: 65px;"><br>
                             <p>Advanced<br>Technology</p>
                         </div>
                         <div class="col-md-3 col-6 service_section_cta_feature">
-                            <i class="bi bi-heart-pulse"></i>
+                            <img src="./assets/img/icons/painless_treatment-1.png" alt="" style="width: 65px; height: 65px;"><br>
                             <p>Painless<br>Treatment</p>
                         </div>
                         <div class="col-md-3 col-6 service_section_cta_feature">
-                            <i class="bi bi-emoji-smile"></i>
-                            <p>Comfortable<br>Environment</p>
+                            <img src="./assets/img/icons/Hygenic1.png" alt="" style="width: 65px; height: 65px;"><br>
+                            <p>Comfortable<br>and safety Teeth</p>
                         </div>
                     </div>
                 </div>

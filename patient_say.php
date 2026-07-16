@@ -3,8 +3,8 @@
 <section class="patients_say_hero">
   <div class="container">
     <div class="patients_say_breadcrumb">
-      <i class="bi bi-house-door"></i> Home
-      <i class="bi bi-chevron-right mx-2"></i>
+      <i class="fas fa-home"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i>
       <b>What Patients Say</b>
     </div>
 

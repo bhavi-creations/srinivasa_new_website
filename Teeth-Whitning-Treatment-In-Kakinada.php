@@ -3,9 +3,9 @@
 <section class="tooth_extraction_hero teeth_whitning_treatment_hero">
   <div class="container">
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home
-      <i class="bi bi-chevron-right mx-2"></i> Services
-      <i class="bi bi-chevron-right mx-2"></i>
+      <i class="fas fa-home"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i> Services
+      <i class="fas fa-chevron-right mx-2"></i>
       <b>Teeth Whitening</b>
     </div>
 
@@ -22,10 +22,10 @@
     </p>
 
     <div class="tooth_extraction_features">
-      <div><i class="bi bi-heart-pulse"></i>Whiter, Brighter<br>Smile</div>
-      <div><i class="bi bi-shield-check"></i>Safe &<br>Effective</div>
-      <div><i class="bi bi-stars"></i>Removes Stains &<br>Discoloration</div>
-      <div><i class="bi bi-emoji-smile"></i>Boosts Confidence &<br>Self-Esteem</div>
+      <div><img src="./assets/img/icons/Natural-Looking-Smile.png" alt="" style="width: 60px; height: 60px;"><br>Whiter, Brighter<br>Smile</div>
+      <div><img src="./assets/img/icons/Hygenic1.png" alt="" style="width: 60px; height: 60px;"><br>Safe &<br>Effective</div>
+      <div><img src="./assets/img/icons/scaling-img-1.png" alt="" style="width: 60px; height: 60px;"><br>Removes Stains &<br>Discoloration</div>
+      <div><img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 60px; height: 60px;"><br>Boosts Confidence &<br>Smile</div>
     </div>
 
      <a href="Appointment-Srinivasa-Dental-Hospital.php"> <button class="tooth_extraction_btn_blue me-3 mb-3">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
@@ -46,13 +46,13 @@
     <div class="tooth_extraction_strip_box">
       <div class="row g-0">
         <div class="col-lg col-md-4 col-6">
-          <div class="tooth_extraction_strip_item"><i class="bi bi-heart-pulse"></i>Removes Tough<br>Stains</div>
+          <div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Teeth-scaling-step_2.png" alt="" style="width: 60px; height: 60px;"><br>Removes Tough<br>Stains</div>
         </div>
         <div class="col-lg col-md-4 col-6">
-          <div class="tooth_extraction_strip_item"><i class="bi bi-stars"></i>Improves Overall<br>Appearance</div>
+          <div class="tooth_extraction_strip_item"><img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 60px; height: 60px;">Improves Overall<br>Appearance</div>
         </div>
         <div class="col-lg col-md-4 col-6">
-          <div class="tooth_extraction_strip_item"><i class="bi bi-shield-check"></i>Safe for Enamel<br>(When Done Right)</div>
+          <div class="tooth_extraction_strip_item"><img src="./assets/img/icons/protects-teeth-img.png" alt="" style="width: 60px; height: 60px;">Safe for Enamel<br>(When Done Right)</div>
         </div>
         <div class="col-lg col-md-4 col-6">
           <div class="tooth_extraction_strip_item"><i class="bi bi-clock"></i>Quick, Comfortable<br>& Effective</div>
@@ -120,32 +120,32 @@
 
     <div class="row g-3">
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>01</span><i class="bi bi-search-heart"></i>
+        <div class="tooth_extraction_process_card"><span>01</span><img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 60px; height: 60px;">
           <h5>Consultation</h5>
           <p>We examine your teeth and discuss your whitening goals.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>02</span><i class="bi bi-heart-pulse"></i>
+        <div class="tooth_extraction_process_card"><span>02</span><img src="./assets/img/icons/cleaning-teeth-img.png" alt="" style="width: 60px; height: 60px;">
           <h5>Cleaning</h5>
           <p>We clean your teeth to remove plaque and surface stains.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>03</span><i class="bi bi-shield-check"></i>
+        <div class="tooth_extraction_process_card"><span>03</span><img src="./assets/img/icons/protects-teeth-img.png" alt="" style="width: 60px; height: 60px;">
           <h5>Gum Protection</h5>
           <p>A protective barrier is applied to keep gums safe and comfortable.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>04</span><i class="bi bi-stars"></i>
+        <div class="tooth_extraction_process_card"><span>04</span><img src="./assets/img/icons/Healthy-teeth.png" alt="" style="width: 60px; height: 60px;">
           <h5>Whitening Treatment</h5>
           <p>The whitening gel is applied and activated for optimal results.</p>
         </div>
       </div>
       <div class="col-lg-2 col-md-4">
-        <div class="tooth_extraction_process_card"><span>05</span><i class="bi bi-heart-pulse"></i>
-          <h5>Rinse & Reveal</h5>
+        <div class="tooth_extraction_process_card"><span>05</span><img src="./assets/img/icons/Natural-looking-smile1201.png" alt="" style="width: 60px; height: 60px;">
+          <h5>Rinse & Reveal Smile</h5>
           <p>The gel is removed and your brighter smile is revealed!</p>
         </div>
       </div>
@@ -179,7 +179,7 @@
             <img src="assets\img\After_teeth_whitning1.jpg">
           </div>
           <div class="tooth_extraction_ba_labels"><span>BEFORE</span><span>AFTER</span></div>
-          <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p>
+          <!-- <p class="text-center mt-2 mb-0"><small>*Results may vary from person to person.</small></p> -->
         </div>
       </div>
 
@@ -215,8 +215,8 @@
 
       <div class="col-lg-4">
         <div class="tooth_extraction_faq_card">
-          <h5>Will it make my teeth sensitive? <i class="bi bi-chevron-down"></i></h5>
-          <p>Some people may experience mild sensitivity, which is temporary and manageable.</p>
+          <h5>Will my teeth feel sensitive?<i class="bi bi-chevron-down"></i></h5>
+          <p>Little sensitivity may occur, but it goes away soon and is easy to manage.</p>
         </div>
       </div>
     </div>

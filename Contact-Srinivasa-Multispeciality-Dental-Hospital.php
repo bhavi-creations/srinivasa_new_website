@@ -9,9 +9,9 @@
                 <div class="contact_us_hero_content">
 
                     <div class="contact_us_breadcrumb">
-                        <i class="bi bi-house-door"></i>
+                        <i class="fas fa-home"></i>
                         Home
-                        <i class="bi bi-chevron-right mx-2"></i>
+                        <i class="fas fa-chevron-right mx-2"></i>
                         Contact Us
                     </div>
 
@@ -28,23 +28,23 @@
                     <div class="contact_us_features">
 
                         <div class="contact_us_feature">
-                            <i class="bi bi-telephone"></i>
+                            <i class="fas fa-phone"></i>
                             <span>Quick<br>Response</span>
                         </div>
 
                         <div class="contact_us_feature">
-                            <i class="bi bi-envelope"></i>
+                            <i class="fas fa-envelope"></i>
                             <span>Easy<br>Communication</span>
                         </div>
 
                         <div class="contact_us_feature">
-                            <i class="bi bi-shield-check"></i>
+                            <img src="./assets/img/icons/trusted-support.png" alt="" style="width: 50px; height: 60px;"> <br>
                             <span>Trusted<br>Support</span>
                         </div>
 
                         <div class="contact_us_feature">
-                            <i class="bi bi-emoji-smile"></i>
-                            <span>Friendly<br>Care</span>
+                            <img src="./assets/img/icons/Persionalized-care-1.png" alt="" style="width: 60px; height: 60px;"> <br>
+                            <span>Teeth<br>Care</span>
                         </div>
 
                     </div>
@@ -53,7 +53,8 @@
 
             <div class="col-lg-7">
                 <div class="contact_us_hero_image">
-                    <img src="./assets/img/equi.png" class="img-fluid w-100">
+                     <img src="./assets/img/CONTACT_US.png" class="img-fluid "> 
+                     <!-- <img src="./assets/img/Contact-BG-img.png" class="img-fluid ">  -->
 
                     <!-- <div class="contact_us_quote_box">
                         <h5>WE'D LOVE TO HEAR FROM YOU</h5>
@@ -205,9 +206,9 @@
                     <h3>WHY CONTACT US?</h3>
 
                     <ul>
-                        <li><i class="bi bi-person-heart"></i> Experienced & Caring Doctors</li>
-                        <li><i class="bi bi-cpu"></i> Advanced Technology</li>
-                        <li><i class="bi bi-heart"></i> Personalized Care</li>
+                        <li><img src="./assets/img/icons/Expert-doctor-gold.png" alt="" style="width: 40px; height: 40px;"> Experienced & Caring Doctors</li>
+                        <li><img src="./assets/img/icons/Advanced-technology11.png" alt="" style="width: 40px; height: 40px;"> Advanced Technology</li>
+                        <li><span class="top-rated-wrapper"><span class="top-rated-icon" aria-hidden="true"></span></span> Top Rated Dentist in kainada</li>
                         <li><i class="bi bi-clock-history"></i> Quick Response Time</li>
                         <li><i class="bi bi-shield-check"></i> Trusted Dental Solutions</li>
                     </ul>

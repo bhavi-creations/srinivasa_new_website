@@ -90,9 +90,9 @@ $current_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
     </div>
 
     <div class="full_blogs_section_breadcrumb">
-      <i class="bi bi-house-door me-2"></i> Home
-      <i class="bi bi-chevron-right mx-2"></i> Blog
-      <i class="bi bi-chevron-right mx-2"></i>
+      <i class="fas fa-home me-2"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i> Blog
+      <i class="fas fa-chevron-right mx-2"></i>
       <b id="crumb-en"><?= htmlspecialchars($title) ?></b>
       <b id="crumb-te" style="display:none;"><?= htmlspecialchars($telugu_title) ?></b>
     </div>
@@ -108,9 +108,9 @@ $current_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
         </h1>
 
         <div class="full_blogs_section_meta">
-          <span><i class="bi bi-calendar3"></i> <?= $date ?></span>
-          <span><i class="bi bi-person"></i> Editor</span>
-          <span><i class="bi bi-clock"></i> 5 min read</span>
+          <span><i class="fas fa-calendar-alt"></i> <?= $date ?></span>
+          <span><i class="fas fa-user-edit"></i> Editor</span>
+          <span><i class="fas fa-clock"></i> 5 min read</span>
         </div>
 
         <?php if (!empty($video)): ?>

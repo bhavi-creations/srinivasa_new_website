@@ -4,9 +4,9 @@
   <div class="container">
 
     <div class="tooth_extraction_breadcrumb">
-      <i class="bi bi-house-door"></i> Home
-      <i class="bi bi-chevron-right mx-2"></i> Services
-      <i class="bi bi-chevron-right mx-2"></i>
+      <i class="fas fa-home"></i> Home
+      <i class="fas fa-chevron-right mx-2"></i> Services
+      <i class="fas fa-chevron-right mx-2"></i>
       <b>Teeth Filling Treatment</b>
     </div>
 
@@ -27,23 +27,24 @@
     <div class="tooth_extraction_features">
 
       <div>
-        <i class="bi bi-shield-plus"></i>
-        Stops Tooth<br>Decay
+        <img src="./assets/img/icons/Teeth-filling-step-2.png" alt="" style="width: 60px; height: 60px;">
+        <br>Stops Tooth<br>Decay
       </div>
 
       <div>
-        <i class="bi bi-tools"></i>
-        Restores Tooth<br>Strength
+        <img src="./assets/img/icons/Restores-tooth-strength.png" alt="" style="width: 60px; height: 60px;">
+
+        <br>Restores Tooth<br>Strength
       </div>
 
       <div>
-        <i class="bi bi-stars"></i>
-        Natural Looking<br>Results
+        <img src="./assets/img/icons/Healthy-teeth.png" alt="" style="width: 60px; height: 60px;">
+        <br>Natural Looking<br>Results
       </div>
 
       <div>
-        <i class="bi bi-heart-pulse"></i>
-        Protects Long-Term<br>Oral Health
+        <img src="./assets/img/icons/oral-healthy-teeth.png" alt="" style="width: 60px; height: 60px;">
+        <br>Protects Long-Term<br>Oral Health
       </div>
 
     </div>
@@ -88,28 +89,28 @@
 
         <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-heart-pulse"></i>
+            <img src="./assets/img/icons/painless_treatment-01.png" alt="" style="width: 50px; height: 50px;">
             Relieves Pain<br>& Sensitivity
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-shield-check"></i>
+            <img src="./assets/img/icons/Repair-Damaged-Teeth.png" alt="" style="width: 50px; height: 50px;">
             Prevents Further<br>Decay
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-tools"></i>
+            <img src="./assets/img/icons/Restores-tooth-strength.png" alt="" style="width: 50px; height: 50px;">
             Restores Tooth<br>Function
           </div>
         </div>
 
         <div class="col-lg col-md-4 col-12">
           <div class="tooth_extraction_strip_item">
-            <i class="bi bi-stars"></i>
+            <img src="./assets/img/icons/Healthy-teeth.png" alt="" style="width: 50px; height: 50px;">
             Tooth-Colored<br>Aesthetics
           </div>
         </div>
@@ -264,7 +265,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>01</span>
-          <i class="bi bi-clipboard2-pulse"></i>
+          <img src="./assets/img/icons/crown-bridge-step-1.png" alt="" style="width: 75px; height: 60px;">
           <h5>Consultation & Examination</h5>
           <p>
             A detailed examination helps identify cavities and determine the most suitable treatment.
@@ -275,7 +276,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>02</span>
-          <i class="bi bi-shield-x"></i>
+          <img src="./assets/img/icons/Teeth-filling-step-2.png" alt="" style="width: 75px; height: 72px;">
           <h5>Decay Removal</h5>
           <p>
             The damaged and decayed portion of the tooth is carefully removed.
@@ -286,7 +287,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>03</span>
-          <i class="bi bi-droplet-half"></i>
+          <img src="./assets/img/icons/Teeth-filling-step-3.png" alt="" style="width: 75px; height: 72px;">
           <h5>Tooth Cleaning</h5>
           <p>
             The prepared area is thoroughly cleaned to eliminate bacteria and debris.
@@ -297,7 +298,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>04</span>
-          <i class="bi bi-pencil-square"></i>
+          <img src="./assets/img/icons/Teeth-filling-step-4.png" alt="" style="width: 75px; height: 72px;">
           <h5>Filling Placement</h5>
           <p>
             The selected filling material is precisely placed into the prepared cavity.
@@ -308,7 +309,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>05</span>
-          <i class="bi bi-stars"></i>
+          <img src="./assets/img/icons/Teeth-filling-step-5.png" alt="" style="width: 75px; height: 72px;">
           <h5>Shaping & Polishing</h5>
           <p>
             The filling is shaped, adjusted, and polished for a natural feel and appearance.
@@ -319,7 +320,7 @@
       <div class="col-lg-2 col-md-4">
         <div class="tooth_extraction_process_card">
           <span>06</span>
-          <i class="bi bi-patch-check"></i>
+          <img src="./assets/img/icons/Hygenic1.png" alt="" style="width: 75px; height: 72px;">
           <h5>Final Restoration</h5>
           <p>
             Your tooth is restored to full function, comfort, and protection.
@@ -398,9 +399,9 @@
             <span>AFTER</span>
           </div>
 
-          <p class="text-center mt-2 mb-0">
+          <!-- <p class="text-center mt-2 mb-0">
             <small>*Results may vary from patient to patient.</small>
-          </p>
+          </p> -->
 
         </div>
 
@@ -463,8 +464,7 @@
           </h5>
 
           <p>
-            Modern filling procedures are comfortable and minimally invasive.
-            Local anesthesia is used whenever necessary to ensure a pain-free experience.
+            No. Fillings are usually painless with local anesthesia.
           </p>
 
         </div>
@@ -481,8 +481,7 @@
           </h5>
 
           <p>
-            Depending on the material used and oral hygiene practices,
-            fillings can last anywhere from 5 to 15 years or even longer.
+            Dental fillings usually last 5 to 15 years or more with good oral care.
           </p>
 
         </div>
@@ -499,8 +498,7 @@
           </h5>
 
           <p>
-            Yes. New decay can develop around a filling if proper oral hygiene
-            and regular dental visits are not maintained.
+           Yes. New cavities can form if you don't brush well and visit the dentist regularly.
           </p>
 
         </div>

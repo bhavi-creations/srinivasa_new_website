@@ -149,7 +149,7 @@ $category_result = $conn->query($category_sql);
 <section class="blogs_section_hero">
     <div class="container">
         <div class="blogs_section_breadcrumb">
-            <i class="bi bi-house-door me-2"></i> Home <i class="bi bi-chevron-right mx-2"></i> <b>Blog</b>
+            <i class="fas fa-home me-2"></i> Home <i class="fas fa-chevron-right mx-2"></i> <b>Blog</b>
         </div>
 
         <h1 class="blogs_section_hero_title">Our Blogs</h1>
@@ -168,12 +168,12 @@ $category_result = $conn->query($category_sql);
 <!-- <section class="blogs_section_topics">
         <div class="container">
             <div class="blogs_section_topics_box">
-                <div class="blogs_section_topic_item"><i class="bi bi-heart-pulse"></i>General<br>Dentistry</div>
-                <div class="blogs_section_topic_item"><i class="bi bi-award"></i>Dental<br>Implants</div>
-                <div class="blogs_section_topic_item"><i class="bi bi-braces"></i>Orthodontics<br>(Braces & Aligners)</div>
-                <div class="blogs_section_topic_item"><i class="bi bi-stars"></i>Cosmetic<br>Dentistry</div>
+                <div class="blogs_section_topic_item"><i class="fas fa-heart-pulse"></i>General<br>Dentistry</div>
+                <div class="blogs_section_topic_item"><i class="fas fa-award"></i>Dental<br>Implants</div>
+                <div class="blogs_section_topic_item"><i class="fas fa-tooth"></i>Orthodontics<br>(Braces & Aligners)</div>
+                <div class="blogs_section_topic_item"><i class="fas fa-star"></i>Cosmetic<br>Dentistry</div>
                 <div class="blogs_section_topic_item"><i class="bi bi-brightness-high"></i>Oral Health<br>Care</div>
-                <div class="blogs_section_topic_item"><i class="bi bi-person-heart"></i>Pediatric<br>Dentistry</div>
+                <div class="blogs_section_topic_item"><i class="fas fa-child"></i>Pediatric<br>Dentistry</div>
                 <div class="blogs_section_topic_item"><i class="bi bi-tools"></i>Root Canal<br>Treatment</div>
                 <div class="blogs_section_topic_item"><i class="bi bi-emoji-smile"></i>Smile<br>Makeover</div>
                 <div class="blogs_section_topic_item"><i class="bi bi-grid-3x3-gap-fill"></i>View All<br>Topics</div>
@@ -245,14 +245,14 @@ $category_result = $conn->query($category_sql);
                                     <h2><?php echo htmlspecialchars($featured['title']); ?></h2>
 
                                     <div class="blogs_section_meta">
-                                        <span><i class="bi bi-calendar3"></i> <?php echo $featured_date; ?></span>
-                                        <span><i class="bi bi-clock"></i> 5 min read</span>
+                                        <span><i class="fas fa-calendar"></i> <?php echo $featured_date; ?></span>
+                                        <span><i class="fas fa-clock"></i> 5 min read</span>
                                     </div>
 
                                     <p><?php echo $featured_preview; ?>...</p>
 
                                     <a href="<?php echo $featured_url; ?>" class="blogs_section_read_more">
-                                        Read More <i class="bi bi-arrow-right ms-1"></i>
+                                        Read More <i class="fas fa-chevron-right ms-1"></i>
                                     </a>
                                 </div>
                             </div>

@@ -13,16 +13,16 @@
 
             <div class="apointment_section_hero_features">
                 <div class="apointment_section_hero_feature">
-                    <i class="bi bi-calendar-check"></i> Easy<br>Booking
+                    <i class="fas fa-calendar-check"></i>Easy<br>Booking
                 </div>
                 <div class="apointment_section_hero_feature">
-                    <i class="bi bi-clock"></i> Quick<br>Confirmation
+                    <i class="fas fa-clock"></i>Quick<br>Confirmation
                 </div>
                 <div class="apointment_section_hero_feature">
-                    <i class="bi bi-shield-check"></i> Safe &<br>Hygienic
+                    <img src="./assets/img/icons/Hygenic1.png" alt="" style="width: 60px; height: 45px;"><br>Safe &<br>Hygienic
                 </div>
                 <div class="apointment_section_hero_feature">
-                    <i class="bi bi-emoji-smile"></i> Personalized<br>Care
+                    <img src="./assets/img/icons/Persionalized-care-1.png" alt="" style="width: 60px; height: 45px;"><br>Personalized<br>Care
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@
                 <div class="col-lg-7">
                     <div class="apointment_section_form_card">
                         <div class="apointment_section_form_heading">
-                            <i class="bi bi-calendar3"></i>
+                            <i class="fas fa-calendar-alt"></i>
                             <div>
                                 <h2>BOOK AN APPOINTMENT</h2>
                                 <p class="mb-0">Fill in your details and we’ll take care of the rest.</p>
@@ -44,19 +44,19 @@
                         <!-- <form>
                             <label class="apointment_section_label">Full Name <span>*</span></label>
                             <div class="apointment_section_input_group">
-                                <i class="bi bi-person"></i>
+                                <i class="fas fa-user"></i>
                                 <input type="text" class="apointment_section_input" placeholder="Enter your full name" required>
                             </div>
 
                             <label class="apointment_section_label">Phone Number <span>*</span></label>
                             <div class="apointment_section_input_group">
-                                <i class="bi bi-telephone"></i>
+                                <i class="fas fa-phone"></i>
                                 <input type="text" class="apointment_section_input" placeholder="Enter your phone number" required>
                             </div>
 
                             <label class="apointment_section_label">Email Address</label>
                             <div class="apointment_section_input_group">
-                                <i class="bi bi-envelope"></i>
+                                <i class="fas fa-envelope"></i>
                                 <input type="email" class="apointment_section_input" placeholder="Enter your email address">
                             </div>
 
@@ -92,7 +92,7 @@
 
                             <label class="apointment_section_label">Preferred Dentist (Optional)</label>
                             <div class="apointment_section_input_group">
-                                <i class="bi bi-person-badge"></i>
+                                <i class="fas fa-user-md"></i>
                                 <select class="apointment_section_select">
                                     <option>Any Available</option>
                                     <option>Dr. Srinivasa Rao</option>
@@ -107,19 +107,19 @@
                             </div>
 
                             <button type="submit" class="apointment_section_submit">
-                                <i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT
-                            </button>
+                    <i class="fas fa-calendar-alt me-2"></i> BOOK APPOINTMENT
+                </button>
 
                             <div class="apointment_section_secure">
                                 <i class="bi bi-lock"></i> Your information is secure and confidential.
                             </div>
                         </form> -->
                     
-                    <form action="appointment_mail.php" method="POST">
+    <form action="appointment_mail.php" method="POST">
 
     <label class="apointment_section_label">Full Name <span>*</span></label>
     <div class="apointment_section_input_group">
-        <i class="bi bi-person"></i>
+        <i class="fas fa-user"></i>
         <input type="text" name="full_name" class="apointment_section_input" placeholder="Enter your full name" required>
     </div>
 
@@ -157,11 +157,15 @@
     <div class="apointment_section_input_group">
         <i class="bi bi-pencil"></i>
         <textarea name="message" class="apointment_section_textarea" placeholder="Tell us about your concern"></textarea>
-    </div>
+</div>
 
-    <button type="submit" class="apointment_section_submit">
-        <i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT
-    </button>
+<div class="g-recaptcha" data-sitekey="6Le46UctAAAAAA7xonTyDcLMfd2zNTJm-wVfhCPp"></div>
+
+<br>
+
+<button type="submit" class="apointment_section_submit">
+    <i class="bi bi-calendar-event me-2"></i> BOOK APPOINTMENT
+</button>
 
 </form>
                     
@@ -174,16 +178,17 @@
                         <h3>WHY BOOK WITH US?</h3>
 
                         <div class="apointment_section_why_item">
-                            <i class="bi bi-person-heart"></i> Experienced & Caring Doctors
+                            <img src="./assets/img/icons/Expert_doctor11.png" alt="" style="width: 50px; height: 50px;">Experienced & Caring Doctors
                         </div>
                         <div class="apointment_section_why_item">
-                            <i class="bi bi-lightbulb"></i> Advanced Technology
+                            <img src="./assets/img/icons/Advanced-technology11.png" alt="" style="width: 50px; height: 50px;"> Advanced Technology
                         </div>
                         <div class="apointment_section_why_item">
-                            <i class="bi bi-cup-hot"></i> Comfortable & Relaxing Environment
+                            <img src="./assets/img/icons/painless_treatment-02.png" alt="" style="width: 50px; height: 50px;">
+                            Comfortable & painless Treatment
                         </div>
                         <div class="apointment_section_why_item">
-                            <i class="bi bi-clock-history"></i> Convenient Scheduling
+                            <img src="./assets/img/icons/calender-1-bg.png" alt="" style="width:50px; height:50px;"> Convenient Scheduling
                         </div>
                         <div class="apointment_section_why_item mb-0">
                             <i class="bi bi-shield-check"></i> Personalized Treatment Plans

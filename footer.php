@@ -10,9 +10,9 @@
         </div>
         <p>At Srinivasa Dental, we are dedicated to providing world-class dental care with compassion and excellence.</p>
         <div class="home_section_social">
-          <a href="https://www.facebook.com/srinivasadentalkakinada/" target="_blank"><i class="bi bi-facebook"></i></a>
-          <a href="https://www.instagram.com/srinivasadentalkakinada/" target="_blank"><i class="bi bi-instagram"></i></a>
-          <a href="https://www.youtube.com/@srinivasadentalkakinada" target="_blank"><i class="bi bi-youtube"></i></a>
+          <a href="https://www.facebook.com/srinivasadentalkakinada/" target="_blank"><i class="fab fa-facebook"></i></a>
+          <a href="https://www.instagram.com/srinivasadentalkakinada/" target="_blank"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.youtube.com/@srinivasadentalkakinada" target="_blank"><i class="fab fa-youtube"></i></a>
           <a href="https://www.linkedin.com/login/?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2F99449038%2Fadmin%2Fdashboard%2F" target="_blank"><i class="bi bi-whatsapp"></i></a>
         </div>
       </div>

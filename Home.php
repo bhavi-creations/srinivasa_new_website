@@ -5,42 +5,71 @@
   <div class="container">
     <div class="col-lg-6">
       <div class="home_section_subtitle">♕ PREMIUM DENTAL CARE</div>
-      <h1 class="home_section_title">Advanced Care.<br><span>Exquisite Smiles.</span></h1>
+      <h1 class="home_section_title">Expert Care.<br><span>Healthy Smiles.</span></h1>
       <p class="home_section_hero_text">
         At Srinivasa Dental, we blend advanced technology with compassionate care to create healthy, beautiful smiles that last a lifetime.
       </p>
 
       <div class="d-flex gap-3 flex-wrap">
-        <a href="Appointment-Srinivasa-Dental-Hospital.php"><button class="home_section_btn_blue">BOOK APPOINTMENT <i class="bi bi-calendar-event ms-2"></i></button></a>
-        <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php"><button class="home_section_btn_outline"><i class="bi bi-telephone me-2"></i> CALL US NOW</button></a>
+        <a href="Appointment-Srinivasa-Dental-Hospital.php"><button class="home_section_btn_blue">BOOK APPOINTMENT <i class="fas fa-calendar-alt ms-2"></i></button></a>
+        <a href="Contact-Srinivasa-Multispeciality-Dental-Hospital.php"><button class="home_section_btn_outline"><i class="fas fa-phone me-2"></i> CALL US NOW</button></a>
       </div>
 
       <div class="home_section_features">
-        <div class="home_section_feature_item">
-          <div class="home_section_feature_icon"><i class="bi bi-gear"></i></div> Advanced<br>Technology
-        </div>
-        <div class="home_section_feature_item">
-          <div class="home_section_feature_icon"><i class="bi bi-person-badge"></i></div> Expert<br>Doctors
-        </div>
-        <div class="home_section_feature_item">
-          <div class="home_section_feature_icon"><i class="bi bi-emoji-smile"></i></div> Painless<br>Treatments
-        </div>
-        <div class="home_section_feature_item">
-          <div class="home_section_feature_icon"><i class="bi bi-shield-check"></i></div> Sterile & Safe<br>Environment
-        </div>
+
+    <!-- Advanced Technology -->
+    <div class="home_section_feature_item">
+        <div class="home_section_feature_icon">
+        <img src="./assets/img/icons/Advanced-technology11.png" alt="" style="width: 47px; height: 47px;">
       </div>
+        Advanced<br>Technology
+    </div>
+
+    <!-- Expert Doctors -->
+    <div class="home_section_feature_item">
+      <div class="home_section_feature_icon">
+        <img src="./assets/img/icons/Expert-doctor-gold.png" alt="" style="width: 50px; height: 50px;">
+      </div>
+      Expert<br>Doctors
+    </div>
+
+    <!-- Painless Treatments -->
+    <div class="home_section_feature_item">
+        <div class="home_section_feature_icon">
+            <img src="./assets/img/icons/painless_treatment-02.png" alt="" style="width: 50px; height: 50px;">
+        </div>
+        Painless<br>Treatments
+    </div>
+
+    <!-- Sterile & Safe Environment -->
+    <div class="home_section_feature_item">
+        <div class="home_section_feature_icon">
+            <img src="./assets/img/icons/painless-treatment11.png" alt="" style="width: 43px; height: 43px;">
+        </div>
+        Sterile <br>Treatment
+    </div>
+
+</div>
+    </div>
+  </div>
+
+  <!-- Mobile Hero Background image-->
+<div class="mobile_bottom_bg" class="img-fluid ">
+    <img src="./assets/img/6.png" alt="">
+</div>
+
     </div>
   </div>
 
   <div class="home_section_floating_contact">
     <!-- Call Link -->
     <a href="tel:+919290019948" class="home_section_float_item text-decoration-none text-reset">
-      <i class="bi bi-telephone-fill"></i>Call Us
+      <i class="fas fa-phone"></i>Call Us
     </a>
 
     <!-- WhatsApp Link -->
     <a href="https://wa.me/919290019948?text=Hi!%20I%20am%20interested%20in%20your%20services." target="_blank" class="home_section_float_item whatsapp text-decoration-none text-reset">
-      <i class="bi bi-whatsapp"></i>WhatsApp
+      <i class="fab fa-whatsapp"></i>WhatsApp
     </a>
     <!-- <div class="home_section_float_item"><i class="bi bi-telephone-fill"></i>Call Us</div>
     <div class="home_section_float_item whatsapp"><i class="bi bi-whatsapp"></i>WhatsApp</div> -->
@@ -53,7 +82,7 @@
   <div class="home_section_booking">
     <div class="row align-items-center g-3">
       <div class="col-lg-3 d-flex align-items-center gap-3">
-        <div class="home_section_booking_icon"><i class="bi bi-calendar2-check"></i></div>
+        <div class="home_section_booking_icon"><i class="fas fa-calendar-check"></i></div>
         <div>
           <div class="home_section_booking_title">Book Your<br>Appointment</div>
           <small class="text-white">We're here to help you smile brighter.</small>
@@ -115,7 +144,7 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-stars"></i> -->
-            <img src="./assets/img/icons/implant.png" alt="" style="width: 50px; height: 50px;">
+            <img src="./assets/img/icons/dentalimplants_new.png" alt="" style="width: 50px; height: 50px;">
             
             </div>
             <h5>Dental implants</h5>
@@ -224,7 +253,7 @@
           <div class="home_section_service_card">
             <div class="home_section_service_icon">
               <!-- <i class="bi bi-brightness-high"></i> -->
-            <img src="./assets/img/icons/Smile_Makeover.png" alt="" style="width: 50px; height: 50px;">
+            <img src="./assets/img/icons/Smile-makeover-icon.png" alt="" style="width: 50px; height: 50px;">
             </div>
             <h5>Smile Makeover</h5>
             <p>A smile makeover is a comprehensive cosmetic dental treatment designed to enhance the overall appearance of your smile through a combination of procedures.</p>
@@ -255,25 +284,25 @@
     <div class="home_section_stats">
       <div class="row g-4">
         <div class="col-lg-3 col-6  home_section_stat_item">
-          <i class="bi bi-crown"></i>
+          <img src="assets\img\icons\Hospital-bg-removed.png" alt="" style="width: 60px; height: 60px;">
           <div>
             <div class="home_section_stat_number">12+</div><small>Years of Excellence</small>
           </div>
         </div>
         <div class="col-lg-3 col-6 home_section_stat_item">
-          <i class="bi bi-people"></i>
+          <img src="./assets/img/icons/Happy-patients1.png" alt="" style="width: 60px; height: 62px;">
           <div>
             <div class="home_section_stat_number">15000+</div><small>Happy Patients</small>
           </div>
         </div>
         <div class="col-lg-3 col-6 home_section_stat_item">
-          <i class="bi bi-person-badge"></i>
+          <img src="./assets/img/icons/Expert-doctor-gold.png" alt="" style="width: 60px; height: 60px;">
           <div>
             <div class="home_section_stat_number">7+</div><small>Expert Doctors</small>
           </div>
         </div>
         <div class="col-lg-3 col-6 home_section_stat_item">
-          <i class="bi bi-shield-check"></i>
+          <img src="./assets/img/icons/patient-satisfaction1.png" alt="" style="width: 60px; height: 60px;">
           <div>
             <div class="home_section_stat_number">98%</div><small>Patient Satisfaction</small>
           </div>
@@ -294,13 +323,13 @@
       <div class="col-lg-4">
         <div class="home_section_subtitle">WHY CHOOSE US —</div>
         <h2>Experience the Best in <span>Dental Care</span></h2>
-        <p>We are committed to providing exceptional dental care in a comfortable and friendly environment.</p>
+        <p style="font-size:17px; line-height:1.8;">We are committed to providing exceptional dental care in a comfortable and friendly environment.</p>
 
         <ul class="home_section_check">
-          <li><i class="bi bi-check-circle-fill"></i> State-of-the-art technology</li>
+          <li><i class="fas fa-check-circle"></i> State-of-the-art technology</li>
           <li><i class="bi bi-check-circle-fill"></i> Highly experienced dental professionals</li>
           <li><i class="bi bi-check-circle-fill"></i> Painless & comfortable treatments</li>
-          <li><i class="bi bi-check-circle-fill"></i> Hygienic & safe environment</li>
+          <li><i class="bi bi-check-circle-fill"></i> Hygienic & safety</li>
           <li><i class="bi bi-check-circle-fill"></i> Personalized care for every patient</li>
         </ul>
 
@@ -314,10 +343,10 @@
       <div class="col-lg-3">
         <div class="home_section_about_box">
           <div class="home_section_about_box_item">
-            <div class="home_section_about_box_icon"><i class="bi bi-cpu"></i></div> Advanced Technology
+            <div class="home_section_about_box_icon"><img src="./assets/img/icons/Advaced-technology1.png" alt="" style="width: 50px; height: 50px;"></div> Advanced Technology
           </div>
           <div class="home_section_about_box_item">
-            <div class="home_section_about_box_icon"><i class="bi bi-person-check"></i></div> Comfortable Environment
+            <div class="home_section_about_box_icon"><img src="./assets/img/icons/Hygenic1.png" alt="" style="width: 60px; height: 60px;"></div> Hygienic & safety
           </div>
           <div class="home_section_about_box_item">
             <div class="home_section_about_box_icon"><i class="bi bi-cash-coin"></i></div> Affordable Pricing
@@ -331,6 +360,73 @@
   </div>
 </section>
 
+<section class="tooth_extraction_section">
+    <div class="container">
+
+        <div class="tooth_extraction_heading_small">— ADVANCED TECHNOLOGY —</div>
+        <h2 class="tooth_extraction_heading">Technology That Makes a Difference</h2>
+
+        <div class="row g-4 mt-2">
+
+            <!-- Card 1 -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="tooth_extraction_faq_card text-center p-4 h-100">
+                    <img src="./assets/img/Microscopic-treatment001.png" class="img-fluid mb-3" style="height:120px;" alt="Microscope">
+                    <h5>Microscope</h5>
+                    <p>Provides high magnification for accurate diagnosis and precise root canal treatment.</p>
+                </div>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="tooth_extraction_faq_card text-center p-4 h-100">
+                    <img src="./assets/img/Intraoral-Scanner.png" class="img-fluid mb-3" style="height:120px;" alt="Intraoral Scanner">
+                    <h5>Intraoral Scanner</h5>
+                    <p>Captures fast, highly accurate digital impressions without traditional molds.</p>
+                </div>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="tooth_extraction_faq_card text-center p-4 h-100">
+                    <img src="./assets/img/Dental-Laser01.png" class="img-fluid mb-3" style="height:120px;" alt="Dental Laser">
+                    <h5>Dental Laser</h5>
+                    <p>Enables minimally invasive, comfortable procedures with faster healing.</p>
+                </div>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="tooth_extraction_faq_card text-center p-4 h-100">
+                    <img src="./assets/img/OPG.png" class="img-fluid mb-3" style="height:120px;" alt="OPG X-Ray">
+                    <h5>OPG (Full mouth X-Ray)</h5>
+                    <p>Provides a complete panoramic view for accurate diagnosis and treatment planning.</p>
+                </div>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="tooth_extraction_faq_card text-center p-4 h-100" >
+                    <img src="./assets/img/Painless-Anaesthesia.png" class="img-fluid mb-3" style="height:120px;" alt="Painless Anesthesia">
+                    <h5>Painless Anesthesia</h5>
+                    <p>Delivers anesthesia comfortably for a gentle and stress-free treatment experience.</p>
+                </div>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="tooth_extraction_faq_card text-center p-4 h-100">
+                    <img src="./assets/img/GBT.png" class="img-fluid mb-3" style="height:120px;" alt="GBT">
+                    <h5>GBT (Pain less Teeth Cleaning)</h5>
+                    <p>Advanced pain less teeth cleaning for healthier gums and brighter smiles.</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
 <section class="home_section_testimonials">
   <div class="container">
     <div class="home_section_heading_small">— PATIENTS LOVE US —</div>
@@ -340,13 +436,14 @@
       <div class="col-lg-4">
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
-          <p>The dental treatment was smooth and painless. Kiran raju sir explained everything clearly.
+          <p style="font-size: 18px; line-height: 1.8;">
+            The dental treatment was smooth and painless. Kiran raju sir explained everything clearly.
             I’m very satisfied with the care I received. The staff was friendly and professional.
             The procedure went well, and I feel much better now.</p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <img src="./assets/img/1.png">
-            <div><b>krishnaveni u</b><br></div>
+            <img src="https://ui-avatars.com/api/?name=K&background=0D6EFD&color=fff&bold=true&size=128" alt="K">
+            <div><span class="patient-name">Krishnaveni U</span><br></div>
             <!-- <div><b>Marina Masa</b><br><small>Patient</small></div> -->
           </div>
         </div>
@@ -355,11 +452,11 @@
       <div class="col-lg-4">
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
-          <p>Went to srinivasa dental for tooth extraction and root canal...Dr krian raju listened to my problem with patience...he explained me all in detail...throughout the treatment he made me comfortable.</p>
+          <p style="font-size: 18px; line-height: 1.8;">Went to srinivasa dental for tooth extraction and root canal...Dr krian raju listened to my problem with patience...he explained me all in detail...throughout the treatment he made me comfortable.</p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <img src="https://randomuser.me/api/portraits/men/32.jpg">
-            <div><b>Singa Raju</b><br></div>
+            <img src="https://ui-avatars.com/api/?name=S&background=198754&color=fff&bold=true&size=128" alt="S">
+            <div><span class="patient-name">Singa Raju</span><br></div>
           </div>
         </div>
       </div>
@@ -367,14 +464,14 @@
       <div class="col-lg-4">
         <div class="home_section_test_card">
           <div class="home_section_quote">“</div>
-          <p>
-            "A huge thank you to the team at Srinivasa Dental Clinic! You guys did an amazing job with my treatment. The clinic has such a clean and eco-friendly vibe, and the doctors are so kind and professional. Definitely the top choice for dental care in Kakinada! TQ!"😊❤️
+          <p style="font-size: 18px; line-height: 1.8;">
+            "A huge thank you to the team at Srinivasa Dental Clinic! It's an amazing treatment experience, a clean and eco-friendly clinic, and kind, professional doctors. Definitely the best choice for dental care in Kakinada. Thank you!"😊❤️
 
           </p>
           <div class="home_section_stars">★★★★★</div>
           <div class="home_section_patient">
-            <img src="https://randomuser.me/api/portraits/women/68.jpg">
-            <div><b>JOHN SON</b><br></div>
+            <img src="https://ui-avatars.com/api/?name=J&background=FD7E14&color=fff&bold=true&size=128" alt="J">
+            <div><span class="patient-name">JOHN SON</span><br></div>
           </div>
         </div>
       </div>

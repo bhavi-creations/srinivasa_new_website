@@ -1,27 +1,29 @@
 
 <?php
-// Database connection details
+// Database connection details.
+// Use local credentials on localhost and production credentials everywhere else.
 $servername = "localhost";
-// Determine if the server is localhost
-if ($_SERVER['SERVER_NAME'] == 'localhost') {
+$server_name = $_SERVER['SERVER_NAME'] ?? '';
+
+if ($server_name === 'localhost' || $server_name === '127.0.0.1') {
     $username = "root";
     $password = "";
     $dbname = "srinivasa";
-} 
-else {
+} else {
     $username = "bhavicreations";
     $password = "d8Az75YlgmyBnVM";
     $dbname = "srinivasanew";
-    
 }
- 
-// Create connection
+
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-// Check connection
 if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+    error_log("DB connection failed for {$server_name}: " . $conn->connect_error);
+    http_response_code(500);
+    die("Database connection failed. Please try again later.");
 }
+
+$conn->set_charset('utf8mb4');
 
 
 

@@ -1,12 +1,5 @@
 <?php
-require_once __DIR__ . '/db.connection/db_connection.php';
-
-$script_base = rtrim(str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? '')), '/');
-$site_base = ($script_base === '' || $script_base === '.') ? '/' : $script_base . '/';
-
-$page_url = function (string $path) use ($site_base): string {
-    return $site_base . ltrim($path, '/');
-};
+include './db.connection/db_connection.php';
 
 $blog_input = isset($_GET['id']) ? trim($_GET['id']) : '';
 
@@ -84,7 +77,7 @@ $category_result = $conn->query($category_sql);
 $current_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 ?>
 
-<?php include __DIR__ . '/header.php'; ?>
+<?php include 'header.php'; ?>
 
 
 
@@ -164,7 +157,7 @@ $current_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
               <div class="full_blogs_section_cta_content">
                 <h3>Ready to Transform Your Smile?</h3>
                 <p>Our expert team is here to help you achieve the smile you've always dreamed of.</p>
-                <a href="<?php echo htmlspecialchars($page_url('Appointment-Srinivasa-Dental-Hospital.php')); ?>">
+                <a href="appointment_srinivasa_dental_hospital.php">
                   <button class="full_blogs_section_btn_blue">
                     <i class="bi bi-calendar-event me-2"></i> BOOK AN APPOINTMENT
                   </button>
@@ -231,7 +224,7 @@ $current_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
             <p>No popular posts found.</p>
           <?php endif; ?>
 
-          <a href="<?php echo htmlspecialchars($page_url('blogs_srinivasa_multispeciality_dental_hospital.php')); ?>">
+          <a href="blogs.php">
             <button class="full_blogs_section_outline_btn">VIEW ALL POSTS</button>
           </a>
         </div>
@@ -241,7 +234,7 @@ $current_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
           <?php if ($category_result && $category_result->num_rows > 0): ?>
             <?php while ($cat = $category_result->fetch_assoc()): ?>
-              <a href="<?= htmlspecialchars($page_url('blogs_srinivasa_multispeciality_dental_hospital.php?service=' . urlencode($cat['service']))) ?>" style="text-decoration:none;">
+              <a href="blogs.php?service=<?= urlencode($cat['service']) ?>" style="text-decoration:none;">
                 <div class="full_blogs_section_category_item">
                   <span><?= htmlspecialchars($cat['service']) ?></span>
                   <span><?= $cat['total'] ?></span>
@@ -254,7 +247,7 @@ $current_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
           <hr>
 
-          <a href="<?php echo htmlspecialchars($page_url('blogs_srinivasa_multispeciality_dental_hospital.php')); ?>" class="full_blogs_section_read_more">
+          <a href="blogs.php" class="full_blogs_section_read_more">
             VIEW ALL CATEGORIES <i class="bi bi-arrow-right ms-1"></i>
           </a>
         </div>
@@ -298,4 +291,4 @@ document.getElementById("telugu-btn").addEventListener("click", function () {
 
 
 
-<?php include __DIR__ . '/footer.php'; ?>
+<?php include 'footer.php'; ?>

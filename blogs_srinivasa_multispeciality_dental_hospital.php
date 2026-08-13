@@ -1,12 +1,5 @@
 <?php
-require_once __DIR__ . '/db.connection/db_connection.php';
-
-$script_base = rtrim(str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? '')), '/');
-$site_base = ($script_base === '' || $script_base === '.') ? '/' : $script_base . '/';
-
-$page_url = function (string $path) use ($site_base): string {
-    return $site_base . ltrim($path, '/');
-};
+include './db.connection/db_connection.php';
 
 $limit = 6;
 $page = isset($_GET['page']) && is_numeric($_GET['page']) ? (int)$_GET['page'] : 1;
@@ -89,7 +82,7 @@ $category_result = $conn->query($category_sql);
 ?>
 
 
-<?php include __DIR__ . '/header.php'; ?>
+<?php include 'header.php'; ?>
 
 <style>
     .pagination-wrap {
@@ -195,7 +188,7 @@ $category_result = $conn->query($category_sql);
 
         <div class="row mb-4">
             <div class="col-lg-8">
-                <form method="GET" action="<?php echo htmlspecialchars($page_url('blogs_srinivasa_multispeciality_dental_hospital.php')); ?>" class="d-flex gap-2">
+                <form method="GET" action="blogs_srinivasa_multispeciality_dental_hospital.php" class="d-flex gap-2">
                     <?php if (!empty($service)): ?>
                         <input type="hidden" name="service" value="<?php echo htmlspecialchars($service); ?>">
                     <?php endif; ?>
@@ -222,7 +215,7 @@ $category_result = $conn->query($category_sql);
                         ? "admin/uploads/photos/" . htmlspecialchars($featured['main_image'])
                         : "default_image.png";
 
-                    $featured_url = $page_url('fullblog.php?id=') . (!empty($featured['slug'])
+                    $featured_url = "fullblog.php?id=" . (!empty($featured['slug'])
                         ? urlencode($featured['slug'])
                         : $featured['id']);
 
@@ -276,7 +269,7 @@ $category_result = $conn->query($category_sql);
                                 ? "admin/uploads/photos/" . htmlspecialchars($row['main_image'])
                                 : "default_image.png";
 
-                            $final_url = $page_url('fullblog.php?id=') . (!empty($row['slug'])
+                            $final_url = "fullblog.php?id=" . (!empty($row['slug'])
                                 ? urlencode($row['slug'])
                                 : $row['id']);
 
@@ -319,7 +312,7 @@ $category_result = $conn->query($category_sql);
                             if (!empty($service)) $url_parts[] = "service=" . urlencode($service);
                             if (!empty($search)) $url_parts[] = "search=" . urlencode($search);
 
-                            $base_url = $page_url('blogs_srinivasa_multispeciality_dental_hospital.php') . "?" . (count($url_parts) > 0 ? implode("&", $url_parts) . "&" : "");
+                            $base_url = "blogs_srinivasa_multispeciality_dental_hospital.php?" . (count($url_parts) > 0 ? implode("&", $url_parts) . "&" : "");
 
                             for ($p = 1; $p <= $total_pages; $p++) {
                                 $active_class = ($p == $page) ? 'active' : '';
@@ -376,7 +369,7 @@ $category_result = $conn->query($category_sql);
                                 ? "admin/uploads/photos/" . htmlspecialchars($p_row['main_image'])
                                 : "default_image.png";
 
-                            $p_url = $page_url('fullblog.php?id=') . (!empty($p_row['slug'])
+                            $p_url = "fullblog.php?id=" . (!empty($p_row['slug'])
                                 ? urlencode($p_row['slug'])
                                 : $p_row['id']);
 
@@ -401,7 +394,7 @@ $category_result = $conn->query($category_sql);
                         <p>No popular posts available.</p>
                     <?php endif; ?>
 
-                    <a href="<?php echo htmlspecialchars($page_url('blogs_srinivasa_multispeciality_dental_hospital.php')); ?>">
+                    <a href="blogs_srinivasa_multispeciality_dental_hospital.php">
                         <button class="blogs_section_view_btn">VIEW ALL BLOGS</button>
                     </a>
                 </div>
@@ -409,7 +402,7 @@ $category_result = $conn->query($category_sql);
                 <div class="blogs_section_category_box">
                     <h3>Categories</h3>
 
-                    <a href="<?php echo htmlspecialchars($page_url('blogs_srinivasa_multispeciality_dental_hospital.php')); ?>" style="text-decoration:none;">
+                    <a href="blogs_srinivasa_multispeciality_dental_hospital.php" style="text-decoration:none;">
                         <div class="blogs_section_category_item">
                             <span>All Articles</span>
                             <span><?php echo $total_rows; ?></span>
@@ -418,7 +411,7 @@ $category_result = $conn->query($category_sql);
 
                     <?php if ($category_result && $category_result->num_rows > 0): ?>
                         <?php while ($cat = $category_result->fetch_assoc()): ?>
-                            <a href="<?php echo htmlspecialchars($page_url('blogs_srinivasa_multispeciality_dental_hospital.php?service=' . urlencode($cat['service']))); ?>" style="text-decoration:none;">
+                            <a href="blogs_srinivasa_multispeciality_dental_hospital.php?service=<?php echo urlencode($cat['service']); ?>" style="text-decoration:none;">
                                 <div class="blogs_section_category_item <?php echo ($service == $cat['service']) ? 'active' : ''; ?>">
                                     <span><?php echo htmlspecialchars($cat['service']); ?></span>
                                     <span><?php echo $cat['total']; ?></span>
@@ -431,7 +424,7 @@ $category_result = $conn->query($category_sql);
 
                     <hr>
 
-                    <a href="<?php echo htmlspecialchars($page_url('blogs_srinivasa_multispeciality_dental_hospital.php')); ?>" class="blogs_section_read_more">
+                    <a href="blogs_srinivasa_multispeciality_dental_hospital.php" class="blogs_section_read_more">
                         VIEW ALL CATEGORIES <i class="bi bi-arrow-right ms-1"></i>
                     </a>
                 </div>
@@ -440,4 +433,4 @@ $category_result = $conn->query($category_sql);
     </div>
 </section>
 
-<?php include __DIR__ . '/footer.php'; ?>
+<?php include 'footer.php'; ?>
